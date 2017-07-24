@@ -36,7 +36,7 @@ Sonic Pi allows you to program music. Let's start by playing some simple musical
 
     <div id="audio-preview" class="pdf-hidden">    
     <audio controls preload>
-      <source src="sounds/doorbell-1.mp3" type="audio/mpeg">
+      <source src="resources/doorbell-1.mp3" type="audio/mpeg">
     Your browser does not support the <code>audio</code> element.
     </audio>
     </div>
@@ -48,4 +48,3 @@ Sonic Pi allows you to program music. Let's start by playing some simple musical
     If you're not sure, check with your Club Leader where you should save your file.
 
     You can load files back into Sonic Pi by clicking on 'Load'.
-
