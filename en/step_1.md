@@ -7,7 +7,7 @@ In this project you will program a short tune. It could be used as a doorbell ch
 Click the play button below to hear how the doorbell chime will sound:
 
 <audio controls preload>
-  <source src="volunteer-resources/doorbell.mp3" type="audio/mpeg">
+  <source src="resources/doorbell.mp3" type="audio/mpeg">
 Your browser does not support the <code>audio</code> element.
 </audio>
 
