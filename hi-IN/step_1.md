@@ -1,63 +1,63 @@
-## Introduction
+## परिचय
 
-In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
+इस प्रोजेक्ट में आप एक छोटी धुन प्रोग्राम करेंगे। इसका उपयोग डोरबेल की झंकार, मोबाइल फोन की रिंगटोन, आपके कंप्यूटर पर किसी चेतावनी सूचना या किसी वेब पेज में शामिल करने के रूप में किया जा सकता है।
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  डोरबेल की झंकार कैसी सुनाई देगी यह सुनने के लिए नीचे दिए गए प्ले (चलाएँ) बटन पर क्लिक करें: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
 </div>
 
-### Additional information for club leaders
+### क्लब लीडरों के लिए अतिरिक्त जानकारी
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+यदि आप इस प्रोजेक्ट को प्रिंट करना चाहते हैं, तो कृपया [प्रिंटर अनुकूल संस्करण](https://projects.raspberrypi.org/en/projects/compose-tune/print) का उपयोग करें।
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: क्लब लीडर की टिप्पणियाँ
 
-## Introduction:
+## परिचय:
 
-In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
+इस प्रोजेक्ट में, बच्चे यह सीखने के लिए एक डोरबेल की झंकार को प्रोग्राम करेंगे कि किस प्रकार संख्याओं का उपयोग करके संगीत के स्वरों को बजाया जाए और स्वरों को दोहराने के लिए पुनरावृत्ति का उपयोग किया जाए।
 
-## Resources
+## संसाधन
 
-The 'Project Materials' link for this project contains the following resources:
+इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक में निम्नलिखित संसाधन सम्मिलित हैं:
 
-##### Club leader Resources
+##### क्लब लीडर संसाधन
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+आप इस प्रोजेक्ट के लिए 'प्रोजेक्ट सामग्री' लिंक पर क्लिक करके इस प्रोजेक्ट का पूर्ण संस्करण पा सकते हैं, जिसमें निम्न शामिल हैं:
 
 * doorbell.txt
 * doorbell.mp3
 
-## Learning Objectives
+## सीखने के उद्देश्य
 
-* Playing musical notes using midi numbers
-* Repetition
+* Midi स्वरों का उपयोग करके संगीत के सुरों को बजाना
+* दोहराना
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्व सम्मिलित हैं:
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## चुनौतियाँ
 
-* "Improve the chime" - try using different notes and timings to improve the doorbell chime.
-* "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
-* "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
+* "झंकार में सुधार करना" - डोरबेल की झंकार को बेहतर बनाने के लिए विभिन्न सुरों और समयों का उपयोग करने का प्रयास करें।
+* "4 बार दोहराना" - डोरबेल को सचमुच परेशान करने वाली बनाने के लिए इसकी झंकार 4 बार दोहराएँ!
+* "एक नई धुन की रचना करना" - एक नई धुन जैसे कि मोबाइल फ़ोन की रिंगटोन बनाने के लिए सीखे गए कौशल का उपयोग करें।
 
-## Frequently Asked Questions
+## अक्सर पूछे जाने वाले सवाल
 
-* The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
-* On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
+* इस्तेमाल की गई संख्याएँ Midi संख्याएँ हैं, 21 से 108 तक की संख्याएँ पियानो के सुरों के समान हैं।
+* Raspberry Pi पर आप `.wav` फ़ाइलें चलाने के लिए कमांड लाइन से `aplay` का उपयोग कर सकते हैं।
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: प्रोजेक्ट सामग्री
 
-## Club leader resources
+## क्लब लीडर संसाधन
 
-* [Downloadable completed Sonic Pi project](resources/doorbell.txt)
-* [Downloadable completed project mp3 file](resources/doorbell.mp3)
+* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi प्रोजेक्ट](resources/doorbell.txt)
+* [डाउनलोड करने योग्य पूर्ण की गई प्रोजेक्ट mp3 फ़ाइल](resources/doorbell.mp3)
 
 \--- /collapse \---
