@@ -1,21 +1,21 @@
-## Repeat the chime
+## झंकार को दोहराना
 
-Doorbells often repeat the chime.
+डोरबेल में झंकार कोअक्सर दोहराते हैं।
 
-+ Let's put the doorbell chime into a loop:
++ आइए हम डोरबेल की झंकार को एक लूप में डालें:
     
-    ![screenshot](images/tune-times.png)
+    ![स्क्रीनशॉट](images/tune-times.png)
     
-    Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
+    Sonic Pi डोरबेल की झंकार के कोड को `times` लूप के भीतर इंडेंट करने में मदद करेगा।
 
-+ Listen to the chime. Is it what you expected?
++ झंकार को सुनें। क्या यह वही है जिसकी आपको उम्मीद थी?
     
-    You'll need to add a `sleep` line at the end so that there's a pause before repeating:
+    आपको अंत में एक `sleep` पंक्ति जोड़नी होगी ताकि दोहराने से पहले एक विराम हो:
     
-    ![screenshot](images/tune-sleep2.png)
+    ![स्क्रीनशॉट](images/tune-sleep2.png)
 
-+ Listen to the chime again and it should sound better.
++ झंकार को फिर से सुनें और आवाज़ बेहतर होनी चाहिए।
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
     </div>
