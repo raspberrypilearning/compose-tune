@@ -1,42 +1,42 @@
-## Play your first notes
+## अपने पहले स्वर बजाना
 
-Sonic Pi allows you to program music. Let's start by playing some simple musical notes.
+Sonic Pi से आप संगीत प्रोग्राम कर सकते हैं। आइए हम कुछ सरल संगीत स्वरों को चलाकर शुरू करें।
 
-+ Run Sonic Pi. Your Club Leader will be able to tell you where to find it. If you're using a Raspberry Pi then it's under Programming on the menu.
++ Sonic Pi चलाना। आपका क्लब लीडर आपको बता सकेगा कि इसे कहाँ खोजना है। यदि आप Raspberry Pi का उपयोग कर रहे हैं तो यह मेनू में प्रोग्रामिंग के अंतर्गत है।
     
-    ![screenshot](images/tune-GUI.png)
+    ![स्क्रीनशॉट](images/tune-GUI.png)
 
-+ See where it says '#Welcome to Sonic Pi'? Below there type:
++ देखें कि यह '#Welcome to Sonic Pi' कहाँ पर कहता है? उसके नीचे टाइप करें:
     
-    ![screenshot](images/tune-play.png)
+    ![स्क्रीनशॉट](images/tune-play.png)
 
-+ Click 'Run'. Did you hear a musical note? If not, make sure that the sound isn't muted on your computer and that the volume is high enough. If the sound is too loud turn it down.
++ 'Run' (चलाएँ) पर क्लिक करें। क्या आपको संगीत का कोई स्वर सुनाई दिया है? यदि नहीं, तो सुनिश्चित करें कि आपके कंप्यूटर पर ध्वनि को म्यूट नहीं किया गया है और यह कि वॉल्यूम पर्याप्त रूप से अधिक है। अगर आवाज़ बहुत तेज़ है तो उसे कम कर दें।
     
-    If you're using a Raspberry Pi then make sure you are using either an HDMI monitor with speakers or have speakers or headphones connected to the audio jack.
+    यदि आप Raspberry Pi का उपयोग कर रहे हैं, तो सुनिश्चित करें कि आप स्पीकर के साथ HDMI मॉनिटर का उपयोग कर रहे हैं या स्पीकर या हेडफ़ोन ऑडियो जैक से जुड़े हैं।
     
-    There's also a volume setting under 'Prefs' that you can adjust.
+    'Prefs' के अंतर्गत एक वॉल्यूम सेटिंग भी है जिसे आप समायोजित कर सकते हैं।
 
-+ Now add another line below your first one:
++ अब अपनी पहले वाली पंक्ति के नीचे एक और पंक्ति जोड़ें:
     
-    ![screenshot](images/tune-play2.png)
+    ![स्क्रीनशॉट](images/tune-play2.png)
 
-+ Click 'Run'. Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
++ 'Run' (चलाएँ) पर क्लिक करें। क्या आपको वह सुनाई दिया जिसकीआप उम्मीद कर रहे थे? Sonic Pi में, `play` का मतलब है कि चलाना शुरू करें, इसलिए यह पहला स्वर चलाना शुरू कर देता है और फिर तुरंत दूसरा स्वर चलाना शुरू कर देता है ताकि आप दोनों स्वर एक ही समय पर सुन सकें।
 
-+ To get the second note to play after the first note add a `sleep 1` line in between so that your code looks like this:
++ दूसरे स्वर को पहले स्वर के बाद चलाने के लिए इन दोनों के बीच `sleep 1` पंक्ति जोड़ें ताकि आपका कोड इस तरह दिखे:
     
-    ![screenshot](images/tune-sleep.png)
+    ![स्क्रीनशॉट](images/tune-sleep.png)
 
-+ Now run your code and it should sound like a doorbell chime.
++ अब अपना कोड चलाएँ और यह एक डोरबेल की झंकार की तरह बजना चाहिए।
     
-    Listen and you should hear a higher note and then a lower one. Higher notes have higher numbers.
+    सुनें और आपको पहले उच्च स्वर सुनाई देगा और फिर निम्न स्वर। उच्च स्वरों की संख्या बड़ी होती है।
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। </audio>
     </div>
-+ Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
++ 'सहेजें' पर क्लिक करके अपना कोड सहेजें और अपनी फ़ाइल का नाम 'doorbell.txt' रखें।
     
-    ![screenshot](images/tune-save.png)
+    ![स्क्रीनशॉट](images/tune-save.png)
     
-    If you're not sure, check with your Club Leader where you should save your file.
+    यदि आप निश्चित नहीं हैं, तो अपने क्लब लीडर से पता करें कि आपको अपनी फ़ाइल को कहाँ सहेजना चाहिए।
     
-    You can load files back into Sonic Pi by clicking on 'Load'.
+    आप 'लोड' पर क्लिक करके फ़ाइलों को वापस Sonic Pi में लोड कर सकते हैं।
