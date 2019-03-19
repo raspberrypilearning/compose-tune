@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Repeat 4 times
+## चुनौती: 4 बार दोहराना
 
-Can you make the doorbell repeat 4 times to be really annoying!
+क्या डोरबेल को सचमुच परेशान करने वाली बनाने के लिए आप इसकी झंकार को 4 बार दोहरा सकते हैं!
 
 \--- /challenge \---
