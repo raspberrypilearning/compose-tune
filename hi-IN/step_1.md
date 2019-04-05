@@ -12,7 +12,7 @@
 
 ## \--- collapse \---
 
-## title: क्लब लीडर की टिप्पणियाँ
+## title: क्लब नेता नोट्स
 
 ## परिचय:
 
@@ -29,12 +29,12 @@
 * doorbell.txt
 * doorbell.mp3
 
-## सीखने के उद्देश्य
+## अध्ययन के उद्देश्य
 
 * Midi स्वरों का उपयोग करके संगीत के सुरों को बजाना
 * दोहराना
 
-इस प्रोजेक्ट में [Raspberry Pi डिजिटल निर्माण पाठ्यक्रम](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्व सम्मिलित हैं:
+इस प्रोजेक्ट में [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) के निम्नलिखित पहलुओं के तत्वों को शामिल किया गया है:
 
 * [सरल प्रोग्राम बनाने के लिए आधारभूत संरचनाओं का उपयोग करें।](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -57,7 +57,7 @@
 
 ## क्लब लीडर संसाधन
 
-* [डाउनलोड करने योग्य पूर्ण की गई Sonic Pi प्रोजेक्ट](resources/doorbell.txt)
-* [डाउनलोड करने योग्य पूर्ण की गई प्रोजेक्ट mp3 फ़ाइल](resources/doorbell.mp3)
+* [डाउनलोड करने योग्य पूर्ण Sonic Pi प्रोजेक्ट](resources/doorbell.txt)
+* [डाउनलोड करने योग्य पूर्ण प्रोजेक्ट mp3 फ़ाइल](resources/doorbell.mp3)
 
 \--- /collapse \---
