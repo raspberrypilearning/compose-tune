@@ -6,4 +6,4 @@ Try choosing different numbers for the notes. Numbers 21 to 108 correspond to th
 
 Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
 
-\--- /challenge \---
+\--- /thử thách \---
