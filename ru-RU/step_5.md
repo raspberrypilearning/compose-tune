@@ -1,4 +1,4 @@
-\--- challenge \---
+скриншот
 
 ## Challenge: Repeat 4 times
 
