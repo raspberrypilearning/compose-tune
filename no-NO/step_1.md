@@ -1,4 +1,4 @@
-## Introduction
+## Introduksjon
 
 In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
 
@@ -6,19 +6,19 @@ In this project you will program a short tune. It could be used as a doorbell ch
   Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Additional information for club leaders
+### Tilleggsinformasjon for klubbledere
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
-## \--- collapse \---
+## \--- kollaps \---
 
 ## title: Club leader notes
 
-## Introduction:
+## Introduksjon:
 
 In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
 
-## Resources
+## Ressurser
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -49,9 +49,9 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
 * On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
 
-\--- /collapse \---
+\--- / kollaps \---
 
-## \--- collapse \---
+## \--- kollaps \---
 
 ## title: Project materials
 
@@ -60,4 +60,4 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * [Downloadable completed Sonic Pi project](resources/doorbell.txt)
 * [Downloadable completed project mp3 file](resources/doorbell.mp3)
 
-\--- /collapse \---
+\--- / kollaps \---
