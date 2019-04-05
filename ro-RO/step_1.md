@@ -1,4 +1,4 @@
-## Introduction
+## Introducere
 
 In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
 
@@ -6,39 +6,39 @@ In this project you will program a short tune. It could be used as a doorbell ch
   Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Additional information for club leaders
+### Informații suplimentare pentru conducătorii e club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+Dacă aveți nevoie să imprimați acest proiect, vă rugăm să folosiți versiunea [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Note pentru conducătorul clubului
 
-## Introduction:
+## Introducere:
 
 In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
 
-## Resources
+## Resurse
 
-The 'Project Materials' link for this project contains the following resources:
+Link-ul 'Materiale Necesare' pentru acest proiect contine urmatoarele resurse:
 
-##### Club leader Resources
+##### Resusrsele liderului Clubului
 
 You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
 
 * doorbell.txt
 * doorbell.mp3
 
-## Learning Objectives
+## Obiectivele învățării
 
 * Playing musical notes using midi numbers
 * Repetition
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Acest proiect acoperă elemente din următoarele domenii [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Folosește elemente de bază din programare pentru a crea programe simple.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Provocări
 
 * "Improve the chime" - try using different notes and timings to improve the doorbell chime.
 * "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
@@ -49,13 +49,13 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 * The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
 * On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
 
-\--- /collapse \---
+\--- / colaps \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiale pentru proiect
 
-## Club leader resources
+## Resursele liderului clubului
 
 * [Downloadable completed Sonic Pi project](resources/doorbell.txt)
 * [Downloadable completed project mp3 file](resources/doorbell.mp3)
