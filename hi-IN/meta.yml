@@ -1,6 +1,6 @@
 ---
 hero_image: images/compose-tune.png
-theme: लाल
+theme: red
 duration: 2
 listed: true
 ingredient: false
@@ -18,16 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: परिचय
+    title: भूमिका
   - 
-    title: अपने पहले स्वर बजाएँ
+    title: अपने पहले स्वर बजाना
   - 
     title: 'चुनौती: झंकार में सुधार करना'
   - 
     title: झंकार को दोहराना
   - 
-    title: 'चुनौती: 4 बार दोहराएँ'
+    title: 'चुनौती: 4 बार दोहराना'
   - 
-    title: अपनी झंकार की रिकॉर्डिंग करना
+    title: अपनी झंकार को रिकॉर्ड करना
   - 
     title: 'चुनौती: एक नई धुन की रचना करना'
