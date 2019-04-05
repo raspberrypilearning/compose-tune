@@ -31,7 +31,7 @@ Sonic Pi allows you to program music. Let's start by playing some simple musical
     Listen and you should hear a higher note and then a lower one. Higher notes have higher numbers.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
 + Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
     
