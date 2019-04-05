@@ -18,13 +18,13 @@ Sonic Pi allows you to program music. Let's start by playing some simple musical
 
 + Now add another line below your first one:
     
-    ![screenshot](images/tune-play2.png)
+    ![schermata](images/tune-play2.png)
 
 + Click 'Run'. Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
 
 + To get the second note to play after the first note add a `sleep 1` line in between so that your code looks like this:
     
-    ![screenshot](images/tune-sleep.png)
+    ![schermata](images/tune-sleep.png)
 
 + Now run your code and it should sound like a doorbell chime.
     
@@ -35,7 +35,7 @@ Sonic Pi allows you to program music. Let's start by playing some simple musical
     </div>
 + Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
     
-    ![screenshot](images/tune-save.png)
+    ![schermata](images/tune-save.png)
     
     If you're not sure, check with your Club Leader where you should save your file.
     
