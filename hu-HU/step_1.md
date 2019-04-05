@@ -1,4 +1,4 @@
-## Introduction
+## Bevezetés
 
 In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
 
@@ -6,7 +6,7 @@ In this project you will program a short tune. It could be used as a doorbell ch
   Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Additional information for club leaders
+### További információk klubvezetőknek
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
@@ -14,11 +14,11 @@ If you need to print this project, please use the [Printer friendly version](htt
 
 ## title: Club leader notes
 
-## Introduction:
+## Bevezetés:
 
 In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
 
-## Resources
+## Segédanyagok
 
 The 'Project Materials' link for this project contains the following resources:
 
