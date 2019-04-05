@@ -4,7 +4,7 @@ Doorbells often repeat the chime.
 
 + Let's put the doorbell chime into a loop:
     
-    ![screenshot](images/tune-times.png)
+    ![скріншот](images/tune-times.png)
     
     Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
 
