@@ -4,7 +4,7 @@ Now let's record the doorbell chime so that you can play it outside of Sonic Pi.
 
 + Click on the 'Rec' button to start recording.
     
-    ![screenshot](images/tune-record.png)
+    ![képernyőkép](images/tune-record.png)
 
 + Then click 'Run' to play your doorbell chime.
     
