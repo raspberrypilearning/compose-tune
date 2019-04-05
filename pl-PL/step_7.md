@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- wyzwanie \---
 
 ## Challenge: Compose a new tune
 
