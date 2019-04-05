@@ -5,20 +5,20 @@ duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: creator, design-0, programming-2, phys-comp-0, manufacture-0, community-0
 title: Compose your own tune
 description: Use Sonic Pi to create a cool doorbell chime
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
-interests: music
+interests: מוסיקה
 technologies: ''
-site_areas: projects
+site_areas: פרויקטים
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: מבוא
   - 
     title: Play your first notes
   - 
