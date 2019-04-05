@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- завдання \---
 
 ## Challenge: Repeat 4 times
 
