@@ -49,7 +49,7 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 * Die verwendeten Nummern sind Midi-Nummern, die Nummern 21 bis 108 entsprechen den Noten am Klavier.
 * Auf dem Raspberry Pi können Sie `aplay` von der Befehlszeile aus verwenden, um `.wav` Dateien abzuspielen.
 
-\--- /collapse \---
+\--- /collapse\---
 
 ## \--- collapse \---
 
