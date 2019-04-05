@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- meydan okuma \---
 
 ## Challenge: Repeat 4 times
 
