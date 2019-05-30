@@ -2,6 +2,8 @@
 
 Mit Sonic Pi können Sie Musik programmieren. Beginnen wir mit ein paar einfachen Noten.
 
+[[[sonic-pi-install]]]
+
 + Führen Sie Sonic Pi aus. Ihr Clubleiter kann Ihnen sagen, wo Sie ihn finden können. Wenn Sie einen Raspberry Pi verwenden, finden Sie im Menü Programmierung.
     
     ![Screenshot](images/tune-GUI.png)
