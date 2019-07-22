@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve the chime
+## Provocare: Îmbunătățiți soneria
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+Încercați să alegeți numere diferite pentru note. Numerele de la 21 la 108 corespund notelor de pe pian. Experimentați pentru a afla ce note doriți.
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+Este prima notă din soneria prea mult timp? Încercați să schimbați somnul la 0,75 sau 0,5.
 
 \--- /challenge \---
