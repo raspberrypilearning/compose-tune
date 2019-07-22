@@ -1,44 +1,44 @@
-## Play your first notes
+## Redați primele note
 
-Sonic Pi allows you to program music. Let's start by playing some simple musical notes.
+Sonic Pi vă permite să programați muzică. Să începem să jucăm niște note muzicale simple.
 
 [[[sonic-pi-install]]]
 
-+ Run Sonic Pi. Your Club Leader will be able to tell you where to find it. If you're using a Raspberry Pi then it's under Programming on the menu.
++ Fugiți Sonic Pi. Liderul tău de club vă va spune unde să îl găsiți. Dacă utilizați un Raspberry Pi, atunci este sub Programare din meniu.
     
     ![captură de ecran](images/tune-GUI.png)
 
-+ See where it says '#Welcome to Sonic Pi'? Below there type:
++ Vedeți unde se afișează "#Welcome to Sonic Pi"? Mai jos scrieți tipul:
     
     ![captură de ecran](images/tune-play.png)
 
-+ Click 'Run'. Did you hear a musical note? If not, make sure that the sound isn't muted on your computer and that the volume is high enough. If the sound is too loud turn it down.
++ Faceți clic pe "Executare". Ai auzit o notă muzicală? Dacă nu, asigurați-vă că sunetul nu este dezactivat pe computer și că volumul este suficient de ridicat. Dacă sunetul este prea puternic, opriți-l.
     
-    If you're using a Raspberry Pi then make sure you are using either an HDMI monitor with speakers or have speakers or headphones connected to the audio jack.
+    Dacă utilizați un Raspberry Pi, asigurați-vă că utilizați fie un monitor HDMI cu difuzoare, fie au difuzoare sau căști conectate la mufa audio.
     
-    There's also a volume setting under 'Prefs' that you can adjust.
+    Există, de asemenea, o setare a volumului în "Prefs" pe care o puteți ajusta.
 
-+ Now add another line below your first one:
++ Acum, adăugați o altă linie sub prima dvs.:
     
     ![captură de ecran](images/tune-play2.png)
 
-+ Click 'Run'. Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
++ Faceți clic pe "Executare". Ai auzit ce astepti? În Sonic Pi, `joaca` mijloc de a începe redarea, așa că începe să joace prima notă și apoi începe imediat redarea a doua notă , astfel încât să auziți ambele note în același timp.
 
-+ To get the second note to play after the first note add a `sleep 1` line in between so that your code looks like this:
++ Pentru a obține cea de-a doua notă pentru a reda după prima notă, adăugați o linie între `1` , astfel încât codul dvs. să arate astfel:
     
     ![captură de ecran](images/tune-sleep.png)
 
-+ Now run your code and it should sound like a doorbell chime.
++ Acum rulați codul dvs. și ar trebui să sune ca un sunet de sunet.
     
-    Listen and you should hear a higher note and then a lower one. Higher notes have higher numbers.
+    Ascultați și ar trebui să auziți o notă mai mare și apoi una mai mică. Notele mai mari au numere mai mari.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Browserul dvs. nu acceptă elementul <code>audio</code>. </audio>
     </div>
-+ Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
++ Salvați codul dând clic pe "Salvați" și denumiți fișierul "doorbell.txt".
     
     ![captură de ecran](images/tune-save.png)
     
-    If you're not sure, check with your Club Leader where you should save your file.
+    Dacă nu sunteți sigur, contactați-vă pe Club Leader unde să salvați fișierul.
     
-    You can load files back into Sonic Pi by clicking on 'Load'.
+    Puteți încărca fișierele înapoi în Sonic Pi făcând clic pe "Încărcare".
