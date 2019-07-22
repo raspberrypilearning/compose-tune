@@ -1,23 +1,23 @@
-## Recording your chime
+## Înregistrarea soneriei
 
-Now let's record the doorbell chime so that you can play it outside of Sonic Pi. Sonic Pi can create `wav` files which are commonly used sound files.
+Acum, să înregistrăm sunetul soneriei pentru a putea juca în afara lui Sonic Pi. Sonic Pi poate crea `wav` fișiere care sunt utilizate în mod obișnuit de fișiere de sunet.
 
-+ Click on the 'Rec' button to start recording.
++ Faceți clic pe butonul "Rec" pentru a începe înregistrarea.
     
     ![captură de ecran](images/tune-record.png)
 
-+ Then click 'Run' to play your doorbell chime.
++ Apoi, dați clic pe "Executare" pentru a reda sunetul soneriei.
     
     ![captură de ecran](images/tune-run.png)
 
-+ When it finishes click 'Rec' again to stop recording and you will be prompted for a filename. Call your file 'doorbell.wav'.
++ Când se termină, faceți din nou clic pe "Rec" pentru a opri înregistrarea și vi se va solicita un nume de fișier. Sunați-vă fișierul "doorbell.wav".
     
     ![captură de ecran](images/tune-record-stop.png)
 
-+ If you have a program that can play '.wav' files then you'll be able to play your doorbell chime outside of Sonic Pi.
++ Dacă aveți un program care poate reda fișiere ".wav", atunci veți putea să vă jucați sunetul soneriei în afara sonic Pi.
     
-    Tip: If you don't have another program that can play '.wav' files then you could import the sound into Scratch and play it.
+    Sfat: dacă nu aveți un alt program care să poată reda fișierele .wav, puteți să importați sunetul în Scratch și să îl redați.
     
     ![captură de ecran](images/scratch-upload.png)
     
-    Tip: You may need to close Sonic Pi to be able to play sound using another app.
+    Sfat: Este posibil să fie necesar să închideți Sonic Pi pentru a putea reda sunet utilizând altă aplicație.
