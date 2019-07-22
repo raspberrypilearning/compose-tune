@@ -1,21 +1,21 @@
-## Repeat the chime
+## Repetați soneria
 
-Doorbells often repeat the chime.
+Clopotele de multe ori repetă soneria.
 
-+ Let's put the doorbell chime into a loop:
++ Să punem clopoțelul într-o buclă:
     
     ![captură de ecran](images/tune-times.png)
     
-    Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
+    Sonic Pi va acorda un ajutor pentru codul soneriei în interiorul bucla de `ori`.
 
-+ Listen to the chime. Is it what you expected?
++ Ascultă sonorul. Așa te aștepți?
     
-    You'll need to add a `sleep` line at the end so that there's a pause before repeating:
+    Va trebui să adăugați un `de somn` linie la sfârșitul anului, astfel încât există o pauză înainte de a repeta:
     
     ![captură de ecran](images/tune-sleep2.png)
 
-+ Listen to the chime again and it should sound better.
++ Ascultați zgomotul din nou și ar trebui să sune mai bine.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Browserul dvs. nu acceptă elementul <code>audio</code>. </audio>
     </div>
