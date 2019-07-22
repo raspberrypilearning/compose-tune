@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Compose a new tune
+## Provocare: Compuneți o nouă melodie
 
-Now take what you've learnt and compose your own tune. It could be a doorbell chime, mobile ringtone or notification.
+Acum ia ceea ce ai învățat și compune-ți propria melodie. Ar putea fi un sunet de sonerie, un ton de apel mobil sau o notificare.
 
-Use `play`, `sleep` and `times` to create your own more interesting tune.
+Utilizați `joacă`, `somn` și `ori` pentru a crea o melodie mai interesantă.
 
-Remember, higher numbers play higher notes and numbers 21 to 108 correspond to the notes on the piano.
+Rețineți că numerele mai mari joacă note mai mari, iar numerele de la 21 la 108 corespund notelor de pe pian.
 
-You can also record your tune as a '.wav' file.
+De asemenea, puteți înregistra melodia dvs. ca fișier ".wav".
 
 \--- /challenge \---
