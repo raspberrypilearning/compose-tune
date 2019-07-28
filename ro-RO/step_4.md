@@ -1,4 +1,4 @@
-## Repetați soneria
+## Repetă soneria
 
 Clopotele de multe ori repetă soneria.
 
