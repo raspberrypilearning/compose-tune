@@ -1,14 +1,14 @@
 ## Introducere
 
-În acest proiect veți programa o melodie scurtă. Poate fi folosit ca sonerie, un sunet de telefon mobil, o notificare de alertă pe computer sau inclusă într-o pagină web.
+În acest proiect vei programa o melodie scurtă. Poate fi folosită pentru sonerie, ca sunet de apel pentru telefonul mobil, o notificare pe computer sau inclusă într-o pagină web.
 
 <div id="audio-preview" class="pdf-hidden">
-  Faceți clic pe butonul de redare de mai jos pentru a asculta sunetul soneriei: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Browserul dvs. nu acceptă elementul <code>audio</code>. </audio>
+  Fă clic pe butonul de redare de mai jos pentru a asculta sunetul soneriei: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Browserul tău nu acceptă elementul <code>audio</code>. </audio>
 </div>
 
-### Informații suplimentare pentru conducătorii e club
+### Informații suplimentare pentru conducătorii de club
 
-Dacă aveți nevoie să imprimați acest proiect, vă rugăm să folosiți versiunea [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+Dacă trebuie să printezi acest proiect, folosește te rog [versiunea printabilă](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
