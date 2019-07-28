@@ -22,20 +22,20 @@ Sonic Pi îți permite să programezi muzică. Să începem prin redarea unor no
     
     ![captură de ecran](images/tune-play2.png)
 
-+ Fă clic pe "Run". Ai auzit ceea ce așteptai? În Sonic Pi, `joaca` mijloc de a începe redarea, așa că începe să joace prima notă și apoi începe imediat redarea a doua notă , astfel încât să auziți ambele note în același timp.
++ Fă clic pe "Run". Ai auzit ceea ce așteptai? În Sonic Pi, `play` înseamnă pornește redarea, așa că va începe să redea prima notă și apoi începe imediat redarea celei de-a doua note, astfel încât vei auzi ambele note în același timp.
 
-+ Pentru a obține cea de-a doua notă pentru a reda după prima notă, adăugați o linie între `1` , astfel încât codul dvs. să arate astfel:
++ Pentru a face ca a doua notă să fie redată după prima, adaugă o linie `sleep 1` între cele două note, astfel încât codul tău să arate astfel:
     
     ![captură de ecran](images/tune-sleep.png)
 
-+ Acum rulați codul dvs. și ar trebui să sune ca un sunet de sunet.
++ Acum execută codul și ar trebui să sune ca o sonerie.
     
-    Ascultați și ar trebui să auziți o notă mai mare și apoi una mai mică. Notele mai mari au numere mai mari.
+    Ascultă și ar trebui să auzi o notă mai înaltă și apoi una mai joasă. Notele mai mari au numere mai mari.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Browserul dvs. nu acceptă elementul <code>audio</code>. </audio>
+      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Browserul tău nu acceptă elementul <code>audio</code>. </audio>
     </div>
-+ Salvați codul dând clic pe "Salvați" și denumiți fișierul "doorbell.txt".
++ Salvează codul dând clic pe 'Save' și denumește fișierul 'doorbell.txt'.
     
     ![captură de ecran](images/tune-save.png)
     
