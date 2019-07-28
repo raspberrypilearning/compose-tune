@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Provocare: Compuneți o nouă melodie
+## Provocare: Compune o nouă melodie
 
-Acum ia ceea ce ai învățat și compune-ți propria melodie. Ar putea fi un sunet de sonerie, un ton de apel mobil sau o notificare.
+Acum folosește ceea ce ai învățat și compune-ți propria melodie. Ar putea fi un sunet de sonerie, un ton de apel pentru telefonul mobil sau o notificare.
 
-Utilizați `joacă`, `somn` și `ori` pentru a crea o melodie mai interesantă.
+Folosește `play`, `sleep` și `times` pentru a crea o melodie mai interesantă.
 
-Rețineți că numerele mai mari joacă note mai mari, iar numerele de la 21 la 108 corespund notelor de pe pian.
+Reține că numerele mai mari redau note mai înalte, iar numerele de la 21 la 108 corespund notelor unui pian.
 
-De asemenea, puteți înregistra melodia dvs. ca fișier ".wav".
+De asemenea, poți înregistra melodia ta ca fișier ".wav".
 
 \--- /challenge \---
