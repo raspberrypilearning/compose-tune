@@ -1,16 +1,16 @@
 ## Înregistrarea soneriei
 
-Acum, să înregistrăm sunetul soneriei pentru a putea juca în afara lui Sonic Pi. Sonic Pi poate crea `wav` fișiere care sunt utilizate în mod obișnuit de fișiere de sunet.
+Acum, să înregistrăm sunetul soneriei pentru a-l putea reda în afara Sonic Pi. Sonic Pi poate crea fișiere `wav` care sunt fișiere de sunet utilizate în mod frecvent.
 
-+ Faceți clic pe butonul "Rec" pentru a începe înregistrarea.
++ Fă clic pe butonul "Rec" pentru a începe înregistrarea.
     
     ![captură de ecran](images/tune-record.png)
 
-+ Apoi, dați clic pe "Executare" pentru a reda sunetul soneriei.
++ Apoi, dă clic pe "Run" pentru a reda sunetul soneriei.
     
     ![captură de ecran](images/tune-run.png)
 
-+ Când se termină, faceți din nou clic pe "Rec" pentru a opri înregistrarea și vi se va solicita un nume de fișier. Sunați-vă fișierul "doorbell.wav".
++ Când se termină, fă din nou clic pe "Rec" pentru a opri înregistrarea și ți se va solicita un nume de fișier. Sunați-vă fișierul "doorbell.wav".
     
     ![captură de ecran](images/tune-record-stop.png)
 
