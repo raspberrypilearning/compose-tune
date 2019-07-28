@@ -16,15 +16,15 @@ Dacă trebuie să printezi acest proiect, folosește te rog [versiunea printabil
 
 ## Introducere:
 
-În acest proiect, copiii vor programa un sunet sonor pentru a afla cum să joace note muzicale folosind numere și să repete repetarea notelor.
+În acest proiect, copiii vor programa un sunet de sonerie pentru a învăța să redea note muzicale folosind numere și să folosească iterațiile pentru repetarea notelor.
 
 ## Resurse
 
 Link-ul 'Materiale Necesare' pentru acest proiect contine urmatoarele resurse:
 
-##### Resusrsele liderului Clubului
+##### Resursele liderului Clubului
 
-Puteți găsi o versiune completă a acestui proiect făcând clic pe link-ul "Materiale de proiect" pentru acest proiect, care conține:
+Puteți găsi o versiune finalizată a acestui proiect făcând clic pe link-ul "Materiale de proiect", care conține:
 
 * doorbell.txt
 * doorbell.mp3
