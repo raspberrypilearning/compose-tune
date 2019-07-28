@@ -1,16 +1,16 @@
 ## Repetă soneria
 
-Clopotele de multe ori repetă soneria.
+Soneriile de la ușă de multe ori repetă sunetul.
 
-+ Să punem clopoțelul într-o buclă:
++ Să punem sunetul într-o buclă:
     
     ![captură de ecran](images/tune-times.png)
     
-    Sonic Pi va acorda un ajutor pentru codul soneriei în interiorul bucla de `ori`.
+    Sonic Pi te va ajuta prin indentarea (decalarea spre dreapta) codului pentru sonerie în interiorul buclei `times`.
 
-+ Ascultă sonorul. Așa te aștepți?
++ Ascultă sunetul. Este ceea ce așteptai?
     
-    Va trebui să adăugați un `de somn` linie la sfârșitul anului, astfel încât există o pauză înainte de a repeta:
+    Va trebui să adaugi o linie `sleep` la sfârșit, astfel încât să existe o pauză înainte de repetare:
     
     ![captură de ecran](images/tune-sleep2.png)
 
