@@ -14,8 +14,8 @@ Soneriile de la ușă de multe ori repetă sunetul.
     
     ![captură de ecran](images/tune-sleep2.png)
 
-+ Ascultați zgomotul din nou și ar trebui să sune mai bine.
++ Ascultă soneria din nou și ar trebui să sune mai bine.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Browserul dvs. nu acceptă elementul <code>audio</code>. </audio>
+      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Browserul tău nu acceptă elementul <code>audio</code>. </audio>
     </div>
