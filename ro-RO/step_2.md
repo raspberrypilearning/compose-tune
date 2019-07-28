@@ -39,6 +39,6 @@ Sonic Pi îți permite să programezi muzică. Să începem prin redarea unor no
     
     ![captură de ecran](images/tune-save.png)
     
-    Dacă nu sunteți sigur, contactați-vă pe Club Leader unde să salvați fișierul.
+    Dacă nu ești sigur, verifică cu liderul clubului unde să salvezi fișierul.
     
-    Puteți încărca fișierele înapoi în Sonic Pi făcând clic pe "Încărcare".
+    Poți încărca fișierele înapoi în Sonic Pi făcând clic pe "Load".
