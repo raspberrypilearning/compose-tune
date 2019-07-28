@@ -10,14 +10,14 @@ Acum, să înregistrăm sunetul soneriei pentru a-l putea reda în afara Sonic P
     
     ![captură de ecran](images/tune-run.png)
 
-+ Când se termină, fă din nou clic pe "Rec" pentru a opri înregistrarea și ți se va solicita un nume de fișier. Sunați-vă fișierul "doorbell.wav".
++ Când se termină, fă din nou clic pe "Rec" pentru a opri înregistrarea și ți se va solicita un nume de fișier. Denumește fișierul "doorbell.wav".
     
     ![captură de ecran](images/tune-record-stop.png)
 
-+ Dacă aveți un program care poate reda fișiere ".wav", atunci veți putea să vă jucați sunetul soneriei în afara sonic Pi.
++ Dacă ai un program care poate reda fișiere ".wav", atunci vei putea să redai sunetul soneriei în afara Sonic Pi.
     
-    Sfat: dacă nu aveți un alt program care să poată reda fișierele .wav, puteți să importați sunetul în Scratch și să îl redați.
+    Sfat: dacă nu ai un alt program care să poată reda fișierele.wav, poți să imporți sunetul în Scratch și să îl redai.
     
     ![captură de ecran](images/scratch-upload.png)
     
-    Sfat: Este posibil să fie necesar să închideți Sonic Pi pentru a putea reda sunet utilizând altă aplicație.
+    Sfat: Este posibil să fie necesar să închizi Sonic Pi pentru a putea reda sunete utilizând altă aplicație.
