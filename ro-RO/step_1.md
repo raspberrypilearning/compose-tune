@@ -16,7 +16,7 @@ Dacă trebuie să printezi acest proiect, folosește te rog [versiunea printabil
 
 ## Introducere:
 
-În acest proiect, copiii vor programa un sunet de sonerie pentru a învăța să redea note muzicale folosind numere și să folosească iterațiile pentru repetarea notelor.
+În acest proiect, copiii vor programa un sunet de sonerie pentru a învăța să redea note muzicale folosind numere și să folosească buclele pentru repetarea notelor.
 
 ## Resurse
 
@@ -32,7 +32,7 @@ Puteți găsi o versiune finalizată a acestui proiect făcând clic pe link-ul 
 ## Obiectivele învățării
 
 * Redarea de note muzicale folosind notarea MIDI
-* Iterațiile
+* Repetarea folosind bucle
 
 Acest proiect acoperă elemente din următoarele domenii din [Curriculumul Raspberry Pi Digital Making](http://rpf.io/curriculum):
 
