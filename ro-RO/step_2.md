@@ -12,17 +12,17 @@ Sonic Pi îți permite să programezi muzică. Să începem prin redarea unor no
     
     ![captură de ecran](images/tune-play.png)
 
-+ Fă clic pe "Run". Ai auzit o notă muzicală? Dacă nu, asigurați-vă că sunetul nu este dezactivat pe computer și că volumul este suficient de ridicat. Dacă sunetul este prea puternic, opriți-l.
++ Fă clic pe "Run". Ai auzit o notă muzicală? Dacă nu, asigură-te că sunetul nu este dezactivat pe computer și că volumul este suficient de ridicat. Dacă sunetul este prea puternic, dă-l mai încet.
     
-    Dacă utilizați un Raspberry Pi, asigurați-vă că utilizați fie un monitor HDMI cu difuzoare, fie au difuzoare sau căști conectate la mufa audio.
+    Dacă folosești un Raspberry Pi, asigură-te că ai fie un monitor HDMI cu difuzoare, fie difuzoare sau căști conectate la mufa audio.
     
-    Există, de asemenea, o setare a volumului în "Prefs" pe care o puteți ajusta.
+    De asemenea, există în "Prefs" o setare a volumului pe care o poți ajusta.
 
-+ Acum, adăugați o altă linie sub prima dvs.:
++ Acum, adaugă o altă linie sub prima:
     
     ![captură de ecran](images/tune-play2.png)
 
-+ Faceți clic pe "Executare". Ai auzit ce astepti? În Sonic Pi, `joaca` mijloc de a începe redarea, așa că începe să joace prima notă și apoi începe imediat redarea a doua notă , astfel încât să auziți ambele note în același timp.
++ Fă clic pe "Run". Ai auzit ceea ce așteptai? În Sonic Pi, `joaca` mijloc de a începe redarea, așa că începe să joace prima notă și apoi începe imediat redarea a doua notă , astfel încât să auziți ambele note în același timp.
 
 + Pentru a obține cea de-a doua notă pentru a reda după prima notă, adăugați o linie între `1` , astfel încât codul dvs. să arate astfel:
     
