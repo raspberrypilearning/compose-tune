@@ -31,25 +31,25 @@ Puteți găsi o versiune finalizată a acestui proiect făcând clic pe link-ul 
 
 ## Obiectivele învățării
 
-* Redarea de note muzicale folosind numerele midi
-* Repetiţie
+* Redarea de note muzicale folosind notarea MIDI
+* Iterațiile
 
-Acest proiect acoperă elemente din următoarele domenii [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Acest proiect acoperă elemente din următoarele domenii din [Curriculumul Raspberry Pi Digital Making](http://rpf.io/curriculum):
 
 * [Folosește elemente de bază din programare pentru a crea programe simple.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Provocări
 
-* "Îmbunătățiți zgomotul" - încercați să utilizați note și cronometre diferite pentru a îmbunătăți soneria soneriei.
-* "Repetați de 4 ori" - repetați sunetul soneriei de 4 ori pentru a fi foarte enervant!
-* "Compuneți o melodie nouă" - utilizați abilitățile învățate pentru a programa o melodie nouă, cum ar fi tonul de apel al unui telefon mobil.
+* "Îmbunătățește melodia" - încearcă să utilizezi note și ritmuri diferite pentru a îmbunătăți sunetul soneriei.
+* "Repetă de 4 ori" - repetă sunetul soneriei de 4 ori pentru a fi cu adevărat enervant!
+* "Compune o melodie nouă" - utilizează abilitățile învățate pentru a programa o melodie nouă, cum ar fi tonul de apel al unui telefon mobil.
 
-## întrebări frecvente
+## Întrebări frecvente
 
-* Numerele folosite sunt numerele midi, numerele de la 21 la 108 corespund notelor de pe pian.
-* Pe Raspberry Pi puteți folosi `aplay` din linia de comandă pentru a reda `fișiere .wav`.
+* Numerele folosite sunt note MIDI, numerele de la 21 la 108 corespund notelor de pe pian.
+* Pe Raspberry Pi puteți folosi `aplay` din linia de comandă pentru a reda fișiere `.wav`.
 
-\--- / colaps \---
+\--- /collapse \---
 
 ## \--- collapse \---
 
@@ -57,7 +57,7 @@ Acest proiect acoperă elemente din următoarele domenii [Raspberry Pi Digital M
 
 ## Resursele liderului clubului
 
-* [Proiect realizat de Sonic Pi completat](resources/doorbell.txt)
-* [Descărcabil fișier mp3 descărcat de proiect](resources/doorbell.mp3)
+* [Proiect Sonic Pi finalizat descărcabil](resources/doorbell.txt)
+* [Fișier mp3 descărcabil pentru proiectul finalizat](resources/doorbell.mp3)
 
 \--- /collapse \---
