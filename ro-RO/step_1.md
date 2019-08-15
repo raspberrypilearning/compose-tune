@@ -3,7 +3,7 @@
 În acest proiect vei programa o melodie scurtă. Poate fi folosită pentru sonerie, ca sunet de apel pentru telefonul mobil, o notificare pe computer sau inclusă într-o pagină web.
 
 <div id="audio-preview" class="pdf-hidden">
-  Dă click pe butonul de redare de mai jos pentru a asculta sunetul soneriei: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Browserul tău nu acceptă elementul <code>audio</code>. </audio>
+  Dă click pe butonul de redare de mai jos pentru a asculta sunetul soneriei: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Browser-ul tău nu acceptă elementul <code>audio</code>. </audio>
 </div>
 
 ### Informații suplimentare pentru conducătorii de club
