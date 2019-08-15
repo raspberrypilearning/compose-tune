@@ -6,7 +6,7 @@ Soneriile de la ușă de multe ori repetă sunetul.
     
     ![captură de ecran](images/tune-times.png)
     
-    Sonic Pi te va ajuta prin indentarea (decalarea spre dreapta) codului pentru sonerie în interiorul buclei `times`.
+    Sonic Pi te va ajuta prin indentarea codului pentru sonerie în interiorul buclei `times`.
 
 + Ascultă sunetul. Este ceea ce așteptai?
     
@@ -17,5 +17,5 @@ Soneriile de la ușă de multe ori repetă sunetul.
 + Ascultă soneria din nou și ar trebui să sune mai bine.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Browserul tău nu acceptă elementul <code>audio</code>. </audio>
+      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Browser-ul tău nu acceptă elementul <code>audio</code>. </audio>
     </div>
