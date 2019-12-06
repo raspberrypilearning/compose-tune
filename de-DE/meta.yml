@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Verfassen Sie Ihre eigene Melodie
-description: Verwenden Sie Sonic Pi, um einen coolen Klingelton zu erstellen
+title: Komponiere deine eigene Melodie
+description: Verwende Sonic Pi, um einen coolen Klingelton zu erstellen
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: musik
 technologies: 'sonic pi'
@@ -20,14 +20,14 @@ steps:
   - 
     title: Einleitung
   - 
-    title: Spielen Sie Ihre ersten Noten
+    title: Spiele die ersten Töne
   - 
-    title: 'Herausforderung: Verbessern Sie den Klang'
+    title: 'Herausforderung: Verbessere die Tonfolge'
   - 
-    title: Wiederholen Sie den Klang
+    title: Wiederhole die Tonfolge
   - 
     title: 'Herausforderung: 4 mal wiederholen'
   - 
-    title: Aufnahme Ihres Glockenspiels
+    title: Aufzeichnung deiner Tonfolge
   - 
-    title: 'Herausforderung: Komponiere ein neues Stück'
+    title: 'Herausforderung: Komponiere eine neue Melodie'
