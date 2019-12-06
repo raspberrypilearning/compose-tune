@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Herausforderung: Komponiere ein neues Stück
+## Herausforderung: Komponiere eine neue Melodie
 
-Nehmen Sie jetzt, was Sie gelernt haben, und komponieren Sie Ihre eigene Melodie. Es könnte ein Klingelzeichen sein, ein mobiler Klingelton oder eine Benachrichtigung.
+Nutze jetzt was du bereits gelernt hast, um deine eigene Melodie zu komponieren. Es kann eine Türklingel sein, ein Handy-Klingelton oder ein Benachrichtigungston.
 
-Verwenden Sie `play`, `sleep` und `times` , um Ihr eigenes interessanteres Stück zu erstellen.
+Verwende `play`, `sleep` und `times`, um deine eigene interessantere Melodie zu erstellen.
 
-Beachten Sie, dass höhere Nummern höhere Noten spielen und die Nummern 21 bis 108 den Noten auf dem Klavier entsprechen.
+Beachte dass höhere Nummern höheren Noten entsprechen und die Nummern 21 bis 108 den Noten auf dem Klavier entsprechen.
 
-Sie können Ihr Musikstück auch als .wav-Datei aufnehmen.
+Du kannst deine Melodie auch als .wav-Datei aufnehmen.
 
 \--- /challenge \---
