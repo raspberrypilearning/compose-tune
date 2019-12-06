@@ -1,12 +1,12 @@
 ## Einleitung
 
-In diesem Projekt programmieren Sie eine kurze Melodie. Es kann als Klingelzeichen, als Klingelton für ein Mobiltelefon, als Warnmeldung auf Ihrem Computer oder als Bestandteil einer Webseite verwendet werden.
+In diesem Projekt programmierst du eine kurze Melodie. Diese Melodie kann als Ton einer Türklingel, als Klingelton für ein Mobiltelefon, als Warnmeldung auf dem Computer oder als Hintergrundmusik einer Webseite verwendet werden.
 
 <div id="audio-preview" class="pdf-hidden">
-  Klicken Sie unten auf die Wiedergabeschaltfläche, um zu hören, wie der Klingelton klingelt: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Ihr Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
+  Klicke unten auf die Wiedergabeschaltfläche, um zu hören, wie sich die Türklingel anhört: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Dein Browser unterstützt das <code>Audio-</code> Element nicht. </audio>
 </div>
 
-### Zusätzliche Information für Clubleiter
+### Zusätzliche Informationen für Clubleiter
 
 Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche Version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
@@ -16,7 +16,7 @@ Falls du dieses Projekt ausdrucken musst, verwende bitte die [druckfreundliche V
 
 ## Einleitung:
 
-In diesem Projekt programmieren Kinder einen Türklingel, um zu lernen, wie man anhand von Zahlen Musiknoten spielt und Wiederholungen zur Wiederholung von Noten verwendet.
+In diesem Projekt programmieren Kinder eine Türklingel, um zu lernen, wie man Musiknoten in verschiedenen Tonlagen spielt und Wiederholungen zur Wiederholung von Noten verwendet.
 
 ## Ressourcen
 
@@ -24,14 +24,14 @@ Der Link "Projektmaterialien" für dieses Projekt enthält die folgenden Ressour
 
 ##### Ressourcen für Clubleiter
 
-Sie können eine vollständige Version dieses Projekts finden, indem Sie auf den Link "Projektmaterialien" für dieses Projekt klicken, der Folgendes enthält:
+Eine vollständige Version dieses Projekts ist zu finden, indem Sie auf den Link "Projektmaterialien" für dieses Projekt klicken, der Folgendes enthält:
 
 * doorbell.txt
 * doorbell.mp3
 
 ## Lernziele
 
-* Musiknoten mit Midi-Nummern spielen
+* Musiknoten mittels Midi-Nummern spielen
 * Wiederholung
 
 Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
@@ -40,24 +40,24 @@ Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making
 
 ## Herausforderungen
 
-* "Verbessern Sie den Klingelton" - Versuchen Sie es mit verschiedenen Noten und Timings, um den Klingelton zu verbessern.
-* "4-mal wiederholen" - Lassen Sie den Klingelton 4-mal wiederholen, um wirklich nervig zu sein!
-* "Komponieren Sie eine neue Melodie" - Verwenden Sie die erlernten Fähigkeiten, um eine neue Melodie wie z. B. einen Klingelton für ein Mobiltelefon zu programmieren.
+* "Verbessere den Klingelton" - Versuche es mit verschiedenen Noten und Timings, um den Klingelton zu verbessern.
+* "4-mal wiederholen" - Lasse den Klingelton 4-mal wiederholen, um wirklich nervig zu sein!
+* "Komponiere eine neue Melodie" - Verwende die erlernten Fähigkeiten, um eine neue Melodie wie z. B. einen Klingelton für ein Mobiltelefon zu programmieren.
 
 ## Häufig Gestellte Fragen
 
-* Die verwendeten Nummern sind Midi-Nummern, die Nummern 21 bis 108 entsprechen den Noten am Klavier.
-* Auf dem Raspberry Pi können Sie `aplay` von der Befehlszeile aus verwenden, um `.wav` Dateien abzuspielen.
+* Die verwendeten Nummern sind Midi-Nummern. Die Nummern 21 bis 108 entsprechen den Noten am Klavier.
+* Auf dem Raspberry Pi kann man `aplay` von der Kommandozeile aus verwenden, um `.wav` Dateien abzuspielen.
 
 \--- /collapse\---
 
 ## \--- collapse \---
 
-## title: Projektmaterial
+## title: Projektmaterialien
 
 ## Ressourcen für Clubleiter
 
-* [Herunterladbares abgeschlossenes Sonic Pi-Projekt](resources/doorbell.txt)
-* [Herunterladbare, abgeschlossene Projekt-MP3-Datei](resources/doorbell.mp3)
+* [Abgeschlossenes Sonic Pi-Projekt](resources/doorbell.txt)
+* [Fertige Projekdatei im MP3 Format](resources/doorbell.mp3)
 
 \--- /collapse \---
