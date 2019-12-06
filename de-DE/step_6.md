@@ -1,23 +1,23 @@
-## Aufnahme Ihres Glockenspiels
+## Aufzeichnung deiner Tonfolge
 
-Lassen Sie uns jetzt den Klingelton aufnehmen, damit Sie ihn außerhalb von Sonic Pi abspielen können. Sonic Pi kann `WAV-` Dateien erstellen, die häufig als Sounddateien verwendet werden.
+Lass uns jetzt den Klingelton aufnehmen, damit du ihn außerhalb von Sonic Pi abspielen kannst. Sonic Pi kann `WAV` Dateien erstellen. Das ist ein verbreitetes Format für Sounddateien.
 
-+ Klicken Sie auf die Schaltfläche 'Rec', um die Aufnahme zu starten.
++ Klicke auf die Schaltfläche 'Rec', um die Aufnahme zu starten.
     
     ![Screenshot](images/tune-record.png)
 
-+ Klicken Sie anschließend auf "Ausführen", um den Klingelton zu spielen.
++ Klicke anschließend auf "Ausführen", um die Tonfolge abzuspielen.
     
-    ![screenshot](images/tune-run.png)
+    ![Screenshot](images/tune-run.png)
 
-+ Wenn der Vorgang abgeschlossen ist, klicken Sie erneut auf 'Rec', um die Aufnahme zu beenden. Sie werden aufgefordert, einen Dateinamen einzugeben. Nennen Sie Ihre Datei "doorbell.wav".
++ Wenn der Vorgang abgeschlossen ist, klicke erneut auf 'Rec', um die Aufnahme zu beenden. Du wirst aufgefordert, einen Dateinamen einzugeben. Nenne die Datei "doorbell.wav".
     
     ![Screenshot](images/tune-record-stop.png)
 
-+ Wenn Sie ein Programm haben, das ".wav" -Dateien abspielen kann, können Sie Ihr Klingelzeichen außerhalb von Sonic Pi abspielen.
++ Wenn du ein Programm hast, das ".wav" -Dateien abspielen kann, kannst du die Tolfolge außerhalb von Sonic Pi abspielen.
     
-    Tipp: Wenn Sie kein anderes Programm haben, das ".wav" -Dateien abspielen kann, können Sie den Sound in Scratch importieren und abspielen.
+    Tipp: Wenn du kein anderes Programm hast, das ".wav"-Dateien abspielen kann, kannst du die Datei in Scratch importieren und abspielen.
     
     ![Screenshot](images/scratch-upload.png)
     
-    Tipp: Möglicherweise müssen Sie Sonic Pi schließen, um mit einer anderen App Sound abspielen zu können.
+    Tipp: Möglicherweise musst du Sonic Pi schließen, um mit einer anderen Anwendung Sound abspielen zu können.
