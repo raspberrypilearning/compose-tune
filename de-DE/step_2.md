@@ -1,4 +1,4 @@
-## Spiele die ersten Noten
+## Spiele die ersten Töne
 
 Mit Sonic Pi kann man Musik programmieren. Beginnen wir mit ein paar einfachen Noten.
 
