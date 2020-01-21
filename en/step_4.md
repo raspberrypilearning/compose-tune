@@ -1,7 +1,5 @@
 ## Repeat the chime
 
-
-
 Doorbells often repeat the chime.
 
 + Let's put the doorbell chime into a loop:

@@ -23,7 +23,6 @@ If you need to print this project, please use the [Printer friendly version](htt
 title: Club leader notes
 ---
 
-
 ## Introduction:
 In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
 
@@ -55,15 +54,12 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 + The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
 + On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
 
-
 --- /collapse ---
-
 
 --- collapse ---
 ---
 title: Project materials
 ---
-
 
 ## Club leader resources
 * [Downloadable completed Sonic Pi project](resources/doorbell.txt)

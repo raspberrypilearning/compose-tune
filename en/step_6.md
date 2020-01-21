@@ -1,8 +1,6 @@
 ## Recording your chime
 Now let's record the doorbell chime so that you can play it outside of Sonic Pi. Sonic Pi can create `wav` files which are commonly used sound files.
 
-
-
 + Click on the 'Rec' button to start recording.
 
     ![screenshot](images/tune-record.png)
