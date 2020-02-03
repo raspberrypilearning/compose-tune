@@ -1,4 +1,4 @@
-## Вступ
+## Introduction
 
 In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
 
@@ -6,56 +6,56 @@ In this project you will program a short tune. It could be used as a doorbell ch
   Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Додаткова інформація для керівників гуртка
+### Additional information for club leaders
 
-Якщо вам потрібно роздрукувати цей проект, скористайтеся [ Версія для друку ](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
-## title: Нотатки керівника гуртка
+## title: Club leader notes
 
-## Вступ:
+## Introduction:
 
 In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
 
-## Ресурси
+## Resources
 
-Посилання "Матеріали Проекту" містить такі ресурси:
+The 'Project Materials' link for this project contains the following resources:
 
-##### Ресурси керівника проекту
+##### Club leader Resources
 
 You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
 
 * doorbell.txt
 * doorbell.mp3
 
-## Мета навчання
+## Learning Objectives
 
 * Playing musical notes using midi numbers
 * Repetition
 
-Цей проект охоплює елементи з наступних напрямків навчального плану [ Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Використайте основні конструкції для створення простих програм.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Завдання
+## Challenges
 
 * "Improve the chime" - try using different notes and timings to improve the doorbell chime.
 * "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
 * "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
 
-## Найбільш поширенні питання
+## Frequently Asked Questions
 
 * The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
 * On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
 
 \--- /collapse \---
 
-## \---collapse\---
+## \--- collapse \---
 
-## title: Матеріали проекту
+## title: Project materials
 
-## Ресурси лідера клубу
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/doorbell.txt)
 * [Downloadable completed project mp3 file](resources/doorbell.mp3)
