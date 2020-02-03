@@ -1,4 +1,4 @@
-## はじめに
+## Introduction
 
 In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
 
@@ -6,19 +6,19 @@ In this project you will program a short tune. It could be used as a doorbell ch
   Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### クラブリーダーのための追加情報
+### Additional information for club leaders
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/compose-tune/print)を使用してください。
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
-## title：クラブリーダー・ノート
+## title: Club leader notes
 
-## はじめに
+## Introduction:
 
 In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
 
-## 資料
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -29,22 +29,22 @@ You can find a completed version of this project by clicking the 'Project Materi
 * doorbell.txt
 * doorbell.mp3
 
-## 学習のねらい
+## Learning Objectives
 
 * Playing musical notes using midi numbers
 * Repetition
 
-このプロジェクトは [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum)の中から、以下の内容を取り扱います：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## チャレンジ
+## Challenges
 
 * "Improve the chime" - try using different notes and timings to improve the doorbell chime.
 * "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
 * "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
 
-## よくある質問
+## Frequently Asked Questions
 
 * The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
 * On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
@@ -53,9 +53,9 @@ You can find a completed version of this project by clicking the 'Project Materi
 
 ## \--- collapse \---
 
-## title: プロジェクト資料
+## title: Project materials
 
-## 指導者用資料
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/doorbell.txt)
 * [Downloadable completed project mp3 file](resources/doorbell.mp3)
