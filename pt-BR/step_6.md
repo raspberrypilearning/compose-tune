@@ -8,11 +8,11 @@ Now let's record the doorbell chime so that you can play it outside of Sonic Pi.
 
 + Then click 'Run' to play your doorbell chime.
     
-    ![captura de tela](images/tune-run.png)
+    ![screenshot](images/tune-run.png)
 
 + When it finishes click 'Rec' again to stop recording and you will be prompted for a filename. Call your file 'doorbell.wav'.
     
-    ![captura de tela](images/tune-record-stop.png)
+    ![screenshot](images/tune-record-stop.png)
 
 + If you have a program that can play '.wav' files then you'll be able to play your doorbell chime outside of Sonic Pi.
     
