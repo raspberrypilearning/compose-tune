@@ -18,6 +18,6 @@ Now let's record the doorbell chime so that you can play it outside of Sonic Pi.
     
     Tip: If you don't have another program that can play '.wav' files then you could import the sound into Scratch and play it.
     
-    ![schermata](images/scratch-upload.png)
+    ![screenshot](images/scratch-upload.png)
     
     Tip: You may need to close Sonic Pi to be able to play sound using another app.
