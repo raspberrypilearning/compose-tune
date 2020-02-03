@@ -1,4 +1,4 @@
-## מבוא
+## Introduction
 
 In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
 
@@ -6,19 +6,19 @@ In this project you will program a short tune. It could be used as a doorbell ch
   Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### מידע נוסף למורי המועדון
+### Additional information for club leaders
 
-אם אתה צריך להדפיס את הפרויקט הזה, אנא השתמש ב [ גרסה ידידותית למדפסת ](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
 ## title: Club leader notes
 
-## מבוא:
+## Introduction:
 
 In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
 
-## מקורות
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -29,16 +29,16 @@ You can find a completed version of this project by clicking the 'Project Materi
 * doorbell.txt
 * doorbell.mp3
 
-## מטרות למידה
+## Learning Objectives
 
 * Playing musical notes using midi numbers
 * Repetition
 
-פרויקט זה מכסה את הנושאים הבאים של [ תוכנית הלימודים הדיגיטלית של רספברי פי ](http://rpf.io/curriculum)
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [השתמש במבני תכנות בסיסיים כדי ליצור תוכניות פשוטות.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## אתגרים
+## Challenges
 
 * "Improve the chime" - try using different notes and timings to improve the doorbell chime.
 * "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
@@ -55,7 +55,7 @@ You can find a completed version of this project by clicking the 'Project Materi
 
 ## title: Project materials
 
-## משאבים למורה המועדון
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/doorbell.txt)
 * [Downloadable completed project mp3 file](resources/doorbell.mp3)
