@@ -1,4 +1,4 @@
-скриншот
+\--- challenge \---
 
 ## Challenge: Compose a new tune
 
