@@ -1,4 +1,4 @@
-## Esittely
+## Introduction
 
 In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
 
@@ -6,19 +6,19 @@ In this project you will program a short tune. It could be used as a doorbell ch
   Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Lisätietoja klubin vetäjille
+### Additional information for club leaders
 
-Jos haluat tulostaa tämän projektin, käytä [Tulostettava versio](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
-## title: Opettajille
+## title: Club leader notes
 
-## Esittely:
+## Introduction:
 
 In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
 
-## Aineistot
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -34,11 +34,11 @@ You can find a completed version of this project by clicking the 'Project Materi
 * Playing musical notes using midi numbers
 * Repetition
 
-Tämä projekti kattaa osia [Raspberry Pi Digital Making -opetussuunnitelman](http://rpf.io/curriculum) seuraavista osioista:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
 * [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Haasteet
+## Challenges
 
 * "Improve the chime" - try using different notes and timings to improve the doorbell chime.
 * "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
@@ -53,9 +53,9 @@ Tämä projekti kattaa osia [Raspberry Pi Digital Making -opetussuunnitelman](ht
 
 ## \--- collapse \---
 
-## otsikko: Projektiaineistot
+## title: Project materials
 
-## Opettajien aineistot
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/doorbell.txt)
 * [Downloadable completed project mp3 file](resources/doorbell.mp3)
