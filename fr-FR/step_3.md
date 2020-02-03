@@ -1,4 +1,4 @@
-\--- challange \---
+\--- challenge \---
 
 ## Challenge: Improve the chime
 
