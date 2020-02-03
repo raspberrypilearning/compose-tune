@@ -12,7 +12,7 @@ Doorbells often repeat the chime.
     
     You'll need to add a `sleep` line at the end so that there's a pause before repeating:
     
-    ![schermata](images/tune-sleep2.png)
+    ![screenshot](images/tune-sleep2.png)
 
 + Listen to the chime again and it should sound better.
     
