@@ -1,4 +1,4 @@
-\--- repte \---
+\--- challenge \---
 
 ## Challenge: Compose a new tune
 
