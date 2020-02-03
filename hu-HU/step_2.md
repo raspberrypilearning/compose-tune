@@ -6,7 +6,7 @@ Sonic Pi allows you to program music. Let's start by playing some simple musical
 
 + Run Sonic Pi. Your Club Leader will be able to tell you where to find it. If you're using a Raspberry Pi then it's under Programming on the menu.
     
-    ![képernyőkép](images/tune-GUI.png)
+    ![screenshot](images/tune-GUI.png)
 
 + See where it says '#Welcome to Sonic Pi'? Below there type:
     
