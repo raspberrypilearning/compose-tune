@@ -1,4 +1,4 @@
-## Úvod
+## Introduction
 
 In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
 
@@ -6,19 +6,19 @@ In this project you will program a short tune. It could be used as a doorbell ch
   Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Další informace pro vedoucí klubů
+### Additional information for club leaders
 
-Potřebujete-li tento projekt vytisknout, použijte [verzi pro tisk ](https://projects.raspberrypi.org/en/projects/compose-tune/print) {: target = "_ prázdný.
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
-## title: Poznámky vedoucího klubu
+## title: Club leader notes
 
-## Úvod:
+## Introduction:
 
 In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
 
-## Zdroje
+## Resources
 
 The 'Project Materials' link for this project contains the following resources:
 
@@ -29,16 +29,16 @@ You can find a completed version of this project by clicking the 'Project Materi
 * doorbell.txt
 * doorbell.mp3
 
-## Vzdělávací cíle
+## Learning Objectives
 
 * Playing musical notes using midi numbers
 * Repetition
 
-Tento projekt zahrnuje prvky z následujících částí výukových osnov [ Raspberry Pi Digitální bastlení ](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [<0>Použij základní programovací konstrukce k vytvoření jednoduchých programů</0>{:target="_blank"}.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Výzvy
+## Challenges
 
 * "Improve the chime" - try using different notes and timings to improve the doorbell chime.
 * "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
@@ -53,9 +53,9 @@ Tento projekt zahrnuje prvky z následujících částí výukových osnov [ Ras
 
 ## \--- collapse \---
 
-## title: Materiály projektu
+## title: Project materials
 
-## Zdroje pro vedoucího klubu
+## Club leader resources
 
 * [Downloadable completed Sonic Pi project](resources/doorbell.txt)
 * [Downloadable completed project mp3 file](resources/doorbell.mp3)
