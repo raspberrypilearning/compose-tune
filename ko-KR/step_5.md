@@ -1,4 +1,4 @@
-\--- 도전 \---
+\--- challenge \---
 
 ## Challenge: Repeat 4 times
 
