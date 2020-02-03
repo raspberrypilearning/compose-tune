@@ -10,7 +10,7 @@ Sonic Pi allows you to program music. Let's start by playing some simple musical
 
 + See where it says '#Welcome to Sonic Pi'? Below there type:
     
-    ![captura de tela](images/tune-play.png)
+    ![screenshot](images/tune-play.png)
 
 + Click 'Run'. Did you hear a musical note? If not, make sure that the sound isn't muted on your computer and that the volume is high enough. If the sound is too loud turn it down.
     
@@ -20,7 +20,7 @@ Sonic Pi allows you to program music. Let's start by playing some simple musical
 
 + Now add another line below your first one:
     
-    ![captura de tela](images/tune-play2.png)
+    ![screenshot](images/tune-play2.png)
 
 + Click 'Run'. Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
 
