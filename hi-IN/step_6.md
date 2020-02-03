@@ -1,23 +1,23 @@
-## अपनी झंकार की रिकॉर्डिंग करना
+## Recording your chime
 
-आइए अब हम डोरबेल की झंकार रिकॉर्ड करें ताकि आप इसे Sonic Pi के बाहर चला सकें। Sonic Pi `wav` फ़ाइलें बना सकता है जो आमतौर पर उपयोग की जाने वाली ध्वनि फ़ाइलें होती हैं।
+Now let's record the doorbell chime so that you can play it outside of Sonic Pi. Sonic Pi can create `wav` files which are commonly used sound files.
 
-+ रिकॉर्डिंग शुरू करने के लिए 'Rec' बटन पर क्लिक करें।
++ Click on the 'Rec' button to start recording.
     
-    ![स्क्रीनशॉट](images/tune-record.png)
+    ![screenshot](images/tune-record.png)
 
-+ फिर अपनी डोरबेल की झंकार को बजाने के लिए 'Run' (चलाएँ) पर क्लिक करें।
++ Then click 'Run' to play your doorbell chime.
     
-    ![स्क्रीनशॉट](images/tune-run.png)
+    ![screenshot](images/tune-run.png)
 
-+ जब यह समाप्त हो जाए तो रिकॉर्डिंग बंद करने के लिए फिर से 'Rec' पर क्लिक करें और आपको फ़ाइल नाम के लिए संकेत दिया जाएगा अपनी फ़ाइल को 'doorbell.wav' नाम दें।
++ When it finishes click 'Rec' again to stop recording and you will be prompted for a filename. Call your file 'doorbell.wav'.
     
-    ![स्क्रीनशॉट](images/tune-record-stop.png)
+    ![screenshot](images/tune-record-stop.png)
 
-+ यदि आपके पास '.wav' फ़ाइलों को चला सकने वाला कोई प्रोग्राम है तो आप अपनी डोरबेल की झंकार को Sonic Pi के बाहर बजा पाएँगे।
++ If you have a program that can play '.wav' files then you'll be able to play your doorbell chime outside of Sonic Pi.
     
-    सुझाव: यदि आपके पास '.wav' फ़ाइलों को चला सकने वाला कोई दूसरा प्रोग्राम नहीं है तो आप ध्वनि को Scratch में आयात करके उसे चला सकते हैं।
+    Tip: If you don't have another program that can play '.wav' files then you could import the sound into Scratch and play it.
     
-    ![स्क्रीनशॉट](images/scratch-upload.png)
+    ![screenshot](images/scratch-upload.png)
     
-    सुझाव: किसी अन्य ऐप का उपयोग करके ध्वनि चला सकने के लिए आपको Sonic Pi को बंद करने की ज़रूरत पड़ सकती है।
+    Tip: You may need to close Sonic Pi to be able to play sound using another app.
