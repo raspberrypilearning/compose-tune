@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## चुनौती: एक नई धुन की रचना करना
+## Challenge: Compose a new tune
 
-आपने जो सीखा है अब उसकी मदद से अपनी स्वयं की धुन तैयार करें। यह डोरबेल की झंकार, मोबाइल की रिंगटोन या सूचना हो सकती है।
+Now take what you've learnt and compose your own tune. It could be a doorbell chime, mobile ringtone or notification.
 
-अपनी खुद की ज़्यादा दिलचस्प धुन बनाने के लिए `play`, `sleep` और `times` का उपयोग करें।
+Use `play`, `sleep` and `times` to create your own more interesting tune.
 
-याद रखें, बड़ी संख्याओं से ऊँचे सुर बजते हैं और 21 से 108 तक की संख्याएँ पियानो के सुरों के समान होती हैं।
+Remember, higher numbers play higher notes and numbers 21 to 108 correspond to the notes on the piano.
 
-आप अपनी धुन को '.wav' फ़ाइल के रूप में भी रिकॉर्ड कर सकते हैं।
+You can also record your tune as a '.wav' file.
 
 \--- /challenge \---
