@@ -10,4 +10,4 @@ Remember, higher numbers play higher notes and numbers 21 to 108 correspond to t
 
 You can also record your tune as a '.wav' file.
 
-\--- challenge \---
+\--- /challenge \---
