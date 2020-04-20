@@ -1,44 +1,44 @@
-## Play your first notes
+## Speel je eerste noten
 
-Sonic Pi allows you to program music. Let's start by playing some simple musical notes.
+Met Sonic Pi kun je muziek programmeren. Laten we beginnen met het spelen van enkele eenvoudige muzieknoten.
 
 [[[sonic-pi-install]]]
 
-+ Run Sonic Pi. Your Club Leader will be able to tell you where to find it. If you're using a Raspberry Pi then it's under Programming on the menu.
++ Start Sonic Pi. Je clubleider kan je vertellen waar je deze kunt vinden. Als je een Raspberry Pi gebruikt, staat deze onder Programmeren in het menu.
     
-    ![screenshot](images/tune-GUI.png)
+    ![schermafbeelding](images/tune-GUI.png)
 
-+ See where it says '#Welcome to Sonic Pi'? Below there type:
++ Zie je waar '#Welcome to Sonic Pi' staat? Hieronder typ:
     
-    ![screenshot](images/tune-play.png)
+    ![schermafbeelding](images/tune-play.png)
 
-+ Click 'Run'. Did you hear a musical note? If not, make sure that the sound isn't muted on your computer and that the volume is high enough. If the sound is too loud turn it down.
++ Klik op 'Run'. Hoorde je een muzieknoot? Zo niet, zorg ervoor dat het geluid niet gedempt is op je computer en dat het volume hoog genoeg is. Als het geluid te hard is, zet het dan zachter.
     
-    If you're using a Raspberry Pi then make sure you are using either an HDMI monitor with speakers or have speakers or headphones connected to the audio jack.
+    Als je een Raspberry Pi gebruikt, zorg er dan voor dat je een HDMI-monitor met luidsprekers gebruikt of dat luidsprekers of koptelefoons zijn aangesloten op de audio-aansluiting.
     
-    There's also a volume setting under 'Prefs' that you can adjust.
+    Er is ook een volume-instelling onder 'Prefs' die je kunt aanpassen.
 
-+ Now add another line below your first one:
++ Voeg nu nog een regel toe onder je eerste:
     
-    ![screenshot](images/tune-play2.png)
+    ![schermafbeelding](images/tune-play2.png)
 
-+ Click 'Run'. Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
++ Klik op 'Run'. Hoorde je wat je verwachtte? In Sonic Pi, `play` betekent beginnen met spelen, dus begint het de eerste noot te spelen en begint meteen de tweede noot te spelen, dus je hoort beide noten tegelijkertijd.
 
-+ To get the second note to play after the first note add a `sleep 1` line in between so that your code looks like this:
++ Om de tweede noot na de eerste noot af te spelen voeg je een regel met `sleep 1` toe, zodat je code er als volgt uitziet:
     
-    ![screenshot](images/tune-sleep.png)
+    ![schermafbeelding](images/tune-sleep.png)
 
-+ Now run your code and it should sound like a doorbell chime.
++ Voer nu je code uit en het zou moeten klinken als een deurbel.
     
-    Listen and you should hear a higher note and then a lower one. Higher notes have higher numbers.
+    Luister en je zou een hogere noot moeten horen en dan een lagere. Hogere noten hebben hogere getallen.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
-+ Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
++ Sla je code op door op 'Save' te klikken en noem je bestand 'deurbel.txt'.
     
-    ![screenshot](images/tune-save.png)
+    ![schermafbeelding](images/tune-save.png)
     
-    If you're not sure, check with your Club Leader where you should save your file.
+    Als je het niet zeker weet, neem dan contact op met je clubleider waar je je bestand moet opslaan.
     
-    You can load files back into Sonic Pi by clicking on 'Load'.
+    Je kunt bestanden weer in Sonic Pi laden door op 'Load' te klikken.
