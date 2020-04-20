@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve the chime
+## Uitdaging: verbeter de bel
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+Probeer eens andere getallen voor de noten. Getallen 21 tot 108 komen overeen met de noten op een piano. Experimenteer om erachter te komen welke noten je leuk vindt.
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+Is de eerste noot van de deurbel te lang? Probeer eens de sleep te veranderen in 0.75 of 0.5.
 
 \--- /challenge \---
