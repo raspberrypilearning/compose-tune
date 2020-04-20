@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Compose a new tune
+## Uitdaging: componeer een nieuw deuntje
 
-Now take what you've learnt and compose your own tune. It could be a doorbell chime, mobile ringtone or notification.
+Neem nu wat je hebt geleerd en componeer je eigen deuntje. Het kan een deurbel, een mobiele beltoon of een melding zijn.
 
-Use `play`, `sleep` and `times` to create your own more interesting tune.
+Gebruik `play`, `sleep` en `times` om je eigen interessantere deuntje te maken.
 
-Remember, higher numbers play higher notes and numbers 21 to 108 correspond to the notes on the piano.
+Onthoud dat hogere getallen hogere noten spelen en getallen 21 tot 108 overeenkomen met de noten op de piano.
 
-You can also record your tune as a '.wav' file.
+Je kunt ook je deuntje opnemen als een '.wav'-bestand.
 
 \--- /challenge \---
