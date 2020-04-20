@@ -1,23 +1,23 @@
-## Recording your chime
+## Je bel opnemen
 
-Now let's record the doorbell chime so that you can play it outside of Sonic Pi. Sonic Pi can create `wav` files which are commonly used sound files.
+Laten we nu de deurbel opnemen, zodat je het buiten Sonic Pi kunt afspelen. Sonic Pi kan `wav`-bestanden maken die vaak gebruikt worden als geluidsbestanden.
 
-+ Click on the 'Rec' button to start recording.
++ Klik op de 'Rec' knop om de opname te starten.
     
-    ![screenshot](images/tune-record.png)
+    ![schermafbeelding](images/tune-record.png)
 
-+ Then click 'Run' to play your doorbell chime.
++ Klik vervolgens op 'Run' om je deurbel af te spelen.
     
-    ![screenshot](images/tune-run.png)
+    ![schermafbeelding](images/tune-run.png)
 
-+ When it finishes click 'Rec' again to stop recording and you will be prompted for a filename. Call your file 'doorbell.wav'.
++ Als het klaar is, klik nogmaals op 'Rec' om de opname te stoppen en je wordt om een bestandsnaam gevraagd. Noem je bestand 'deurbel.wav'.
     
-    ![screenshot](images/tune-record-stop.png)
+    ![schermafbeelding](images/tune-record-stop.png)
 
-+ If you have a program that can play '.wav' files then you'll be able to play your doorbell chime outside of Sonic Pi.
++ Als je een programma hebt dat '.wav'-bestanden kan afspelen, dan kun je je deurbel buiten Sonic Pi afspelen.
     
-    Tip: If you don't have another program that can play '.wav' files then you could import the sound into Scratch and play it.
+    Tip: als je geen ander programma hebt dat '.wav'-bestanden kan afspelen, kun je het geluid importeren in Scratch en het daar afspelen.
     
-    ![screenshot](images/scratch-upload.png)
+    ![schermafbeelding](images/scratch-upload.png)
     
-    Tip: You may need to close Sonic Pi to be able to play sound using another app.
+    Tip: mogelijk moet je Sonic Pi afsluiten om geluid te kunnen afspelen met een andere app.
