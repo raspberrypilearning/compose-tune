@@ -1,21 +1,21 @@
-## Repeat the chime
+## Herhaal de bel
 
-Doorbells often repeat the chime.
+Deurbellen herhalen vaak de bel.
 
-+ Let's put the doorbell chime into a loop:
++ Laten we de bel van de deurbel in een lus zetten:
     
-    ![screenshot](images/tune-times.png)
+    ![schermafbeelding](images/tune-times.png)
     
-    Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
+    Sonic Pi helpt door de deurbel code netjes in te springen in de `times`-lus.
 
-+ Listen to the chime. Is it what you expected?
++ Luister naar de bel. Is het wat je verwachtte?
     
-    You'll need to add a `sleep` line at the end so that there's a pause before repeating:
+    Je zult een `sleep`-regel aan het einde toe moeten voegen zodat er een pauze is voor het herhaald wordt:
     
-    ![screenshot](images/tune-sleep2.png)
+    ![schermafbeelding](images/tune-sleep2.png)
 
-+ Listen to the chime again and it should sound better.
++ Luister opnieuw naar de bel en het zou beter moeten klinken.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Je browser ondersteunt het element <code>audio</code> niet. </audio>
     </div>
