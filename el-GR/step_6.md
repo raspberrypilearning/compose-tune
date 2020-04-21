@@ -1,12 +1,12 @@
-## Recording your chime
+## Ηχογράφηση του ήχου σου
 
-Now let's record the doorbell chime so that you can play it outside of Sonic Pi. Sonic Pi can create `wav` files which are commonly used sound files.
+Τώρα ας ηχογραφήσουμε τον ήχο του κουδουνιού, ώστε να μπορείς να τον αναπαράξεις έξω από το Sonic Pi. Το Sonic Pi μπορεί να δημιουργήσει αρχεία `wav` που χρησιμοποιούνται συνήθως ως αρχεία ήχου.
 
-+ Click on the 'Rec' button to start recording.
++ Κάνε κλικ στο κουμπί «Rec» για να ξεκινήσει η ηχογράφηση.
     
-    ![screenshot](images/tune-record.png)
+    ![στιγμιότυπο οθόνης](images/tune-record.png)
 
-+ Then click 'Run' to play your doorbell chime.
++ Στη συνέχεια, κάνε κλικ στο «Run» για να αναπαραχθεί ο ήχος του κουδουνιού.
     
     ![screenshot](images/tune-run.png)
 
