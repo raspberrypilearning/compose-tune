@@ -1,23 +1,23 @@
-## Recording your chime
+## Enregistrement de ta sonnerie
 
-Now let's record the doorbell chime so that you can play it outside of Sonic Pi. Sonic Pi can create `wav` files which are commonly used sound files.
+Maintenant enregistrons la sonnette de porte pour que tu puisses la jouer en dehors de Sonic Pi. Sonic Pi peut créer des fichiers `wav` qui sont des fichiers son couramment utilisés.
 
-+ Click on the 'Rec' button to start recording.
++ Clique sur le bouton « Rec » pour commencer l'enregistrement.
     
-    ![screenshot](images/tune-record.png)
+    ![capture d'écran](images/tune-record.png)
 
-+ Then click 'Run' to play your doorbell chime.
++ Puis clique sur « Run » pour jouer ta sonnerie de porte.
     
-    ![screenshot](images/tune-run.png)
+    ![capture d'écran](images/tune-run.png)
 
-+ When it finishes click 'Rec' again to stop recording and you will be prompted for a filename. Call your file 'doorbell.wav'.
++ Quand elle se termine, clique à nouveau sur « Rec » pour arrêter l'enregistrement et on te demandera un nom de fichier. Appelle ton fichier « doorbell.wav ».
     
-    ![screenshot](images/tune-record-stop.png)
+    ![capture d'écran](images/tune-record-stop.png)
 
-+ If you have a program that can play '.wav' files then you'll be able to play your doorbell chime outside of Sonic Pi.
++ Si tu as un programme qui peut lire des fichiers « .wav » alors tu seras en mesure de jouer ta sonnerie de porte en dehors de Sonic Pi.
     
-    Tip: If you don't have another program that can play '.wav' files then you could import the sound into Scratch and play it.
+    Astuce : Si tu n'as pas un autre programme qui peut jouer des fichiers « .wav », tu peux importer le son dans Scratch et le lire.
     
-    ![screenshot](images/scratch-upload.png)
+    ![capture d'écran](images/scratch-upload.png)
     
-    Tip: You may need to close Sonic Pi to be able to play sound using another app.
+    Astuce : Tu devras peut-être fermer Sonic Pi pour pouvoir jouer du son en utilisant une autre application.
