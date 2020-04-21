@@ -6,16 +6,16 @@ Els timbres de les portes sovint repeteixen la tonada.
     
     ![captura de pantalla](images/tune-times.png)
     
-    Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
+    Sonic Pi repetirà el codi del timbre de la porta dins el bucle `times`.
 
 + Escolta el timbre. És el que esperaves?
     
-    You'll need to add a `sleep` line at the end so that there's a pause before repeating:
+    Hauràs d’afegir un línia `sleep` al final perquè hi hagi una pausa abans de repetir:
     
-    ![screenshot](images/tune-sleep2.png)
+    ![captura de pantalla](images/tune-sleep2.png)
 
-+ Listen to the chime again and it should sound better.
++ Torna a escoltar el timbre, hauria de sonar millor.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> El teu navegador no admet l'element <code>d'àudio</code>. </audio>
     </div>
