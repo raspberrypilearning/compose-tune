@@ -8,7 +8,7 @@ En aquest projecte programàs una melodia curta. Es pot utilitzar com a timbre d
 
 ### Informació addicional per als líders del club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+Si necessites imprimir aquest projecte, si us plau utilitza la [versió per a imprimir](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
@@ -34,7 +34,7 @@ Pots trobar una versió acabada d'aquest projecte fent clic a l'enllaç "Materia
 * Reproducció de notes musicals utilitzant números midi
 * Repetició
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabricació Digital de Raspberry Pi](http://rpf.io/curriculum):
 
 * [Utilitza les construccions de programació bàsiques per crear programes senzills.](https://www.raspberrypi.org/curriculum/programming/creator)
 
