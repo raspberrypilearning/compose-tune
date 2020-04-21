@@ -1,4 +1,4 @@
-## Introduction
+## Introducció
 
 In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
 
