@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Repeat 4 times
+## Πρόκληση: Επανέλαβε 4 φορές
 
-Can you make the doorbell repeat 4 times to be really annoying!
+Μπορείς να κάνεις το κουδούνι να επαναλαμβάνεται 4 φορές για να είναι πραγματικά ενοχλητικό;
 
 \--- /challenge \---
