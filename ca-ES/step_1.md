@@ -1,9 +1,9 @@
 ## Introducció
 
-In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
+En aquest projecte programàs una melodia curta. Es pot utilitzar com a timbre de porta, to de trucada de mòbil, notificació d'alerta a l'ordinador o en una pàgina web.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Fes clic al botó de reproducció que apareix a continuació per escoltar com sonarà el timbre de la porta: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
 ### Additional information for club leaders
