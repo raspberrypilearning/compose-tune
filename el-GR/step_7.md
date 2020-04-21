@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Compose a new tune
+## Πρόκληση: Δημιούργησε νέα μελωδία
 
-Now take what you've learnt and compose your own tune. It could be a doorbell chime, mobile ringtone or notification.
+Τώρα με ό, τι έχεις μάθει, να συνθέσεις τη δική σου μελωδία. Θα μπορούσε να είναι ήχος κουδουνιού, ήχος κλήσης για κινητά ή ήχος ειδοποίησης.
 
-Use `play`, `sleep` and `times` to create your own more interesting tune.
+Χρησιμοποιήστε την `play`, την `sleep` και τις `times` για να δημιουργήσεις τη δική σου πιο ενδιαφέρουσα μελωδία.
 
-Remember, higher numbers play higher notes and numbers 21 to 108 correspond to the notes on the piano.
+Θυμήσου, οι υψηλότεροι αριθμοί παίζουν υψηλότερες νότες και οι αριθμοί 21 έως 108 αντιστοιχούν στις νότες στο πιάνο.
 
-You can also record your tune as a '.wav' file.
+Μπορείς επίσης να ηχογραφήσεις τη μελωδία σου ως αρχείο «.wav».
 
 \--- /challenge \---
