@@ -1,14 +1,14 @@
-## Repeat the chime
+## Fes que el so del timbre es repeteixi
 
-Doorbells often repeat the chime.
+Els timbres de les portes sovint repeteixen la tonada.
 
-+ Let's put the doorbell chime into a loop:
++ Posa el timbre de la porta dins d'un bucle:
     
-    ![screenshot](images/tune-times.png)
+    ![captura de pantalla](images/tune-times.png)
     
     Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
 
-+ Listen to the chime. Is it what you expected?
++ Escolta el timbre. És el que esperaves?
     
     You'll need to add a `sleep` line at the end so that there's a pause before repeating:
     
