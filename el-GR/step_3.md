@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve the chime
+## Πρόκληση: Βελτίωσε τον ήχο
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+Δοκίμασε να επιλέξεις διαφορετικούς αριθμούς για τις νότες. Οι αριθμοί 21 έως 108 αντιστοιχούν στις νότες στο πιάνο. Πειραματίσου για να μάθεις ποιες νότες σου αρέσουν.
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+Είναι η πρώτη νότα στο κουδούνι πολύ μακρυά; Δοκίμασε να αλλάξεις την sleep σε 0,75 ή 0,5.
 
 \--- /challenge \---
