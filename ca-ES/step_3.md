@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve the chime
+## Repte: Millora el timbre
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+Prova d'escollir diferents números per a les notes. Els números del 21 al 108 corresponen a les notes del piano. Experimenta per esbrinar quines notes t'agraden.
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+La primera nota del timbre és massa llarga? Prova de canviar sleep amb 0.75 o 0.5.
 
 \--- /challenge \---
