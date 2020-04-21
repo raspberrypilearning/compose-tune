@@ -14,17 +14,17 @@ Sonic Pi et permet programar música. Comencem per reproduir algunes notes music
 
 + Fes clic a 'Run'. Has escoltat una nota musical? Si no, assegura't que el so no està silenciat a l’ordinador i que el volum és prou alt. Si el so és massa fort, baixa'l.
     
-    If you're using a Raspberry Pi then make sure you are using either an HDMI monitor with speakers or have speakers or headphones connected to the audio jack.
+    Si utilitzes una Raspberry Pi, assegura't que utilitzes un monitor HDMI amb altaveus o tingues altaveus o auriculars connectats a la presa d'àudio.
     
-    There's also a volume setting under 'Prefs' that you can adjust.
+    També pots ajustar la configuració del volum a 'Prefs'.
 
-+ Now add another line below your first one:
++ Afegeix una altra línia per sota de la primera:
     
-    ![screenshot](images/tune-play2.png)
+    ![captura de pantalla](images/tune-play2.png)
 
-+ Click 'Run'. Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
++ Fes clic a 'Run'. Did you hear what you were expecting? A Sonic Pi, `play` significa inicia reproducció, de tal manera que comença a reproduir la primera nota i immediatament després comença a tocar la segona nota, fent que les escoltis totes dues alhora.
 
-+ To get the second note to play after the first note add a `sleep 1` line in between so that your code looks like this:
++ Per escoltar la segona nota després de la primera, afegeix la línia `sleep 1` entre elles, de manera que el codi quedi així:
     
     ![screenshot](images/tune-sleep.png)
 
