@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve the chime
+## Défi : Améliore la sonnerie
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+Essaie de choisir des nombres différents pour les notes. Les numéros 21 à 108 correspondent aux notes du piano. Expérimente pour savoir quelles notes tu aimes.
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+La première note dans la sonnette de porte est-elle trop longue ? Essaie de changer « sleep » à 0,75 ou 0,5.
 
 \--- /challenge \---
