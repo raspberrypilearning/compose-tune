@@ -31,33 +31,33 @@ Pots trobar una versió acabada d'aquest projecte fent clic a l'enllaç "Materia
 
 ## Objectius d'aprenentatge
 
-* Playing musical notes using midi numbers
-* Repetition
+* Reproducció de notes musicals utilitzant números midi
+* Repetició
 
 This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Utilitza les construccions de programació bàsiques per crear programes senzills.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Reptes
 
-* "Improve the chime" - try using different notes and timings to improve the doorbell chime.
-* "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
-* "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
+* "Millora el timbre" - prova d'utilitzar notes i ritmes diferents per millorar el timbre de la porta.
+* "Repeteix 4 vegades" - fes que el timbre de la porta es repeteixi 4 vegades per tal de que sigui molt molest!
+* "Composa una nova melodia" - utilitza les habilitats apreses per programar una nova melodia, per exemple, un to de trucada de mòbil.
 
-## Frequently Asked Questions
+## Preguntes freqüents
 
-* The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
-* On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
+* Els nombres que s’utilitzen són números midi, els números del 21 al 108 corresponen a les notes del piano.
+* A la Raspberry Pi pots utilitzar `aplay` des de la línia d'ordres per reproduir fitxers `.wav`.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## títol: Materials del projecte
 
-## Club leader resources
+## Recursos del líder del club
 
-* [Downloadable completed Sonic Pi project](resources/doorbell.txt)
-* [Downloadable completed project mp3 file](resources/doorbell.mp3)
+* [Projecte Sonic Pi acabat descarregable](resources/doorbell.txt)
+* [Arxiu mp3 del projecte acabat descarregable](resources/doorbell.mp3)
 
 \--- /collapse \---
