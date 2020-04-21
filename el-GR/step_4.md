@@ -1,21 +1,21 @@
-## Repeat the chime
+## Επανάληψη του ήχου
 
-Doorbells often repeat the chime.
+Τα κουδούνια της πόρτας επαναλαμβάνουν συχνά τον ήχο.
 
-+ Let's put the doorbell chime into a loop:
++ Ας βάλουμε το κουδούνι σε ένα βρόχο:
     
-    ![screenshot](images/tune-times.png)
+    ![στιγμιότυπο οθόνης](images/tune-times.png)
     
-    Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
+    Το Sonic Pi θα βοηθήσει στην δημιουργία του κώδικα του κουδουνιού μέσα στο βρόγχο `times`.
 
-+ Listen to the chime. Is it what you expected?
++ Άκουσε τον ήχο. Is it what you expected?
     
-    You'll need to add a `sleep` line at the end so that there's a pause before repeating:
+    Θα πρέπει να προσθέσεις μια γραμμή `sleep` στο τέλος, ώστε να υπάρχει μια παύση πριν από την επανάληψη:
     
-    ![screenshot](images/tune-sleep2.png)
+    ![στιγμιότυπο οθόνης](images/tune-sleep2.png)
 
-+ Listen to the chime again and it should sound better.
++ Άκου ξανά τον ήχο και θα πρέπει να ακούγεται καλύτερα.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησης σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
     </div>
