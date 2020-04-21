@@ -1,44 +1,44 @@
-## Play your first notes
+## Παίξε τις πρώτες σου νότες
 
-Sonic Pi allows you to program music. Let's start by playing some simple musical notes.
+Το Sonic Pi σου επιτρέπει να προγραμματίσεις μουσική. Ας ξεκινήσουμε παίζοντας μερικές απλές μουσικές νότες.
 
 [[[sonic-pi-install]]]
 
-+ Run Sonic Pi. Your Club Leader will be able to tell you where to find it. If you're using a Raspberry Pi then it's under Programming on the menu.
++ Εκτέλεσε το Sonic Pi. Ο συντονιστής της ομάδας σου θα είναι σε θέση να σου πει πού να το βρεις. Εάν χρησιμοποιείς ένα Raspberry Pi, τότε βρίσκεται στην ενότητα "Προγραμματισμός" στο μενού.
     
-    ![screenshot](images/tune-GUI.png)
+    ![στιγμιότυπο οθόνης](images/tune-GUI.png)
 
-+ See where it says '#Welcome to Sonic Pi'? Below there type:
++ Είδες πού λέει "#Καλώς ήλθατε στο Sonic Pi"; Κάτω από αυτό, πληκτρολόγησε:
     
-    ![screenshot](images/tune-play.png)
+    ![στιγμιότυπο οθόνης](images/tune-play.png)
 
-+ Click 'Run'. Did you hear a musical note? If not, make sure that the sound isn't muted on your computer and that the volume is high enough. If the sound is too loud turn it down.
++ Κάνε κλικ στο «Run». Did you hear a musical note? If not, make sure that the sound isn't muted on your computer and that the volume is high enough. Εάν ο ήχος είναι πολύ δυνατός, χαμήλωσέ τον.
     
-    If you're using a Raspberry Pi then make sure you are using either an HDMI monitor with speakers or have speakers or headphones connected to the audio jack.
+    Εάν χρησιμοποιείς Raspberry Pi, βεβαιώσου ότι χρησιμοποιείς είτε μια οθόνη HDMI με ηχεία είτε ότι έχεις συνδέσει ηχεία ή ακουστικά στην υποδοχή ήχου.
     
-    There's also a volume setting under 'Prefs' that you can adjust.
+    Υπάρχει επίσης μια ρύθμιση έντασης στην περιοχή «Prefs» που μπορείς να την προσαρμόσεις.
 
-+ Now add another line below your first one:
++ Τώρα πρόσθεσε άλλη μια γραμμή κάτω από την πρώτη:
     
-    ![screenshot](images/tune-play2.png)
+    ![στιγμιότυπο οθόνης](images/tune-play2.png)
 
-+ Click 'Run'. Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
++ Κάνε κλικ στο «Run». Άκουσες αυτό που περίμενες; Στο Sonic Pi, η εντολή `play` σημαίνει να αρχίσει να αναπαράγει, οπότε αρχίζει να παίζει την πρώτη νότα και αμέσως μετά αρχίζει να παίζει τη δεύτερη νότα, ώστε να ακούς και τις δύο νότες ταυτόχρονα.
 
-+ To get the second note to play after the first note add a `sleep 1` line in between so that your code looks like this:
++ Για να παίξει η δεύτερη νότα μετά την πρώτη πρόσθεσε ενδιάμεσα μια γραμμή `sleep 1` έτσι ώστε ο κώδικάς σου να μοιάζει κάπως έτσι:
     
-    ![screenshot](images/tune-sleep.png)
+    ![στιγμιότυπο οθόνης](images/tune-sleep.png)
 
-+ Now run your code and it should sound like a doorbell chime.
++ Τώρα εκτέλεσε τον κώδικά σου και θα πρέπει να ακούγεται σαν ένας ήχος κουδουνιού.
     
-    Listen and you should hear a higher note and then a lower one. Higher notes have higher numbers.
+    Άκου και θα πρέπει να ακούσεις μια υψηλότερη νότα και μετά μια χαμηλότερη. Οι υψηλότερες νότες έχουν υψηλότερους αριθμούς.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
     </div>
-+ Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
++ Αποθήκευσε τον κώδικά σου κάνοντας κλικ στο «Save» και ονόμασε το αρχείο σου ως "doorbell.txt".
     
-    ![screenshot](images/tune-save.png)
+    ![στιγμιότυπο οθόνης](images/tune-save.png)
     
-    If you're not sure, check with your Club Leader where you should save your file.
+    Εάν δεν είσαι βέβαιος, επιβεβαίωσε με τον συντονιστή της ομάδας σου πού πρέπει να αποθηκεύσεις το αρχείο σου.
     
-    You can load files back into Sonic Pi by clicking on 'Load'.
+    Μπορείς να φορτώσεις αρχεία πίσω στο Sonic Pi κάνοντας κλικ στο «Load».
