@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Compose a new tune
+## Repte: Composa una nova melodia
 
-Now take what you've learnt and compose your own tune. It could be a doorbell chime, mobile ringtone or notification.
+Ara amb el que has après pots compondre la teva pròpia melodia. Podria ser un timbre, un to de trucada de mòbil o una notificació.
 
-Use `play`, `sleep` and `times` to create your own more interesting tune.
+Fes servir `play`, `sleep` i `times` per crear una melodia més interessant.
 
-Remember, higher numbers play higher notes and numbers 21 to 108 correspond to the notes on the piano.
+Recorda que els números més grans reprodueixen notes més altes i els números del 21 al 108 corresponen a les notes del piano.
 
-You can also record your tune as a '.wav' file.
+També pots gravar la teva melodia com a fitxer ".wav".
 
 \--- /challenge \---
