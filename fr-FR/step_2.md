@@ -1,24 +1,24 @@
-## Play your first notes
+## Jouer tes premières notes
 
-Sonic Pi allows you to program music. Let's start by playing some simple musical notes.
+Sonic Pi te permet de programmer de la musique. Commençons par jouer de simples notes musicales.
 
 [[[sonic-pi-install]]]
 
-+ Run Sonic Pi. Your Club Leader will be able to tell you where to find it. If you're using a Raspberry Pi then it's under Programming on the menu.
++ Lance Sonic Pi. Ton responsable de club pourra te dire où le trouver. Si tu utilises un Raspberry Pi alors c'est sous Programmation dans le menu.
     
     ![screenshot](images/tune-GUI.png)
 
-+ See where it says '#Welcome to Sonic Pi'? Below there type:
++ Vois où ça dit « # Bienvenue dans Sonic Pi » ? En dessous, tape :
     
     ![screenshot](images/tune-play.png)
 
-+ Click 'Run'. Did you hear a musical note? If not, make sure that the sound isn't muted on your computer and that the volume is high enough. If the sound is too loud turn it down.
++ Clique sur « Run ». As-tu entendu une note musicale ? Dans le cas contraire, assures-toi que le son n'est pas muet sur ton ordinateur et que le volume est suffisamment élevé. Si le son est trop fort, diminue-le.
     
-    If you're using a Raspberry Pi then make sure you are using either an HDMI monitor with speakers or have speakers or headphones connected to the audio jack.
+    Si tu utilises un Raspberry Pi alors assure-toi d'utiliser un moniteur HDMI avec des haut-parleurs ou des haut-parleurs ou des écouteurs connectés à la prise audio.
     
-    There's also a volume setting under 'Prefs' that you can adjust.
+    Il y a aussi un réglage de volume sous « Prefs » que tu peux ajuster.
 
-+ Now add another line below your first one:
++ Maintenant, ajoute une autre ligne en dessous de ta première ligne :
     
     ![screenshot](images/tune-play2.png)
 
