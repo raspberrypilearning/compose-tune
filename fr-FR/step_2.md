@@ -6,11 +6,11 @@ Sonic Pi te permet de programmer de la musique. Commençons par jouer de simples
 
 + Lance Sonic Pi. Ton responsable de club pourra te dire où le trouver. Si tu utilises un Raspberry Pi alors c'est sous Programmation dans le menu.
     
-    ![screenshot](images/tune-GUI.png)
+    ![capture d'écran](images/tune-GUI.png)
 
 + Vois où ça dit « # Bienvenue dans Sonic Pi » ? En dessous, tape :
     
-    ![screenshot](images/tune-play.png)
+    ![capture d'écran](images/tune-play.png)
 
 + Clique sur « Run ». As-tu entendu une note musicale ? Dans le cas contraire, assures-toi que le son n'est pas muet sur ton ordinateur et que le volume est suffisamment élevé. Si le son est trop fort, diminue-le.
     
@@ -20,25 +20,25 @@ Sonic Pi te permet de programmer de la musique. Commençons par jouer de simples
 
 + Maintenant, ajoute une autre ligne en dessous de ta première ligne :
     
-    ![screenshot](images/tune-play2.png)
+    ![capture d'écran](images/tune-play2.png)
 
-+ Clique sur « Run ». Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
++ Clique sur « Run ». As-tu entendu ce que tu attendais ? Dans Sonic Pi, `play` signifie commencer à jouer, donc il commence à jouer la première note et commence immédiatement à jouer la deuxième note de sorte que tu entends les deux notes en même temps.
 
-+ To get the second note to play after the first note add a `sleep 1` line in between so that your code looks like this:
++ Pour obtenir la deuxième note à jouer après la première note, ajoute une ligne `sleep 1` entre les deux pour que ton code ressemble à ceci :
     
-    ![screenshot](images/tune-sleep.png)
+    ![capture d'écran](images/tune-sleep.png)
 
-+ Now run your code and it should sound like a doorbell chime.
++ Exécute maintenant ton code et il devrait ressembler à une sonnette de porte.
     
-    Listen and you should hear a higher note and then a lower one. Higher notes have higher numbers.
+    Écoute et tu devrais entendre une note plus élevée puis une note inférieure. Les notes plus élevées ont des nombres plus élevés.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Ton navigateur ne supporte pas l'élément <code>audio</code>. </audio>
     </div>
-+ Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
++ Enregistre ton code en cliquant sur « Save » et nomme ton fichier « doorbell.txt ».
     
-    ![screenshot](images/tune-save.png)
+    ![capture d'écran](images/tune-save.png)
     
-    If you're not sure, check with your Club Leader where you should save your file.
+    Si tu n'es pas sûr, vérifie auprès de ton responsable de club où tu devras enregistrer ton dossier.
     
-    You can load files back into Sonic Pi by clicking on 'Load'.
+    Tu peux recharger des fichiers dans Sonic Pi en cliquant sur « Load ».
