@@ -22,7 +22,7 @@ Sonic Pi te permet de programmer de la musique. Commençons par jouer de simples
     
     ![screenshot](images/tune-play2.png)
 
-+ Click 'Run'. Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
++ Clique sur « Run ». Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
 
 + To get the second note to play after the first note add a `sleep 1` line in between so that your code looks like this:
     
