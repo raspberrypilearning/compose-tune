@@ -22,23 +22,23 @@ Sonic Pi et permet programar música. Comencem per reproduir algunes notes music
     
     ![captura de pantalla](images/tune-play2.png)
 
-+ Fes clic a 'Run'. Did you hear what you were expecting? A Sonic Pi, `play` significa inicia reproducció, de tal manera que comença a reproduir la primera nota i immediatament després comença a tocar la segona nota, fent que les escoltis totes dues alhora.
++ Fes clic a 'Run'. Has sentit el què esperaves? A Sonic Pi, `play` significa inicia reproducció, de tal manera que comença a reproduir la primera nota i immediatament després comença a tocar la segona nota, fent que les escoltis totes dues alhora.
 
 + Per escoltar la segona nota després de la primera, afegeix la línia `sleep 1` entre elles, de manera que el codi quedi així:
     
-    ![screenshot](images/tune-sleep.png)
+    ![captura de pantalla](images/tune-sleep.png)
 
-+ Now run your code and it should sound like a doorbell chime.
++ Ara, executa el teu codi i hauria de sonar com un timbre de porta.
     
-    Listen and you should hear a higher note and then a lower one. Higher notes have higher numbers.
+    Escolta, hauries de sentir una nota més alta i una altra de més baixa. Les notes altes tenen números més grans.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> El teu navegador no admet l'element <code>d'àudio</code>. </audio>
     </div>
-+ Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
++ Desa el codi fent clic a "Save" i posa-li "timbredeporta.txt" al fitxer.
     
-    ![screenshot](images/tune-save.png)
+    ![captura de pantalla](images/tune-save.png)
     
-    If you're not sure, check with your Club Leader where you should save your file.
+    Si no estàs segur, consulta amb el Líder del teu Club on s'hauria de desar.
     
-    You can load files back into Sonic Pi by clicking on 'Load'.
+    Pots carregar fitxers a Sonic Pi fent clic a 'Load'.
