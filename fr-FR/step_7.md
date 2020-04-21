@@ -1,6 +1,6 @@
 \--- challenge \---
 
-## Challenge: Compose a new tune
+## Défi : Composer une nouvelle mélodie
 
 Now take what you've learnt and compose your own tune. It could be a doorbell chime, mobile ringtone or notification.
 
