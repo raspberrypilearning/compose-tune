@@ -3,33 +3,33 @@
 En aquest projecte programàs una melodia curta. Es pot utilitzar com a timbre de porta, to de trucada de mòbil, notificació d'alerta a l'ordinador o en una pàgina web.
 
 <div id="audio-preview" class="pdf-hidden">
-  Fes clic al botó de reproducció que apareix a continuació per escoltar com sonarà el timbre de la porta: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Fes clic al botó de reproducció que apareix a continuació per escoltar com sonarà el timbre de la porta: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> El teu navegador no admet l'element <code>d'àudio</code>. </audio>
 </div>
 
-### Additional information for club leaders
+### Informació addicional per als líders del club
 
 If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## títol: Notes pel líder del club
 
-## Introduction:
+## Introducció:
 
-In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
+En aquest projecte, els nens programaran una melodia d'un timbre de porta per aprendre a tocar notes musicals mitjançant números i utilitzaran la repetició per a repetir notes.
 
-## Resources
+## Recursos
 
-The 'Project Materials' link for this project contains the following resources:
+L'enllaç "Materials del Projecte" d'aquest projecte conté els següents recursos:
 
-##### Club leader Resources
+##### Recursos del líder del club
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Pots trobar una versió acabada d'aquest projecte fent clic a l'enllaç "Materials del Projecte" d'aquest projecte, que conté:
 
 * doorbell.txt
 * doorbell.mp3
 
-## Learning Objectives
+## Objectius d'aprenentatge
 
 * Playing musical notes using midi numbers
 * Repetition
