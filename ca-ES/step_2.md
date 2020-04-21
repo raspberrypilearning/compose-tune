@@ -1,18 +1,18 @@
-## Play your first notes
+## Reprodueix les primeres notes
 
-Sonic Pi allows you to program music. Let's start by playing some simple musical notes.
+Sonic Pi et permet programar música. Comencem per reproduir algunes notes musicals senzilles.
 
 [[[sonic-pi-install]]]
 
-+ Run Sonic Pi. Your Club Leader will be able to tell you where to find it. If you're using a Raspberry Pi then it's under Programming on the menu.
++ Executa Sonic Pi. El líder del teu club et podrà dir on trobar-lo. Si fas servir una Raspberry Pi, el trobaràs a l'apartat Programació del menú.
     
-    ![screenshot](images/tune-GUI.png)
+    ![captura de pantalla](images/tune-GUI.png)
 
-+ See where it says '#Welcome to Sonic Pi'? Below there type:
++ Veus on diu #Benvingut a Sonic Pi'? A sota, escriu:
     
-    ![screenshot](images/tune-play.png)
+    ![captura de pantalla](images/tune-play.png)
 
-+ Click 'Run'. Did you hear a musical note? If not, make sure that the sound isn't muted on your computer and that the volume is high enough. If the sound is too loud turn it down.
++ Fes clic a 'Run'. Has escoltat una nota musical? Si no, assegura't que el so no està silenciat a l’ordinador i que el volum és prou alt. Si el so és massa fort, baixa'l.
     
     If you're using a Raspberry Pi then make sure you are using either an HDMI monitor with speakers or have speakers or headphones connected to the audio jack.
     
