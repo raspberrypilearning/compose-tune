@@ -1,46 +1,46 @@
-## Introduction
+## Introduzione
 
-In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
+In questo progetto programmerai una breve musica. Potrebbe essere usata come un campanello, una suoneria del cellulare, una notifica di avviso sul tuo computer o in una pagina web.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Il tuo browser non supporta l'elemento <code>audio</code>. </audio>
 </div>
 
-### Additional information for club leaders
+### Ulteriori informazioni per gli organizzatori dei club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+Se intendete stampare questo progetto, cliccate su [Versione stampabile](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Note per i volontari
 
-## Introduction:
+## Introduzione:
 
-In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
+In questo progetto, i bambini programmeranno un campanello per imparare a suonare le note musicali usando i numeri e useranno le ripetizioni per ripetere le note.
 
-## Resources
+## Risorse
 
-The 'Project Materials' link for this project contains the following resources:
+Il link "Materiali del progetto" per questo progetto contiene le seguenti risorse:
 
-##### Club leader Resources
+##### Risorse per gli organizzatori del club
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+È possibile trovare una versione completa di questo progetto facendo clic sul link "Materiali di progetto" per questo progetto, che contiene:
 
 * doorbell.txt
 * doorbell.mp3
 
-## Learning Objectives
+## Obiettivi di apprendimento
 
-* Playing musical notes using midi numbers
-* Repetition
+* Suonare note musicali usando i numeri MIDI
+* Ripetizione
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Utilizzare i costrutti base di un linguaggio di programmazione per creare programmi semplici.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Sfide
 
-* "Improve the chime" - try using different notes and timings to improve the doorbell chime.
+* "Migliora lo squillo": prova a utilizzare note e tempi diversi per migliorare il suono del campanello.
 * "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
 * "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
 
