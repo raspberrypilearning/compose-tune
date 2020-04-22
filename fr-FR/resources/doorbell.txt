@@ -1,0 +1,11 @@
+# Bienvenue dans Sonic Pi v2.10
+set_volume ! 4
+2.times do
+  play 76
+  sleep 1
+  play 72
+  sleep 1
+end
+
+
+
