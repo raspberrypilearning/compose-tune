@@ -24,7 +24,7 @@ Il link "Materiali del progetto" per questo progetto contiene le seguenti risors
 
 ##### Risorse per gli organizzatori del club
 
-È possibile trovare una versione completa di questo progetto facendo clic sul link "Materiali di progetto" per questo progetto, che contiene:
+È possibile trovare una versione completa di questo progetto facendo clic sul link "Materiali del progetto" per questo progetto, che contiene:
 
 * doorbell.txt
 * doorbell.mp3
@@ -41,23 +41,23 @@ Questo progetto include elementi tratti dalle seguenti componenti del [Digital M
 ## Sfide
 
 * "Migliora lo squillo": prova a utilizzare note e tempi diversi per migliorare il suono del campanello.
-* "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
-* "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
+* "Ripeti 4 volte" - ripeti 4 volte lo squillo del campanello per essere davvero fastidioso!
+* "Componi una nuova melodia" - usa le abilità apprese per programmare una nuova melodia, ad esempio una suoneria del cellulare.
 
-## Frequently Asked Questions
+## Domande frequenti
 
-* The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
-* On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
+* I numeri utilizzati sono numeri MIDI, numeri da 21 a 108 che corrispondono alle note sul pianoforte.
+* Sul Raspberry Pi puoi usare `aplay` dalla riga di comando per riprodurre i file `.wav`.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiali del progetto
 
-## Club leader resources
+## Risorse per gli organizzatori del club
 
-* [Downloadable completed Sonic Pi project](resources/doorbell.txt)
-* [Downloadable completed project mp3 file](resources/doorbell.mp3)
+* [Progetto completo Sonic Pi scaricabile](resources/doorbell.txt)
+* [File mp3 scaricabile del progetto completo](resources/doorbell.mp3)
 
-\--- /collapse \---
+\--- / chiudi \---
