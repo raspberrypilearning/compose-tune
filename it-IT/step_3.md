@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve the chime
+## Sfida: Migliora lo squillo
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+Prova a scegliere numeri diversi per le note. I numeri da 21 a 108 corrispondono alle note sul piano. Sperimenta per scoprire quali note ti piacciono.
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+La prima nota nel campanello è troppo lunga? Prova a cambiare l'attesa (sleep) a 0,75 o 0,5.
 
 \--- /challenge \---
