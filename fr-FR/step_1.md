@@ -19,13 +19,13 @@ Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimabl
 title: Notes pour le responsable de club
 ---
 
-## Introduction :
+## Introduction:
 
 Dans le cadre de ce projet, les enfants programmeront une sonnerie de porte pour apprendre à jouer des notes musicales en utilisant des nombres et utiliser la répétition pour répéter des notes.
 
 ## Ressources
 
-Le lien « Matériaux du projet » pour ce projet contient les ressources suivantes:
+Le lien «Matériaux du projet» pour ce projet contient les ressources suivantes:
 
 ##### Ressources pour le responsable de club
 
