@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Compose a new tune
+## Desafío: compón una nueva melodía
 
-Now take what you've learnt and compose your own tune. It could be a doorbell chime, mobile ringtone or notification.
+Ahora utiliza lo que has aprendido y compón tu propia canción. Podría ser un timbre de puerta, un tono de teléfono móvil o de notificación.
 
-Use `play`, `sleep` and `times` to create your own more interesting tune.
+Usa `play`, `sleep` y `times` para crear una melodía más interesante.
 
-Remember, higher numbers play higher notes and numbers 21 to 108 correspond to the notes on the piano.
+Recuerda que los números más altos son notas más altas y los números del 21 al 108 corresponden a las notas del piano.
 
-You can also record your tune as a '.wav' file.
+También puedes grabar tu melodía como un archivo '.wav'.
 
 \--- /challenge \---
