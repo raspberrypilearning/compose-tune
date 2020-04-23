@@ -1,23 +1,23 @@
-## Recording your chime
+## Nagraj swój dzwonek
 
-Now let's record the doorbell chime so that you can play it outside of Sonic Pi. Sonic Pi can create `wav` files which are commonly used sound files.
+Teraz nagrajmy dźwięk dzwonka do drzwi, abyś mógł go odtworzyć poza Sonic Pi. Sonic Pi może utworzyć pliki `wav`, które są powszechnie używanymi plikami dźwiękowymi.
 
-+ Click on the 'Rec' button to start recording.
++ Kliknij przycisk "Rec”, aby rozpocząć nagrywanie.
     
-    ![screenshot](images/tune-record.png)
+    ![zrzut ekranu](images/tune-record.png)
 
-+ Then click 'Run' to play your doorbell chime.
++ Następnie kliknij "Run”, aby zagrać w dzwonek do drzwi.
     
-    ![screenshot](images/tune-run.png)
+    ![zrzut ekranu](images/tune-run.png)
 
-+ When it finishes click 'Rec' again to stop recording and you will be prompted for a filename. Call your file 'doorbell.wav'.
++ Po zakończeniu dzwonka ponownie kliknij przycisk "Rec", aby zakończyć nagrywanie. Wtedy pojawi się okienko proszące o podanie nazwy pliku. Nazwij swój plik "dzwonek.wav”.
     
-    ![screenshot](images/tune-record-stop.png)
+    ![zrzut ekranu](images/tune-record-stop.png)
 
-+ If you have a program that can play '.wav' files then you'll be able to play your doorbell chime outside of Sonic Pi.
++ Jeśli masz program, który może odtwarzać pliki ".wav”, będziesz mógł odtwarzać dźwięk dzwonka do drzwi poza Sonic Pi.
     
-    Tip: If you don't have another program that can play '.wav' files then you could import the sound into Scratch and play it.
+    Wskazówka: jeśli nie masz innego programu do odtwarzania plików ".wav”, możesz zaimportować dźwięk do Scratcha i odtworzyć go.
     
-    ![screenshot](images/scratch-upload.png)
+    ![zrzut ekranu](images/scratch-upload.png)
     
-    Tip: You may need to close Sonic Pi to be able to play sound using another app.
+    Wskazówka: może być konieczne zamknięcie Sonic Pi, aby móc odtwarzać dźwięk za pomocą innej aplikacji.
