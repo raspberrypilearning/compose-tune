@@ -4,7 +4,7 @@
 
 Ora prendi quello che hai imparato e componi la tua melodia. Potrebbe essere un campanello, una suoneria per cellulari o una notifica.
 
-Use `play`, `sleep` and `times` to create your own more interesting tune.
+Usa `play`, `sleep` e `times` per una melodia tua e più interessante.
 
 Ricorda che numeri più alti suonano note più alte e numeri da 21 a 108 corrispondono alle note sul piano.
 
