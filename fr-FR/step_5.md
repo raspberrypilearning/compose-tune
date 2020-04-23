@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Défi : Répéter 4 fois
+## Challenge: Repeat 4 times
 
-Peux-tu faire que la sonnette de porte se répète 4 fois pour être vraiment ennuyeux !
+Can you make the doorbell repeat 4 times to be really annoying?
 
 \--- /challenge \---
