@@ -2,6 +2,6 @@
 
 ## Πρόκληση: Επανέλαβε 4 φορές
 
-Μπορείς να κάνεις το κουδούνι να επαναλαμβάνεται 4 φορές για να είναι πραγματικά ενοχλητικό;
+Can you make the doorbell repeat 4 times to be really annoying?
 
 \--- /challenge \---
