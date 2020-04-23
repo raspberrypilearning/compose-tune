@@ -1,63 +1,63 @@
-## Introduction
+## Install Sonic Pi on Windows
 
-In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
+- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
 
-<div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
-</div>
+- Click the **Windows** button at the bottom of the page.
 
-### Additional information for club leaders
+![downloads](images/download-buttons.png)
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+- Click the **Download MSI Installer** button.
 
-## \--- collapse \---
+![msi](images/msi-installer.png)
 
-## title: Club leader notes
+- In your Downloads folder, double-click the `msi` file.
 
-## Introduction:
+![windows1](images/windows1.png)
 
-In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
+- Accept the terms and conditions and then click **Install**.
 
-## Resources
+![windows2](images/windows2.png)
 
-The 'Project Materials' link for this project contains the following resources:
+- Click **Finish** to complete the installation and launch Sonic Pi.
 
-##### Club leader Resources
+![windows3](images/windows3.png)
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
 
-* doorbell.txt
-* doorbell.mp3
+## Install Sonic Pi on macOS
 
-## Learning Objectives
+- In a web browser, navigate to [sonic-pi.net](https://sonic-pi.net/)
 
-* Playing musical notes using midi numbers
-* Repetition
+- Click the **macOS** button at the bottom of the page.
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+![downloads](images/download-buttons.png)
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+- Click the **Download** button.
 
-## Challenges
+![download](images/download.png)
 
-* "Improve the chime" - try using different notes and timings to improve the doorbell chime.
-* "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
-* "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
+- In your Downloads directory, click on the `.dmg` file that you have downloaded.
 
-## Frequently Asked Questions
+![macOS1](images/macOS1.png)
 
-* The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
-* On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
+- Drag the `Sonic Pi.app` file into your Applications directory.
 
-\--- /collapse \---
+![macOS2](images/macOS2.png)
 
-## \--- collapse \---
+- Open your Applications directory in Finder. Hold down the `Ctrl` key and click on the `Sonic Pi.app` file, then click **Open**.
 
-## title: Project materials
+![macOS3](images/macOS3.png)
 
-## Club leader resources
+- Click **Open** when prompted.
 
-* [Downloadable completed Sonic Pi project](resources/doorbell.txt)
-* [Downloadable completed project mp3 file](resources/doorbell.mp3)
+![macOS4](images/macOS4.png)
 
-\--- /collapse \---
+## Install Sonic Pi on Raspberry Pi
+
+- Press the `Ctrl`, `Alt` and `T` keys at the same time. This will open a terminal window.
+
+- In the terminal window, type:
+
+```bash
+sudo apt update && sudo apt install sonic-pi -y
+```
+
