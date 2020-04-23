@@ -1,44 +1,44 @@
-## Play your first notes
+## Zagraj swoje pierwsze nuty
 
-Sonic Pi allows you to program music. Let's start by playing some simple musical notes.
+Sonic Pi pozwala programować muzykę. Zacznijmy od zagrania prostych nut.
 
 [[[sonic-pi-install]]]
 
-+ Run Sonic Pi. Your Club Leader will be able to tell you where to find it. If you're using a Raspberry Pi then it's under Programming on the menu.
++ Uruchom Sonic Pi. Twój lider klubu będzie mógł powiedzieć ci, gdzie go znaleźć. Jeśli używasz Raspberry Pi, to jest to w menu Programowanie.
     
-    ![screenshot](images/tune-GUI.png)
+    ![zrzut ekranu](images/tune-GUI.png)
 
-+ See where it says '#Welcome to Sonic Pi'? Below there type:
++ Widzisz gdzie jest napisane '#Welcome to Sonic Pi'? Poniżej wpisz:
     
-    ![screenshot](images/tune-play.png)
+    ![zrzut ekranu](images/tune-play.png)
 
-+ Click 'Run'. Did you hear a musical note? If not, make sure that the sound isn't muted on your computer and that the volume is high enough. If the sound is too loud turn it down.
++ Kliknij „Run". Czy słyszałeś nutę? Jeśli nie, upewnij się, że dźwięk nie jest wyciszony na komputerze i że głośność jest wystarczająco głośna. Jeśli dźwięk jest zagłośny, ścisz go.
     
-    If you're using a Raspberry Pi then make sure you are using either an HDMI monitor with speakers or have speakers or headphones connected to the audio jack.
+    Jeśli używasz Raspberry Pi, upewnij się, że używasz monitora HDMI z głośnikami lub że masz głośniki lub słuchawki podłączone do gniazda audio (gniazdo jack).
     
-    There's also a volume setting under 'Prefs' that you can adjust.
+    Są też ustawienia głośności w "Prefs" które możesz ustawić.
 
-+ Now add another line below your first one:
++ Teraz dodaj kolejną linię poniżej pierwszej:
     
-    ![screenshot](images/tune-play2.png)
+    ![zrzut ekranu](images/tune-play2.png)
 
-+ Click 'Run'. Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
++ Kliknij „Run”. Czy usłyszałeś to, czego się spodziewałeś? W Sonic Pi `play` oznacza zacznij grać, więc zaczyna grać pierwszą nutę, a następnie natychmiast zaczyna grać drugą nutę, dzięki czemu słyszysz obie nuty jednocześnie.
 
-+ To get the second note to play after the first note add a `sleep 1` line in between so that your code looks like this:
++ Aby zagrać drugą nutę po pierwszej nucie, dodaj `sleep 1` między nimi, aby Twój kod wyglądał tak:
     
-    ![screenshot](images/tune-sleep.png)
+    ![zrzut ekranu](images/tune-sleep.png)
 
-+ Now run your code and it should sound like a doorbell chime.
++ Teraz uruchom kod. Powinien on brzmieć jak dzwonek do drzwi.
     
-    Listen and you should hear a higher note and then a lower one. Higher notes have higher numbers.
+    Posłuchaj. Powinieneś usłyszeć wyższą nutę, a następnie niższą. Wyższe nuty mają wyższe liczby.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Twoja przeglądarka nie obsługuje elementów <code>audio</code>. </audio>
     </div>
-+ Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
++ Zapisz kod, klikając „Save” i nazwij swój plik „dzwonek.txt”.
     
-    ![screenshot](images/tune-save.png)
+    ![zrzut ekranu](images/tune-save.png)
     
-    If you're not sure, check with your Club Leader where you should save your file.
+    Jeśli nie jesteś pewien, zapytaj się ze swojego Lidera Klubu, gdzie powinieneś zapisać plik.
     
-    You can load files back into Sonic Pi by clicking on 'Load'.
+    Możesz załadować pliki z powrotem do Sonic Pi, klikając „Load”.
