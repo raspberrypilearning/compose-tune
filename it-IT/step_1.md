@@ -3,7 +3,7 @@
 In questo progetto programmerai una breve musica. Potrebbe essere usata come un campanello, una suoneria del cellulare, una notifica di avviso sul tuo computer o in una pagina web.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Il tuo browser non supporta l'elemento <code>audio</code>. </audio>
+  Clicca sul pulsante riproduci qui sotto per sentire come suonerà il campanello: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Il tuo browser non supporta l'elemento <code>audio</code>. </audio>
 </div>
 
 ### Ulteriori informazioni per gli organizzatori dei club
