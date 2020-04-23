@@ -2,6 +2,6 @@
 
 ## Sfida: Ripeti 4 volte
 
-Riesci a far ripetere 4 volte lo squillo del campanello per renderlo davvero fastidioso?
+Can you make the doorbell repeat 4 times to be really annoying?
 
 \--- /challenge \---
