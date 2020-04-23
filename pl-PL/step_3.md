@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve the chime
+## Wyzwanie: Ulepsz dźwięk dzwonka
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+Spróbuj wybrać różne liczby dla nut. Numery od 21 do 108 odpowiadają nutom na fortepianie. Eksperymentuj, aby dowiedzieć się, które nuty lubisz.
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+Czy pierwsza nuta w dzwonku jest za długa? Spróbuj zmienić sleep na 0,75 lub 0,5.
 
 \--- /challenge \---
