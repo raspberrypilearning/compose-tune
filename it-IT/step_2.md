@@ -4,7 +4,7 @@ Sonic Pi ti consente di programmare la musica. Cominciamo suonando alcune sempli
 
 [[[sonic-pi-install]]]
 
-+ Esegui Sonic Pi. Your Club Leader will be able to tell you where to find it. Se stai usando un Raspberry Pi, è nel menu Programmazione.
++ Esegui Sonic Pi. L'organizzatore del tuo club potrà spiegarti dove trovarlo. Se stai usando un Raspberry Pi, è nel menu Programmazione.
     
     ![screenshot](images/tune-GUI.png)
 
@@ -18,15 +18,15 @@ Sonic Pi ti consente di programmare la musica. Cominciamo suonando alcune sempli
     
     C'è anche un'impostazione del volume in 'Prefs' che puoi regolare.
 
-+ Now add another line below your first one:
++ Ora aggiungi un'altra riga sotto la prima:
     
-    ![screenshot](images/tune-play2.png)
+    ![schermata](images/tune-play2.png)
 
 + Clicca su 'Run'. Hai sentito ciò che ti aspettavi? Nella Sonic Pi, `play` significa far iniziare a suonare, così che inizia a suonare la prima nota e quindi inizia immediatamente a riprodurre la seconda nota in modo da sentire entrambe le note allo stesso tempo.
 
 + Per far suonare la seconda nota dopo la prima nota aggiungi una linea `sleep 1` in modo che il tuo codice sia simile al seguente:
     
-    ![screenshot](images/tune-sleep.png)
+    ![schermata](images/tune-sleep.png)
 
 + Ora esegui il tuo codice e dovrebbe suonare come un campanello.
     
@@ -35,10 +35,10 @@ Sonic Pi ti consente di programmare la musica. Cominciamo suonando alcune sempli
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Il tuo browser non supporta l'elemento <code>audio</code>. </audio>
     </div>
-+ Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
++ Salva il tuo codice cliccando su 'Save' e chiama il tuo file 'doorbell.txt'.
     
-    ![screenshot](images/tune-save.png)
+    ![schermata](images/tune-save.png)
     
-    If you're not sure, check with your Club Leader where you should save your file.
+    Se non sei sicuro, controlla con il responsabile del tuo club dove dovresti salvare il file.
     
     È possibile caricare nuovamente i file in Sonic Pi facendo clic su 'Load'.
