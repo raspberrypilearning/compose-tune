@@ -1,63 +1,63 @@
-## Introduction
+## Introducción
 
-In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
+En este proyecto programarás una pequeña melodía. Podría usarse como timbre de puerta, tono de llamada de teléfono móvil, una notificación de alerta del ordenador o incluirse en una página web.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Haz clic en el botón de reproducción de abajo para escuchar cómo sonará el timbre de la puerta: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Tu navegador no es compatible con el elemento <code>audio</code>. </audio>
 </div>
 
-### Additional information for club leaders
+### Información adicional para los líderes del club
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## título: Notas para el líder del club
 
-## Introduction:
+## Introducción:
 
-In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
+En este proyecto, los niños programarán un timbre de puerta para que puedan aprender a tocar notas musicales usando números y a usar repetición para repetir notas.
 
-## Resources
+## Recursos
 
-The 'Project Materials' link for this project contains the following resources:
+El enlace 'Materiales del proyecto' de este proyecto contiene los siguientes recursos:
 
-##### Club leader Resources
+##### Recursos para los líderes de clubes
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Puedes encontrar una versión completa de este proyecto haciendo clic en el enlace 'Materiales de proyecto' para este proyecto, que contiene:
 
 * doorbell.txt
 * doorbell.mp3
 
-## Learning Objectives
+## Objetivos del Aprendizaje
 
-* Playing musical notes using midi numbers
-* Repetition
+* Tocando notas musicales usando números midi
+* Repetición
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este proyecto incluye elementos desde los siguientes aspectos del [currículo de fabricación digital de Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Usar estructuras de programación básicas para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Desafíos
 
-* "Improve the chime" - try using different notes and timings to improve the doorbell chime.
-* "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
-* "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
+* "Mejora el timbre": intenta usar diferentes notas y tiempos para mejorar el timbre de la puerta.
+* "Repetir 4 veces" - ¡haz que el timbre de la puerta se repita 4 veces para ser realmente molesto!
+* "Compón una nueva melodía": usa las habilidades aprendidas para programar una nueva melodía, como, por ejemplo, un tono de llamada de un teléfono móvil.
 
-## Frequently Asked Questions
+## Preguntas frecuentes
 
-* The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
-* On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
+* Los números utilizados son números midi, los números del 21 al 108 corresponden a las notas del piano.
+* En el Raspberry Pi puedes usar `aplay` desde la línea de comandos para reproducir archivos `.wav`.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiales del proyecto
 
-## Club leader resources
+## Recursos para los líderes de clubes
 
-* [Downloadable completed Sonic Pi project](resources/doorbell.txt)
-* [Downloadable completed project mp3 file](resources/doorbell.mp3)
+* [Proyecto acabado de Sonic Pi descargable](resources/doorbell.txt)
+* [Archivo mp3 del proyecto acabado descargable](resources/doorbell.mp3)
 
 \--- /collapse \---
