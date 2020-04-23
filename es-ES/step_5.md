@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Repeat 4 times
+## Desafío: Repítelo 4 veces
 
-Can you make the doorbell repeat 4 times to be really annoying!
+Can you make the doorbell repeat 4 times to be really annoying?
 
 \--- /challenge \---
