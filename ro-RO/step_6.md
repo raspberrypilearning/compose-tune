@@ -18,6 +18,6 @@ Acum, să înregistrăm sunetul soneriei pentru a-l putea reda în afara Sonic P
     
     Sfat: dacă nu ai un alt program care să poată reda fișierele.wav, poți importa sunetul în Scratch și să îl redai.
     
-    ![screenshot](images/scratch-upload.png)
+    ![captură de ecran](images/scratch-upload.png)
     
     Sfat: Este posibil să fie necesar să închizi Sonic Pi pentru a putea reda sunete utilizând altă aplicație.
