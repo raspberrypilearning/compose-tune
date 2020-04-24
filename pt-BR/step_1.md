@@ -1,63 +1,63 @@
-## Introduction
+## Introdução
 
-In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
+Neste projeto, você programará uma música curta. Pode ser usado como um toque de campainha, um toque de celular, uma notificação de alerta no seu computador ou incluído em uma página da web.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Clique no botão play abaixo para ouvir como a campainha tocará: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Seu navegador não suporta o elemento de <code>áudio</code>. </audio>
 </div>
 
-### Additional information for club leaders
+### Informação adicional para líderes de clubes
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+Se você precisar imprimir este projeto, use a [Versão para Impressão](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Notas do líder do clube
 
-## Introduction:
+## Introdução:
 
-In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
+Neste projeto, as crianças irão programar um toque de campainha para aprender a tocar notas musicais usando números e usar a repetição para repetir as notas.
 
-## Resources
+## Recursos
 
-The 'Project Materials' link for this project contains the following resources:
+O link 'Materiais do Projeto' contém os seguintes recursos:
 
-##### Club leader Resources
+##### Recursos do líder do clube
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Você pode encontrar uma versão completa deste projeto clicando no link 'Materiais do Projeto' que contém:
 
 * doorbell.txt
 * doorbell.mp3
 
-## Learning Objectives
+## Objetivos de aprendizado
 
-* Playing musical notes using midi numbers
-* Repetition
+* Tocando notas musicais usando números midi
+* Repetição
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Este projeto abrange elementos das seguintes vertentes do [Currículo de Criação Digital Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use construções básicas de programação para criar programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Desafios
 
-* "Improve the chime" - try using different notes and timings to improve the doorbell chime.
-* "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
-* "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
+* "Melhore a harmonia" - Tente usar diferentes notas e tempos para melhorar a harmonia da campainha.
+* "Repita 4 vezes" - Faça a campainha tocar 4 vezes para ser realmente irritante!
+* "Componha uma nova música" - Use as habilidades aprendidas para programar uma nova música, como um toque de celular.
 
-## Frequently Asked Questions
+## Perguntas Frequentes
 
-* The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
-* On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
+* Os números usados são números midi, os números 21 a 108 correspondem às notas no piano.
+* No Raspberry Pi, você pode usar `aplay` na linha de comando para reproduzir arquivos `.wav`.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Materiais do Projeto
 
-## Club leader resources
+## Recursos do líder do clube
 
-* [Downloadable completed Sonic Pi project](resources/doorbell.txt)
-* [Downloadable completed project mp3 file](resources/doorbell.mp3)
+* [Baixar o projeto Sonic Pi concluído](resources/doorbell.txt)
+* [Baixar o projeto do arquivo mp3 concluído](resources/doorbell.mp3)
 
 \--- /collapse \---
