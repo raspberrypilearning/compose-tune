@@ -1,44 +1,44 @@
-## Play your first notes
+## Toque suas primeiras notas
 
-Sonic Pi allows you to program music. Let's start by playing some simple musical notes.
+O Sonic Pi permite programar músicas. Vamos começar tocando algumas notas musicais simples.
 
 [[[sonic-pi-install]]]
 
-+ Run Sonic Pi. Your Club Leader will be able to tell you where to find it. If you're using a Raspberry Pi then it's under Programming on the menu.
++ Execute o Sonic Pi. O seu líder de clube poderá informar onde encontrá-lo. Se você estiver usando um Raspberry Pi, ele estará em Programação no menu.
     
-    ![screenshot](images/tune-GUI.png)
+    ![captura de tela](images/tune-GUI.png)
 
-+ See where it says '#Welcome to Sonic Pi'? Below there type:
++ Veja onde está escrito '#Welcome to Sonic Pi'? Abaixo, digite:
     
-    ![screenshot](images/tune-play.png)
+    ![captura de tela](images/tune-play.png)
 
-+ Click 'Run'. Did you hear a musical note? If not, make sure that the sound isn't muted on your computer and that the volume is high enough. If the sound is too loud turn it down.
++ Clique em 'Run'. Você ouviu uma nota musical? Caso contrário, verifique se o som não está mudo no seu computador e se o volume está alto o suficiente. Se o som estiver muito alto, diminua-o.
     
-    If you're using a Raspberry Pi then make sure you are using either an HDMI monitor with speakers or have speakers or headphones connected to the audio jack.
+    Se você estiver usando um Raspberry Pi, verifique se está usando um monitor HDMI com alto-falantes ou se possui alto-falantes ou fones de ouvido conectados à saída de áudio.
     
-    There's also a volume setting under 'Prefs' that you can adjust.
+    Há também uma configuração de volume em 'Prefs' que você pode ajustar.
 
-+ Now add another line below your first one:
++ Agora adicione outra linha abaixo da sua primeira:
     
-    ![screenshot](images/tune-play2.png)
+    ![captura de tela](images/tune-play2.png)
 
-+ Click 'Run'. Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
++ Clique em 'Run'. Você ouviu o que estava esperando? No Sonic Pi, `play` significa começar a tocar, então ele toca a primeira nota e logo em seguida começa a tocar a segunda nota, então você escuta as duas notas ao mesmo tempo.
 
-+ To get the second note to play after the first note add a `sleep 1` line in between so that your code looks like this:
++ Para que a segunda nota seja reproduzida após a primeira, adicione a linha `sleep 1` no meio para que seu código fique assim:
     
-    ![screenshot](images/tune-sleep.png)
+    ![captura de tela](images/tune-sleep.png)
 
-+ Now run your code and it should sound like a doorbell chime.
++ Agora execute seu código e ele deve soar como um toque de campainha.
     
-    Listen and you should hear a higher note and then a lower one. Higher notes have higher numbers.
+    Ouça e você deve ouvir uma nota mais alta e depois uma mais baixa. Notas mais altas têm números mais altos.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Seu navegador não suporta o elemento de <code>áudio</code>. </audio>
     </div>
-+ Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
++ Salve seu código clicando em 'Save' e nomeie seu arquivo 'campainha.txt'.
     
-    ![screenshot](images/tune-save.png)
+    ![captura de tela](images/tune-save.png)
     
-    If you're not sure, check with your Club Leader where you should save your file.
+    Se você não tiver certeza, verifique com o seu Líder do Clube onde você deve salvar seu arquivo.
     
-    You can load files back into Sonic Pi by clicking on 'Load'.
+    Você pode carregar os arquivos novamente no Sonic Pi clicando em 'Load'.
