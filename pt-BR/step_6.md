@@ -1,23 +1,23 @@
-## Recording your chime
+## Gravando sua harmonia
 
-Now let's record the doorbell chime so that you can play it outside of Sonic Pi. Sonic Pi can create `wav` files which are commonly used sound files.
+Agora vamos gravar a harmonia da campainha para que você possa tocá-la fora do Sonic Pi. O Sonic Pi pode criar arquivos `wav` que são arquivos de som comumente usados.
 
-+ Click on the 'Rec' button to start recording.
++ Clique no botão 'Rec' para iniciar a gravação.
     
-    ![screenshot](images/tune-record.png)
+    ![captura de tela](images/tune-record.png)
 
-+ Then click 'Run' to play your doorbell chime.
++ Em seguida, clique em 'Run' para tocar a harmonia.
     
-    ![screenshot](images/tune-run.png)
+    ![captura de tela](images/tune-run.png)
 
-+ When it finishes click 'Rec' again to stop recording and you will be prompted for a filename. Call your file 'doorbell.wav'.
++ Quando terminar, clique em 'Rec' novamente para interromper a gravação e você será solicitado a fornecer um nome de arquivo. Nomeie seu arquivo de 'campainha.wav'.
     
-    ![screenshot](images/tune-record-stop.png)
+    ![captura de tela](images/tune-record-stop.png)
 
-+ If you have a program that can play '.wav' files then you'll be able to play your doorbell chime outside of Sonic Pi.
++ Se você possui um programa que pode reproduzir arquivos '.wav', poderá tocar a campainha fora do Sonic Pi.
     
-    Tip: If you don't have another program that can play '.wav' files then you could import the sound into Scratch and play it.
+    Dica: Se você não tiver outro programa que possa reproduzir arquivos '.wav', você pode importar o arquivo de som para o Scratch e reproduzi-lo.
     
-    ![screenshot](images/scratch-upload.png)
+    ![captura de tela](images/scratch-upload.png)
     
-    Tip: You may need to close Sonic Pi to be able to play sound using another app.
+    Dica: Pode ser necessário fechar o Sonic Pi para reproduzir som usando outro aplicativo.
