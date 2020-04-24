@@ -1,4 +1,4 @@
-# Welcome to Sonic Pi v2.10
+# Bienvenido a Sonic Pi v2.10
 set_volume! 4
 2.times do
   play 76
