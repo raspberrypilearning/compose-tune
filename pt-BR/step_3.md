@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve the chime
+## Desafio: Melhore a harmonia
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+Tente escolher números diferentes para as notas. Os números 21 a 108 correspondem às notas no piano. Experimente descobrir quais notas você gosta.
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+A primeira nota na campainha é muito longa? Tente alterar o 'sleep' para 0,75 ou 0,5.
 
 \--- /challenge \---
