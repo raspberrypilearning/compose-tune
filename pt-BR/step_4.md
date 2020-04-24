@@ -1,21 +1,21 @@
-## Repeat the chime
+## Repita a harmonia
 
-Doorbells often repeat the chime.
+Campainhas normalmente repetem a harmonia.
 
-+ Let's put the doorbell chime into a loop:
++ Vamos colocar a campainha tocando em um loop:
     
-    ![screenshot](images/tune-times.png)
+    ![captura de tela](images/tune-times.png)
     
-    Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
+    O Sonic Pi recuará o código da campainha dentro do loop `times`.
 
-+ Listen to the chime. Is it what you expected?
++ Escute a harmonia. É o que você esperava?
     
-    You'll need to add a `sleep` line at the end so that there's a pause before repeating:
+    Você precisará adicionar uma linha `sleep` no final para que haja uma pausa antes de repetir:
     
-    ![screenshot](images/tune-sleep2.png)
+    ![captura de tela](images/tune-sleep2.png)
 
-+ Listen to the chime again and it should sound better.
++ Ouça a harmonia novamente e ela deve soar melhor.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Seu navegador não suporta o elemento de <code>áudio</code>. </audio>
     </div>
