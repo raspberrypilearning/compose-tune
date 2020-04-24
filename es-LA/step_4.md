@@ -1,21 +1,21 @@
-## Repeat the chime
+## Repetir el timbre
 
-Doorbells often repeat the chime.
+Los timbres a menudo repiten los sonidos.
 
-+ Let's put the doorbell chime into a loop:
++ Pongamos el timbre de puerta en un bucle:
     
-    ![screenshot](images/tune-times.png)
+    ![captura de pantalla](images/tune-times.png)
     
-    Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
+    Sonic Pi sangrará de forma útil el código de timbre de puerta dentro del bucle `times`.
 
-+ Listen to the chime. Is it what you expected?
++ Escucha el timbre. ¿Es lo que esperabas?
     
-    You'll need to add a `sleep` line at the end so that there's a pause before repeating:
+    Necesitarás añadir una línea `sleep` al final para que haya una pausa antes de repetir:
     
-    ![screenshot](images/tune-sleep2.png)
+    ![captura de pantalla](images/tune-sleep2.png)
 
-+ Listen to the chime again and it should sound better.
++ Escucha el timbre nuevamente y debería sonar mejor.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Tu navegador no tiene soporte para el elemento de <code>audio</code>. </audio>
     </div>
