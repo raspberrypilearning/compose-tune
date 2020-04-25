@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve the chime
+## チャレンジ：呼び鈴をより良くする
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+音符に別の番号を選択してみましょう。 21から108の番号はピアノの音符に対応しています。実験してどの音が好きか調べてみましょう。
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+呼び鈴の最初の音が長すぎますか？ sleepの値を0.75か0.5にして試してみましょう。
 
 \--- /challenge \---
