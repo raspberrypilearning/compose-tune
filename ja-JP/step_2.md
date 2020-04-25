@@ -1,20 +1,20 @@
-## Play your first notes
+## 最初の音符を演奏する
 
-Sonic Pi allows you to program music. Let's start by playing some simple musical notes.
+Sonic Piを使うと音楽をプログラムすることができます。 かんたんな音符を再生することからはじめてみましょう。
 
 [[[sonic-pi-install]]]
 
-+ Run Sonic Pi. Your Club Leader will be able to tell you where to find it. If you're using a Raspberry Pi then it's under Programming on the menu.
++ Sonic Piを実行します。 クラブ・リーダーがどこにあるのかを教えてくれます。 Raspberry Piを使っているなら、メニューの「プログラミング」にあります。
     
-    ![screenshot](images/tune-GUI.png)
+    ![スクリーンショット](images/tune-GUI.png)
 
-+ See where it says '#Welcome to Sonic Pi'? Below there type:
++ 「# Welcome to Sonic Pi」がどこに書かれているかわかりますか？ その下に次のように入力します。
     
-    ![screenshot](images/tune-play.png)
+    ![スクリーンショット](images/tune-play.png)
 
-+ Click 'Run'. Did you hear a musical note? If not, make sure that the sound isn't muted on your computer and that the volume is high enough. If the sound is too loud turn it down.
++ 「run」をクリックします。 音符が聞こえましたか？ 聞こえない場合は、コンピュータの音が消音されていないこと、音量が十分に大きいことを確認してください。 音が大きすぎる場合は音量を下げてください。
     
-    If you're using a Raspberry Pi then make sure you are using either an HDMI monitor with speakers or have speakers or headphones connected to the audio jack.
+    Raspberry Piを使っているなら、スピーカー付きモニタをHDMIで接続して使用するか、スピーカーやヘッドフォンがオーディオジャックに接続されているか確認してください。
     
     There's also a volume setting under 'Prefs' that you can adjust.
 
