@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Repeat 4 times
+## التحدي: كرر 4 مرات
 
-Can you make the doorbell repeat 4 times to be really annoying?
+هل يمكنك أن تجعل جرس الباب يتكرر 4 مرات ليكون مزعجًا حقًا؟
 
 \--- /challenge \---
