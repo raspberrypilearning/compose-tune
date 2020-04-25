@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve the chime
+## التحدي: تحسين اللحن
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+حاول اختيار أرقام مختلفة للنوتات. الأرقام من 21 إلى 108 تقابل النوتات على البيانو. جرب لمعرفة النوتات التي تحبها.
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+هل النوتة الأولى في جرس الباب أطول مما ينبغي؟ حاول تغيير نغمة النوم إلى 0.75 أو 0.5.
 
 \--- /challenge \---
