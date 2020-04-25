@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Compose a new tune
+## التحدي: تأليف لحنا جديدا
 
-Now take what you've learnt and compose your own tune. It could be a doorbell chime, mobile ringtone or notification.
+الآن خذ ما تعلمته وقم بتأليف لحنك الخاص. يمكن أن يكون نغمة جرس الباب أو نغمة رنين للهاتف أو إشعارًا.
 
-Use `play`, `sleep` and `times` to create your own more interesting tune.
+استخدم `play`، ` sleep ` و ` times ` لإنشاء لحنا اكثر إثارة للأهتمام.
 
-Remember, higher numbers play higher notes and numbers 21 to 108 correspond to the notes on the piano.
+تذكر أن الأرقام الأعلى تلعب نوتات أعلى والأرقام من 21 إلى 108 تتوافق مع النغمات الموجودة على البيانو.
 
-You can also record your tune as a '.wav' file.
+يمكنك أيضًا تسجيل النغمة الخاصة بك كملف ".wav".
 
 \--- /challenge \---
