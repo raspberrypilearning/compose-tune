@@ -1,23 +1,23 @@
-## Recording your chime
+## تسجيل اللحن
 
-Now let's record the doorbell chime so that you can play it outside of Sonic Pi. Sonic Pi can create `wav` files which are commonly used sound files.
+الآن دعونا نقوم بتسجيل لحن جرس الباب حتى تتمكن من تشغيله خارج Sonic Pi. يمكن لـ Sonic Pi إنشاء `Wav` ملفات الصوت الشائعة الاستخدام.
 
-+ Click on the 'Rec' button to start recording.
++ انقر على زر "Rec" لبدء التسجيل.
     
-    ![screenshot](images/tune-record.png)
+    ![لقطة للشاشة](images/tune-record.png)
 
-+ Then click 'Run' to play your doorbell chime.
++ ثم انقر فوق "Run" لتشغيل نغمة جرس الباب الخاص بك.
     
-    ![screenshot](images/tune-run.png)
+    ![لقطة للشاشة](images/tune-run.png)
 
-+ When it finishes click 'Rec' again to stop recording and you will be prompted for a filename. Call your file 'doorbell.wav'.
++ عند الانتهاء انقر فوق 'Rec' مرة أخرى لإيقاف التسجيل وسيتم مطالبتك باسم الملف. افتح ملفك 'doorbell.wav'.
     
-    ![screenshot](images/tune-record-stop.png)
+    ![لقطة للشاشة](images/tune-record-stop.png)
 
-+ If you have a program that can play '.wav' files then you'll be able to play your doorbell chime outside of Sonic Pi.
++ إذا كان لديك برنامج يمكنه تشغيل ملفات '.wav' فسوف تتمكن من تشغيل النغمة الخاصة بك في جرس الباب خارج Sonic Pi.
     
-    Tip: If you don't have another program that can play '.wav' files then you could import the sound into Scratch and play it.
+    نصيحة: إذا لم يكن لديك برنامج آخر يمكنه تشغيل ملفات '.wav' فيمكنك استيراد الصوت إلى Scratch وتشغيله.
     
-    ![screenshot](images/scratch-upload.png)
+    ![لقطة للشاشة](images/scratch-upload.png)
     
-    Tip: You may need to close Sonic Pi to be able to play sound using another app.
+    نصيحة: قد تحتاج إلى إغلاق Sonic Pi لتتمكن من تشغيل الصوت باستخدام تطبيق آخر.
