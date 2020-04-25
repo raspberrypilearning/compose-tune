@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Compose your own tune
-description: Use Sonic Pi to create a cool doorbell chime
+title: تأليف لحناً خاص بك
+description: أستخدم Sonic Pi لأنشاء لحناً رائعاً لجرس الباب
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: music
 technologies: 'sonic pi'
@@ -18,16 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: المقدمة
   - 
-    title: Play your first notes
+    title: أعزف لحنك الأول
   - 
-    title: 'Challenge: Improve the chime'
+    title: 'التحدي: تحسين اللحن'
   - 
-    title: Repeat the chime
+    title: تكرار اللحن
   - 
-    title: 'Challenge: Repeat 4 times'
+    title: 'التحدي: كرر 4 مرات'
   - 
-    title: Recording your chime
+    title: تسجيل اللحن
   - 
-    title: 'Challenge: Compose a new tune'
+    title: 'التحدي: تأليف لحناً جديداً'
