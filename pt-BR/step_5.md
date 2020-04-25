@@ -2,6 +2,6 @@
 
 ## Desafio: Repita 4 vezes
 
-Can you make the doorbell repeat 4 times to be really annoying?
+Você pode fazer a campainha repetir 4 vezes para ser realmente irritante?
 
 \--- /challenge \---
