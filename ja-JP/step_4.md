@@ -1,10 +1,10 @@
-## Repeat the chime
+## 呼び鈴をくり返す
 
-Doorbells often repeat the chime.
+玄関（げんかん）の呼び鈴はしばしば音をくり返します。
 
-+ Let's put the doorbell chime into a loop:
++ ループの中に玄関（げんかん）の呼び鈴を入れましょう：
     
-    ![screenshot](images/tune-times.png)
+    ![スクリーンショット](images/tune-times.png)
     
     Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
 
