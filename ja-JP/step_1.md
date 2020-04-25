@@ -14,7 +14,7 @@
 
 ## title：クラブ・リーダー用の覚書
 
-## Introduction:
+## はじめに
 
 このプロジェクトでは、子どもたちは玄関（げんかん）の呼び鈴をプログラムして、番号を使って音符を演奏し、くり返しコードを使って音符をくり返す方法を学びます。
 
@@ -47,17 +47,17 @@
 ## よくある質問
 
 * 使う番号はMIDI番号で、21から108はピアノの音符に対応しています。
-* On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
+* Raspberry Piで`.wav`ファイルを再生するにはコマンドラインから`aplay`が使えます。
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: プロジェクト資料
 
-## Club leader resources
+## クラブ・リーダー用資料
 
-* [Downloadable completed Sonic Pi project](resources/doorbell.txt)
-* [Downloadable completed project mp3 file](resources/doorbell.mp3)
+* [ダウンロード可能な完成版Sonic Piプロジェクト](resources/doorbell.txt)
+* [ダウンロード可能な完成版MP3ファイル](resources/doorbell.mp3)
 
 \--- /collapse \---
