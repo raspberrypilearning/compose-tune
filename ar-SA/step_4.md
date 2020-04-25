@@ -1,20 +1,20 @@
-## Repeat the chime
+## تكرار اللحن
 
-Doorbells often repeat the chime.
+غالباً ما تتكرر نغمة اجراس الأبواب.
 
-+ Let's put the doorbell chime into a loop:
++ دعونا نضع لحن جرس الباب في حلقة:
     
-    ![screenshot](images/tune-times.png)
+    ![لقطة للشاشة](images/tune-times.png)
     
-    Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
+    سوف تساعد Sonic Pi في وضع مسافة بادئة لرمز نغمة جرس الباب داخل حلقة التكرار ` times `.
 
-+ Listen to the chime. Is it what you expected?
++ استمع إلى اللحن. هل هو ما توقعت؟
     
-    You'll need to add a `sleep` line at the end so that there's a pause before repeating:
+    ستحتاج إلى إضافة سطر ` sleep ` في النهاية حتى يكون هناك توقف مؤقت قبل التكرار:
     
-    ![screenshot](images/tune-sleep2.png)
+    ![لقطة للشاشة](images/tune-sleep2.png)
 
-+ Listen to the chime again and it should sound better.
++ استمع إلى اللحن مرة أخرى ويجب أن يبدو أفضل.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
