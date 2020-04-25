@@ -1,52 +1,52 @@
-## Introduction
+## はじめに
 
-In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
+このプロジェクトでは、短い音色をプログラムします。 その音色は玄関（げんかん）の呼び鈴や携帯電話の着信音、コンピュータの警告通知に使ったり、ウェブページに入れたりすることができます。
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  玄関（げんかん）の呼び鈴がどのように鳴るのかを聞くには、下にある再生ボタンを押してください： <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> お使いのブラウザは<code>audio</code>要素をサポートしていません。 </audio>
 </div>
 
-### Additional information for club leaders
+### クラブ・リーダーのための追加情報
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/compose-tune/print)を使用してください。
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title：クラブ・リーダー用の覚書
 
 ## Introduction:
 
-In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
+このプロジェクトでは、子どもたちは玄関（げんかん）の呼び鈴をプログラムして、番号を使って音符を演奏し、くり返しコードを使って音符をくり返す方法を学びます。
 
-## Resources
+## 資料
 
-The 'Project Materials' link for this project contains the following resources:
+このプロジェクトの「プロジェクト資料」は次の資料が含まれています：
 
-##### Club leader Resources
+##### クラブ・リーダー向け資料
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+「プロジェクト資料」のリンクをクリックすると、このプロジェクトの完成版が見つかります。完成版のプロジェクトには次のものが含まれています：
 
 * doorbell.txt
 * doorbell.mp3
 
-## Learning Objectives
+## 学習目標
 
-* Playing musical notes using midi numbers
-* Repetition
+* MIDI番号を使った音符の演奏
+* くり返し
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+このプロジェクトは [Raspberry Piデジタル・メイキング・カリキュラム](http://rpf.io/curriculum)の中から、以下の内容を取り扱います：
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## チャレンジ
 
-* "Improve the chime" - try using different notes and timings to improve the doorbell chime.
-* "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
-* "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
+* 「呼び鈴をより良くする」 - 玄関（げんかん）の呼び鈴をより良くするために別の音符やタイミングを使ってみる。
+* 「4回くり返す」 - 玄関（げんかん）の呼び鈴を4回くり返して、すごく迷惑になるようにする。
+* 「新しい音色をつくる」 - 携帯電話の着信音など新しい音色をプログラムするのに学んだ技術を生かします。
 
-## Frequently Asked Questions
+## よくある質問
 
-* The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
+* 使う番号はMIDI番号で、21から108はピアノの音符に対応しています。
 * On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
 
 \--- /collapse \---
