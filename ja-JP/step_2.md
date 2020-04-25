@@ -16,29 +16,29 @@ Sonic Piを使うと音楽をプログラムすることができます。 か�
     
     Raspberry Piを使っているなら、スピーカー付きモニタをHDMIで接続して使用するか、スピーカーやヘッドフォンがオーディオジャックに接続されているか確認してください。
     
-    There's also a volume setting under 'Prefs' that you can adjust.
+    「prefs」にも音量を調節できる音量設定があります。
 
-+ Now add another line below your first one:
++ 次に、最初に追加した行の下に別の行を追加します。
     
-    ![screenshot](images/tune-play2.png)
+    ![スクリーンショット](images/tune-play2.png)
 
-+ Click 'Run'. Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
++ 「run」をクリックします。 思ったとおりの音が聞こえましたか？ Sonic Piでは`play`は再生開始です。つまり、最初の音符を再生し、すぐに2番目の音符を再生するので、両方の音符が同時に聞こえます。
 
-+ To get the second note to play after the first note add a `sleep 1` line in between so that your code looks like this:
++ 最初の音符の後に2番目の音符を再生するには、次に示すように`sleep 1`を間に追加します：
     
-    ![screenshot](images/tune-sleep.png)
+    ![スクリーンショット](images/tune-sleep.png)
 
-+ Now run your code and it should sound like a doorbell chime.
++ ここでコードを実行すると、玄関（げんかん）の呼び鈴のような音が聞こえるはずです。
     
-    Listen and you should hear a higher note and then a lower one. Higher notes have higher numbers.
+    耳をすますと、高い音が聞こえて、次に低い音が聞こえます。 高い音符ほど大きい数字になります。
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> お使いのブラウザは<code>audio</code>要素をサポートしていません。 </audio>
     </div>
-+ Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
++ 「save」を押してコードを保存し、ファイルに「doorbell.txt」という名前をつけます。
     
-    ![screenshot](images/tune-save.png)
+    ![スクリーンショット](images/tune-save.png)
     
-    If you're not sure, check with your Club Leader where you should save your file.
+    よくわからないときは、クラブ・リーダーにファイルをどこに保存するか確認してください。
     
-    You can load files back into Sonic Pi by clicking on 'Load'.
+    「load」をクリックするとSonic Piに保存したファイルを読み込めます。
