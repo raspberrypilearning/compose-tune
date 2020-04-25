@@ -1,63 +1,63 @@
-## Introduction
+## المقدمة
 
-In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
+في هذا المشروع سوف تقوم ببرمجة لحناً قصيراً. يمكن استخدامه جرس الباب أو نغمة رنين الهاتف المحمول أو إشعار تنبيه على جهاز الكمبيوتر الخاص بك أو متصفح في صفحة الويب.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  انقر فوق زر التشغيل أدناه لسماع صوت ولحن جرس الباب: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Additional information for club leaders
+### معلومات إضافية لقادة النادي
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+إذا كنت بحاجة إلى طباعة هذا المشروع، فيُرجى استخدام [النسخة القابلة للطباعة](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: ملاحظات قادة النادي
 
-## Introduction:
+## مقدمة:
 
-In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
+في هذا المشروع، سوف يقوم الأطفال ببرمجة جرس الباب ليتعلموا كيفية تشغيل النوتات الموسيقية بأستخدام الأرقام وأستخدام التكرار، لتكرار النوتات الموسيقية.
 
-## Resources
+## المصادر
 
-The 'Project Materials' link for this project contains the following resources:
+يحتوي رابط "مواد المشروع" لهذا المشروع على المصادر التالية:
 
-##### Club leader Resources
+##### مصادر قادة النادي
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+يمكنك العثور على نسخة كاملة من هذا المشروع بالنقر على رابط "مواد المشروع" لهذا المشروع، والذي يحتوي على:
 
 * doorbell.txt
 * doorbell.mp3
 
-## Learning Objectives
+## أهداف التعلم
 
-* Playing musical notes using midi numbers
-* Repetition
+* عزف النوتات الموسيقية بأستخدام أرقام MIDI
+* التكرار
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [استخدم أدوات البرمجة الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## التحديات
 
-* "Improve the chime" - try using different notes and timings to improve the doorbell chime.
-* "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
-* "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
+* "تحسين اللحن" - حاول أن تستخدام نوتات وتوقيتات مختلفة لتحسين رنين جرس الباب.
+* "كرر 4 مرات" - اجعل رنين جرس الباب يتكرر 4 مرات ليكون مزعجًا حقًا!
+* "تأليف لحن جديد" - أستخدم المهارات المكتسبة لبرمجة لحن جديد مثل نغمة رنين للهاتف المحمول.
 
-## Frequently Asked Questions
+## الأسئلة الشائعة
 
-* The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
-* On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
+* الأرقام المستخدمة هي أرقام MIDI، الأرقام من 21 إلى 108 تتوافق مع النوتات الموجودة على آلة البيانو.
+* في Raspberry Pi يمكنك أستخدام `aplay` من سطر الأوامر لتشغيل ملفات `.wav`.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## مواد المشروع
 
-## Club leader resources
+## مصادر قادة النادي
 
-* [Downloadable completed Sonic Pi project](resources/doorbell.txt)
-* [Downloadable completed project mp3 file](resources/doorbell.mp3)
+* [مشروع Scratch 2 مكتمل قابل للتنزيل](resources/doorbell.txt)
+* [تنزيل ملف mp3 المشروع المكتمل](resources/doorbell.mp3)
 
 \--- /collapse \---
