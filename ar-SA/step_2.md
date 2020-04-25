@@ -1,44 +1,44 @@
-## Play your first notes
+## أعزف لحنك الأول
 
-Sonic Pi allows you to program music. Let's start by playing some simple musical notes.
+يتيح لك Sonic Pi ببرمجة الموسيقى. لنبدأ بعزف بعض النوتات الموسيقية البسيطة.
 
 [[[sonic-pi-install]]]
 
-+ Run Sonic Pi. Your Club Leader will be able to tell you where to find it. If you're using a Raspberry Pi then it's under Programming on the menu.
++ قم بتشغيل Sonic Pi. سيتمكن قائد النادي من إخبارك، اين يمكنك العثور عليه. إذا كنت تستخدم Raspberry Pi ، فهذا ضمن البرمجة في القائمة.
     
-    ![screenshot](images/tune-GUI.png)
+    ![لقطة للشاشة](images/tune-GUI.png)
 
-+ See where it says '#Welcome to Sonic Pi'? Below there type:
++ انظر أين تقول '#مرحبا بك في Sonic Pi'؟ ادناه هو النوع:
     
-    ![screenshot](images/tune-play.png)
+    ![لقطة للشاشة](images/tune-play.png)
 
-+ Click 'Run'. Did you hear a musical note? If not, make sure that the sound isn't muted on your computer and that the volume is high enough. If the sound is too loud turn it down.
++ انقر فوق 'Run'. هل سمعت نوتة موسيقية؟ إذا لم تستمع، تأكد من أن الصوت غير مكتووم على جهاز الكمبيوتر الخاص بك وأن مستوى الصوت مرتفع بما فيه الكفاية. إذا كان الصوت عالياً جدًا فقم بخفضه.
     
-    If you're using a Raspberry Pi then make sure you are using either an HDMI monitor with speakers or have speakers or headphones connected to the audio jack.
+    إذا كنت تستخدم Raspberry Pi، فتأكد من أنك تستخدم شاشة HDMI مع مكبرات الصوت أو لديك مكبرات صوت أو سماعات متصلة بمقبس الصوت.
     
-    There's also a volume setting under 'Prefs' that you can adjust.
+    هناك أيضًا إعداد لمستوى الصوت ضمن "Prefs" يمكنك ضبطه.
 
-+ Now add another line below your first one:
++ أضف الآن سطرًا آخر أسفل الخط الأول:
     
-    ![screenshot](images/tune-play2.png)
+    ![لقطة للشاشة](images/tune-play2.png)
 
-+ Click 'Run'. Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
++ انقر فوق 'Run'. هل سمعت ما كنت تتوقعه؟ في Sonic Pi، تشغيل ` ` يعني بدء اللعب، لذلك تبدأ في عزف النغمة الأولى ثم تبدأ على الفور في عزف النغمة الثانية حتى تسمع النغمتين في نفس الوقت.
 
-+ To get the second note to play after the first note add a `sleep 1` line in between so that your code looks like this:
++ للوصول الى النغمة الثانية للتشغيل بعد النغمة الأولى، أضف سطر ` sleep 1 ` بحيث تبدو الكود البرمجي كما يلي:
     
-    ![screenshot](images/tune-sleep.png)
+    ![لقطة للشاشة](images/tune-sleep.png)
 
-+ Now run your code and it should sound like a doorbell chime.
++ الآن قم بتشغيل الكود البرمجي الخاص بك ويجب أن يبدو مثل جرس الباب.
     
-    Listen and you should hear a higher note and then a lower one. Higher notes have higher numbers.
+    أستمع ويجب أن تسمع صوتًا أعلى ثم صوتًا أقل. تحتوي النغمات العليا على نوتات أعلى.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
-+ Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
++ احفظ الكود البرمجي بالنقر على 'حفظ Save' واعط اسم ملفك 'doorbell.txt'.
     
-    ![screenshot](images/tune-save.png)
+    ![لقطة للشاشة](images/tune-save.png)
     
-    If you're not sure, check with your Club Leader where you should save your file.
+    إذا كنت غير متأكد، تحقق مع قائد النادي الخاص بك اين يجب ان تحفظ ملفك.
     
-    You can load files back into Sonic Pi by clicking on 'Load'.
+    يمكنك تحميل الملفات مرة أخرى إلى Sonic Pi بالنقر على 'التحميل Load'.
