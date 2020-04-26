@@ -6,16 +6,16 @@
     
     ![スクリーンショット](images/tune-times.png)
     
-    Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
+    Sonic Piは`times`ループの中に入る玄関（げんかん）の呼び鈴のコードをインデントしてくれます。
 
-+ Listen to the chime. Is it what you expected?
++ 呼び鈴を聞いてください。 期待した通りでしたか？
     
-    You'll need to add a `sleep` line at the end so that there's a pause before repeating:
+    くり返す前に休止するように最後に`sleep`を追加する必要があります。
     
-    ![screenshot](images/tune-sleep2.png)
+    ![スクリーンショット](images/tune-sleep2.png)
 
-+ Listen to the chime again and it should sound better.
++ 呼び鈴をもう一度聞くと、音がより良くなっているはずです。
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> お使いのブラウザは<code>audio</code>要素をサポートしていません。 </audio>
     </div>
