@@ -1,63 +1,63 @@
-## Εισαγωγή
+## Introduction
 
-Σε αυτό το έργο θα προγραμματίσεις μια σύντομη μελωδία. Θα μπορούσε να χρησιμοποιηθεί ως ήχος κουδουνιού, ήχος κλήσης κινητού τηλεφώνου, ήχος ειδοποίησης στον υπολογιστή σου ή να συμπεριλαμβάνεται σε μια ιστοσελίδα.
+In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
 
 <div id="audio-preview" class="pdf-hidden">
-  Κάνε κλικ στο κουμπί αναπαραγωγής παρακάτω για να ακούσεις πώς θα ακουστεί ο ήχος κουδουνιού: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Το πρόγραμμα περιήγησής σου δεν υποστηρίζει αυτό το <code>ηχητικό</code> στοιχείο. </audio>
+  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### Πρόσθετες πληροφορίες για τους συντονιστές των ομάδων
+### Additional information for club leaders
 
-Αν χρειαστεί να εκτυπώσεις αυτό το έργο, χρησιμοποίησε την [εκτυπώσιμη έκδοση](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
-## title: Σημειώσεις συντονιστή ομάδας
+## title: Club leader notes
 
-## Εισαγωγή:
+## Introduction:
 
-Σε αυτό το έργο, τα παιδιά θα προγραμματίσουν τον ήχο ενός κουδουνιού για να μάθουν πώς να παίζουν μουσικές νότες χρησιμοποιώντας αριθμούς και να χρησιμοποιούν επανάληψη για να επαναλαμβάνουν τις νότες.
+In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
 
-## Πόροι
+## Resources
 
-Ο σύνδεσμος «Υλικά έργου» για το έργο αυτό περιέχει τους ακόλουθους πόρους:
+The 'Project Materials' link for this project contains the following resources:
 
-##### Πόροι συντονιστή ομάδας
+##### Club leader Resources
 
-Μπορείς να βρεις μια ολοκληρωμένη έκδοση αυτού του έργου κάνοντας κλικ στο σύνδεσμο «Υλικά έργου» για αυτό το έργο, το οποίο περιέχει:
+You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
 
 * doorbell.txt
 * doorbell.mp3
 
-## Στόχοι μάθησης
+## Learning Objectives
 
-* Να αναπαράγονται οι νότες με χρήση αριθμών midi
-* Επανάληψη
+* Playing musical notes using midi numbers
+* Repetition
 
-Αυτό το έργο καλύπτει στοιχεία από τις ακόλουθες πτυχές του [Προγράμματος Μαθημάτων Ψηφιακής Δημιουργίας του Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
 
-* [Χρησιμοποίησε βασικές δομές προγραμματισμού για να δημιουργήσεις απλά προγράμματα.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Προκλήσεις
+## Challenges
 
-* «Βελτίωσε τη μελωδία» - δοκίμασε να χρησιμοποιήσεις διαφορετικές νότες και χρονισμούς για να βελτιώσεις τον ήχο του κουδουνιού.
-* «Επανάληψη 4 φορές» - κάνε τον ήχο του κουδουνιού να επαναλαμβάνεται 4 φορές ώστε να είναι πραγματικά ενοχλητικός!
-* «Σύνθεσε μια νέα μελωδία» - χρησιμοποίησε τις δεξιότητες που έχεις μάθει για να προγραμματίσεις μια νέα μελωδία, όπως ένας ήχος κλήσης κινητού τηλεφώνου.
+* "Improve the chime" - try using different notes and timings to improve the doorbell chime.
+* "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
+* "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
 
-## Συχνές Ερωτήσεις
+## Frequently Asked Questions
 
-* Οι αριθμοί που χρησιμοποιούνται είναι αριθμοί midi, οι αριθμοί 21 έως 108 αντιστοιχούν στις νότες στο πιάνο.
-* Στο Raspberry Pi μπορείς να χρησιμοποιήσεις την εντολή `aplay` από τη γραμμή εντολών για αναπαραγωγή αρχείων `.wav`.
+* The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
+* On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Υλικό έργου
+## title: Project materials
 
-## Πόροι συντονιστή ομάδας
+## Club leader resources
 
-* [Δυνατότητα λήψης ολοκληρωμένου έργου Sonic Pi](resources/doorbell.txt)
-* [Δυνατότητα λήψης αρχείου mp3 του ολοκληρωμένου έργου](resources/doorbell.mp3)
+* [Downloadable completed Sonic Pi project](resources/doorbell.txt)
+* [Downloadable completed project mp3 file](resources/doorbell.mp3)
 
 \--- /collapse \---
