@@ -1,6 +1,6 @@
-## Introduction
+## Вступ
 
-In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
+В цьому проєкті ти запрограмуєш просту мелодію. Вона може використовуватися в дверному дзвінку, як рингтон мобільного телефона, звук сповіщення на комп’ютері, або бути включена у вебсторінку.
 
 <div id="audio-preview" class="pdf-hidden">
   Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
