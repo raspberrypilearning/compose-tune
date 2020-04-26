@@ -1,23 +1,23 @@
-## Recording your chime
+## 呼び鈴を録音する
 
-Now let's record the doorbell chime so that you can play it outside of Sonic Pi. Sonic Pi can create `wav` files which are commonly used sound files.
+次に、Sonic Pi以外で再生できるように玄関（げんかん）の呼び鈴を録音します。 Sonic Piは音声ファイルとして一般的に使われている`wav`ファイルを作成できます。
 
-+ Click on the 'Rec' button to start recording.
++ 「rec」を押して玄関（げんかん）の呼び鈴の録音を開始します。
     
-    ![screenshot](images/tune-record.png)
+    ![スクリーンショット](images/tune-record.png)
 
-+ Then click 'Run' to play your doorbell chime.
++ 次に「run」を押して玄関（げんかん）の呼び鈴を再生します。
     
-    ![screenshot](images/tune-run.png)
+    ![スクリーンショット](images/tune-run.png)
 
-+ When it finishes click 'Rec' again to stop recording and you will be prompted for a filename. Call your file 'doorbell.wav'.
++ 再生が終了したら、もう一度「rec」を押して録音を停止します。すると、ファイル名の入力を求められます。 ファイル名を「doorbell.wav」にします。
     
-    ![screenshot](images/tune-record-stop.png)
+    ![スクリーンショット](images/tune-record-stop.png)
 
-+ If you have a program that can play '.wav' files then you'll be able to play your doorbell chime outside of Sonic Pi.
++ 「wav」ファイルを再生できるプログラムがあれば、玄関（げんかん）の呼び鈴をSonic Pi以外で再生できます。
     
-    Tip: If you don't have another program that can play '.wav' files then you could import the sound into Scratch and play it.
+    ヒント：「wav」ファイルを再生する別のプログラムがないときは、Scrachに取り込んで再生できます。
     
-    ![screenshot](images/scratch-upload.png)
+    ![スクリーンショット](images/scratch-upload.png)
     
-    Tip: You may need to close Sonic Pi to be able to play sound using another app.
+    ヒント：別のアプリケーションで音声ファイルを再生するときは、Sonic Piを閉じる必要があるかもしれません。
