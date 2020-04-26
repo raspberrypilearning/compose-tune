@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Compose a new tune
+## チャレンジ：新しい音色をつくる
 
-Now take what you've learnt and compose your own tune. It could be a doorbell chime, mobile ringtone or notification.
+次に、学んできたとこと取り入れて、独自の音色をつくります。 玄関（げんかん）の呼び鈴、携帯電話の着信音や通知になります。
 
-Use `play`, `sleep` and `times` to create your own more interesting tune.
+`play`、`sleep`、`times`を使ってより面白い音色をつくります。
 
-Remember, higher numbers play higher notes and numbers 21 to 108 correspond to the notes on the piano.
+番号が大きいほど音が高くなり、番号21から108がピアノの音符に対応することを思い出しましょう。
 
-You can also record your tune as a '.wav' file.
+音色を「wav」ファイルとして保存することもできます。
 
-\--- /challenge \---
+\--- challenge \---
