@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Repeat 4 times
+## チャレンジ：4回くり返す
 
-Can you make the doorbell repeat 4 times to be really annoying?
+玄関（げんかん）の呼び鈴を4回くり返して、すごく迷惑になるようにできますか？
 
 \--- /challenge \---
