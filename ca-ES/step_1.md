@@ -49,7 +49,7 @@ Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabr
 * Els nombres que s’utilitzen són números midi, els números del 21 al 108 corresponen a les notes del piano.
 * A la Raspberry Pi pots utilitzar `aplay` des de la línia d'ordres per reproduir fitxers `.wav`.
 
-\--- /collapse \---
+\--- / collapse \---
 
 ## \--- collapse \---
 
@@ -60,4 +60,4 @@ Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabr
 * [Projecte Sonic Pi acabat descarregable](resources/doorbell.txt)
 * [Arxiu mp3 del projecte acabat descarregable](resources/doorbell.mp3)
 
-\--- /collapse \---
+\--- / collapse \---
