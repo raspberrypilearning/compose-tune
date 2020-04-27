@@ -1,20 +1,20 @@
-## Repeat the chime
+## Ponovi zvonjenje
 
-Doorbells often repeat the chime.
+Hišni zvonci pogosto ponavljajo melodijo.
 
-+ Let's put the doorbell chime into a loop:
++ Postavimo napev zvonca v zanko:
     
-    ![screenshot](images/tune-times.png)
+    ![posnetek zaslona](images/tune-times.png)
     
-    Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
+    Sonic Pi bo v pomoč zamaknil kodo hišnega zvonca v zanki `times`.
 
-+ Listen to the chime. Is it what you expected?
++ Prisluhni melodiji. Je to tisto pričakovano?
     
-    You'll need to add a `sleep` line at the end so that there's a pause before repeating:
+    Treba je na koncu dodati še vrstico `sleep`, ki ustvari pavzo pred ponavljanjem:
     
-    ![screenshot](images/tune-sleep2.png)
+    ![posnetek zaslona](images/tune-sleep2.png)
 
-+ Listen to the chime again and it should sound better.
++ Še enkrat poslušaj melodijo. Sedaj bi morala zveneti bolje.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
