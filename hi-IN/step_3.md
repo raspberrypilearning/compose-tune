@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve the chime
+## चुनौती: झंकार में सुधार करना
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+स्वरों के लिए भिन्न संख्याएँ चुनने का प्रयास करें। 21 से 108 तक की संख्याएँ पियानो के स्वरों के अनुरूप होती हैं। यह पता लगाने के लिए प्रयोग करें कि आपको कौन से स्वर पसंद हैं।
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+क्या डोरबेल में पहला स्वर बहुत लंबा है? sleep (विराम) को 0.75 या 0.5 में बदलने की कोशिश करें।
 
 \--- /challenge \---
