@@ -17,8 +17,8 @@
 + झंकार को फिर से सुनें और आवाज़ बेहतर होनी चाहिए।
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> 
+    <audio controls preload> 
       <source src="resources/doorbell-2.mp3" type="audio/mpeg"> 
       आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। 
-      </audio>
+    </audio>
     </div>

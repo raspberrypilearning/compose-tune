@@ -33,10 +33,10 @@ Sonic Pi से आप संगीत प्रोग्राम कर सक
     सुनें और आपको पहले उच्च स्वर सुनाई देगा और फिर निम्न स्वर। उच्च स्वरों की संख्या बड़ी होती है।
     
     <div id="audio-preview" class="pdf-hidden">
-        <audio controls preload> 
+    <audio controls preload> 
         <source src="resources/doorbell-1.mp3" type="audio/mpeg"> 
         आपका ब्राउज़र <code>audio</code> तत्व का समर्थन नहीं करता है। 
-        </audio>
+    </audio>
     </div>
 
 + 'Save' पर क्लिक करके अपना कोड सहेजें और अपनी फ़ाइल का नाम 'doorbell.txt' रखें।

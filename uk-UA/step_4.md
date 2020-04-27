@@ -17,8 +17,8 @@
 + Послухай мелодію знову, зараз вона повинна звучати краще.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> 
+    <audio controls preload> 
       <source src="resources/doorbell-2.mp3" type="audio/mpeg"> 
       Твій браузер не підтримує елемент <code>audio</code>.
-      </audio>
+    </audio>
     </div>

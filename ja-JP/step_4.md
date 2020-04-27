@@ -17,8 +17,8 @@
 + 呼び鈴をもう一度聞くと、音がより良くなっているはずです。
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> 
+    <audio controls preload> 
       <source src="resources/doorbell-2.mp3" type="audio/mpeg"> 
       お使いのブラウザは<code>audio</code>要素をサポートしていません。 
-      </audio>
+    </audio>
     </div>

@@ -33,11 +33,11 @@ Sonic Pi дозволяє тобі програмувати музику. Поч
     Вслухайся, ти маєш почути вищу ноту, а за нею — нижчу. Вищі ноти мають більші коди.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> 
+    <audio controls preload> 
       <source src="resources/doorbell-1.mp3" type="audio/mpeg"> 
       Твій браузер не підтримує елемент <code>audio</code>.
-      </audio>
-    </div>
+    </audio>
+    </div> 
 + Збережи свою програму, натиснувши "Save", і назви свій файл "дзвінок.txt".
     
     ![знімок екрана](images/tune-save.png)
