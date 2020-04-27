@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve the chime
+## Izziv: Izboljšaj zvonec
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+Poskusi izbrati druge številke not. Številke med 21 in 108 ustrezajo notam na klavirju. Eksperimentiraj z njimi, da odkriješ tiste, ki so ti všeč.
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+Ali je prva nota hišnega zvonca predolga? Poskusi spremeniti 'sleep' v 0.75 ali 0.5.
 
 \--- /challenge \---
