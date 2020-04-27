@@ -1,23 +1,23 @@
-## Recording your chime
+## Запис свого дзвону
 
-Now let's record the doorbell chime so that you can play it outside of Sonic Pi. Sonic Pi can create `wav` files which are commonly used sound files.
+Тепер давай запишемо звук твого дзвінка, щоб ти міг (могла) відтворювати його, не використовуючи Sonic Pi. Sonic Pi може створювати файли `wav`, які є популярними звуковими файлами.
 
-+ Click on the 'Rec' button to start recording.
++ Натисни на кнопку "Rec" для початку запису.
     
-    ![screenshot](images/tune-record.png)
+    ![знімок екрана](images/tune-record.png)
 
-+ Then click 'Run' to play your doorbell chime.
++ Далі натисни "Run", щоб відтворити дверний дзвінок.
     
-    ![screenshot](images/tune-run.png)
+    ![знімок екрана](images/tune-run.png)
 
-+ When it finishes click 'Rec' again to stop recording and you will be prompted for a filename. Call your file 'doorbell.wav'.
++ Коли він закінчиться, знову натисни "Rec", щоб зупинити запис, після чого тобі треба буде ввести ім’я файлу. Назви свій файл "дзвінок.wav".
     
-    ![screenshot](images/tune-record-stop.png)
+    ![знімок екрана](images/tune-record-stop.png)
 
-+ If you have a program that can play '.wav' files then you'll be able to play your doorbell chime outside of Sonic Pi.
++ Якщо в тебе є програма, яка може відтворювати файли ".wav", то ти можеш відтворити свою мелодію дзвінка, не використовуючи Sonic Pi.
     
-    Tip: If you don't have another program that can play '.wav' files then you could import the sound into Scratch and play it.
+    Порада: Якщо в тебе немає програми, яка може відтворювати файли ".wav", тоді ти можеш імпортувати звук в Скретч і відтворити його там.
     
-    ![screenshot](images/scratch-upload.png)
+    ![знімок екрана](images/scratch-upload.png)
     
-    Tip: You may need to close Sonic Pi to be able to play sound using another app.
+    Порада: Тобі може бути необхідно закрити Sonic Pi, щоб мати можливість відтворювати звук в іншій програмі.
