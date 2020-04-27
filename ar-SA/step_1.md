@@ -3,7 +3,7 @@
 في هذا المشروع سوف تقوم ببرمجة لحناً قصيراً. يمكن استخدامه جرس الباب أو نغمة رنين الهاتف المحمول أو إشعار تنبيه على جهاز الكمبيوتر الخاص بك أو متصفح في صفحة الويب.
 
 <div id="audio-preview" class="pdf-hidden">
-  انقر فوق زر التشغيل أدناه لسماع صوت ولحن جرس الباب: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  انقر فوق زر التشغيل أدناه لسماع صوت ولحن جرس الباب: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم هذا الجزء <code>الصوت </code>. </audio>
 </div>
 
 ### معلومات إضافية لقادة النادي
