@@ -1,44 +1,44 @@
-## Play your first notes
+## 演奏你的第一个音符
 
-Sonic Pi allows you to program music. Let's start by playing some simple musical notes.
+Sonic Pi允许你编写音乐。 让我们从演奏一些简单的音符开始。
 
 [[[sonic-pi-install]]]
 
-+ Run Sonic Pi. Your Club Leader will be able to tell you where to find it. If you're using a Raspberry Pi then it's under Programming on the menu.
++ 运行Sonic Pi。 您的俱乐部的指导老师会够告诉你在哪里可以找到它。 如果你正在使用树莓派，那么它就在菜单中的“编程”里。
     
-    ![screenshot](images/tune-GUI.png)
+    ![截屏](images/tune-GUI.png)
 
-+ See where it says '#Welcome to Sonic Pi'? Below there type:
++ 看看哪里写着“ #Welcome to Sonic Pi”？ 在下面输入：
     
-    ![screenshot](images/tune-play.png)
+    ![截屏](images/tune-play.png)
 
-+ Click 'Run'. Did you hear a musical note? If not, make sure that the sound isn't muted on your computer and that the volume is high enough. If the sound is too loud turn it down.
++ 点击“运行”。 你听到音符了吗？ 如果不是，请确保计算机上未被静音，并且音量足够大。 如果声音太大，请将其调低。
     
-    If you're using a Raspberry Pi then make sure you are using either an HDMI monitor with speakers or have speakers or headphones connected to the audio jack.
+    如果您使用的是树莓派，请确保使用带扬声器的HDMI显示器，或者将扬声器或耳机连接到音频插孔。
     
-    There's also a volume setting under 'Prefs' that you can adjust.
+    您还可以在“偏好设置”下调整音量。
 
-+ Now add another line below your first one:
++ 现在，在您的第一个音符下面添加另一行：
     
-    ![screenshot](images/tune-play2.png)
+    ![截屏](images/tune-play2.png)
 
-+ Click 'Run'. Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
++ 点击“运行”。 你听到你的期望的音符了吗？ 在Sonic Pi中，`播放`表示开始演奏，因此它开始演奏第一个音符，然后立即开始演奏第二个音符，以便你能同时听到两个音符。
 
-+ To get the second note to play after the first note add a `sleep 1` line in between so that your code looks like this:
++ 要使第二个音符在第一个音符之后播放，请两行代码之间之间插入一行，以添加` sleep 1 `，这样您的代码如下所示：
     
-    ![screenshot](images/tune-sleep.png)
+    ![截屏](images/tune-sleep.png)
 
-+ Now run your code and it should sound like a doorbell chime.
++ 现在运行您的代码，它听起来会像是门铃。
     
-    Listen and you should hear a higher note and then a lower one. Higher notes have higher numbers.
+    仔细听，你应该听到一个较高的音符，然后是一个较低的音符。 较高的音符具有较高的编号。
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
-+ Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
++ 单击“保存”保存代码，并将文件命名为“ doorbell.txt”。
     
-    ![screenshot](images/tune-save.png)
+    ![截屏](images/tune-save.png)
     
-    If you're not sure, check with your Club Leader where you should save your file.
+    如果不确定，请与俱乐部的指导老师联系，确定应在哪里保存文件。
     
-    You can load files back into Sonic Pi by clicking on 'Load'.
+    您可以通过单击“加载”将文件加载回Sonic Pi。
