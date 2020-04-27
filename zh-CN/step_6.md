@@ -1,23 +1,23 @@
-## Recording your chime
+## 录制你的铃声
 
-Now let's record the doorbell chime so that you can play it outside of Sonic Pi. Sonic Pi can create `wav` files which are commonly used sound files.
+现在，让我们录制一下门铃的铃声，以便你可以在Sonic Pi之外播放。 Sonic Pi可以创建常用的` wav `声音文件。
 
-+ Click on the 'Rec' button to start recording.
++ 单击“录制”按钮开始录制。
     
-    ![screenshot](images/tune-record.png)
+    ![截屏](images/tune-record.png)
 
-+ Then click 'Run' to play your doorbell chime.
++ 然后单击“运行”播放门铃。
     
-    ![screenshot](images/tune-run.png)
+    ![截屏](images/tune-run.png)
 
-+ When it finishes click 'Rec' again to stop recording and you will be prompted for a filename. Call your file 'doorbell.wav'.
++ 完成后，再次单击“录制”以停止录制，系统将提示你输入文件名。 将该文件命名为“ doorbell.wav”。
     
-    ![screenshot](images/tune-record-stop.png)
+    ![截屏](images/tune-record-stop.png)
 
-+ If you have a program that can play '.wav' files then you'll be able to play your doorbell chime outside of Sonic Pi.
++ 如果您有可以播放'.wav'文件的程序，则可以在Sonic Pi之外播放门铃铃声。
     
-    Tip: If you don't have another program that can play '.wav' files then you could import the sound into Scratch and play it.
+    提示：如果没有其他可以播放'.wav'文件的程序，则可以将声音导入Scratch并进行播放。
     
-    ![screenshot](images/scratch-upload.png)
+    ![截屏](images/scratch-upload.png)
     
-    Tip: You may need to close Sonic Pi to be able to play sound using another app.
+    提示：您可能需要关闭Sonic Pi才能使用其他应用程序播放声音。
