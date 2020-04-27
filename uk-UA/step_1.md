@@ -3,61 +3,61 @@
 В цьому проєкті ти запрограмуєш просту мелодію. Вона може використовуватися в дверному дзвінку, як рингтон мобільного телефона, звук сповіщення на комп’ютері, або бути включена у вебсторінку.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Натисни на кнопку відтворення нижче, щоб почути, як звучатиме цей дверний дзвінок: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Твій браузер не підтримує елемент <code>audio</code>. </audio>
 </div>
 
-### Additional information for club leaders
+### Додаткова інформація для керівників гуртка
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+Якщо вам потрібно роздрукувати цей проєкт, будь ласка, скористайтеся [версією для друку](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Нотатки керівника гуртка
 
-## Introduction:
+## Вступ:
 
-In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
+В цьому проєкті діти запрограмують звук дверного дзвінка і дізнаються, як відтворювати музичні ноти за допомогою чисел та використовувати цикли для повтору нот.
 
-## Resources
+## Ресурси
 
-The 'Project Materials' link for this project contains the following resources:
+Посилання "Матеріали проєкту" містить такі ресурси:
 
-##### Club leader Resources
+##### Ресурси керівника гуртка
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Ви можете знайти завершену версію цього проєкту, перейшовши за посиланням "Матеріали проєкту", яке містить:
 
 * doorbell.txt
 * doorbell.mp3
 
-## Learning Objectives
+## Мета навчання
 
-* Playing musical notes using midi numbers
-* Repetition
+* Виконання музичних нот за допомогою кодів MIDI
+* Цикли
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Використання основних програмних конструкцій для створення простих програм.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Завдання
 
-* "Improve the chime" - try using different notes and timings to improve the doorbell chime.
-* "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
-* "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
+* "Покращи дзвін" — спробувати використати різні ноти та інтервали, щоб покращити дверний дзвінок.
+* "Повтори 4 рази" — зробити, щоб дверний дзвінок повторювався 4 рази, будучи дуже набридливим!
+* "Створи нову мелодію" — використати отримані навички для програмування нової мелодії, наприклад, рингтону для мобільного телефону.
 
-## Frequently Asked Questions
+## Найбільш поширенні питання
 
-* The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
-* On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
+* Числа, що використовуються — це коди MIDI, коди від 21 до 108 відповідають нотам фортепіано.
+* На Raspberry Pi ви можете використовувати програму `aplay` з командного рядка для відтоврення файлів `.wav`.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Матеріали проєкту
 
-## Club leader resources
+## Ресурси керівника гуртка
 
-* [Downloadable completed Sonic Pi project](resources/doorbell.txt)
-* [Downloadable completed project mp3 file](resources/doorbell.mp3)
+* [Завершений проєкт Sonic Pi доступний для завантаження](resources/doorbell.txt)
+* [Завершений mp3-файл доступний для завантаження](resources/doorbell.mp3)
 
 \--- /collapse \---
