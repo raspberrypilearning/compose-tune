@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Compose a new tune
+## Izziv: Ustvari novo melodijo
 
-Now take what you've learnt and compose your own tune. It could be a doorbell chime, mobile ringtone or notification.
+Sedaj pa uporabi pridobljeno znanje in ustvari svojo lastno melodijo. To je lahko hišni zvonec, telefonsko zonjenje ali zvok opozorila.
 
-Use `play`, `sleep` and `times` to create your own more interesting tune.
+Uporabi `play`, `sleep` in `times` za ustvarjanje bolj zanimivega napeva.
 
-Remember, higher numbers play higher notes and numbers 21 to 108 correspond to the notes on the piano.
+Zapomni si, da večje številke predvajajo višje note in da številke med 21 in 108 ustrezajo notam klavirja.
 
-You can also record your tune as a '.wav' file.
+Svojo melodijo lahko posnameš tudi kot '.wav' datoteko.
 
 \--- /challenge \---
