@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- repte \---
 
 ## Repte: Millora el timbre
 
