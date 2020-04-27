@@ -33,7 +33,7 @@
     أستمع ويجب أن تسمع صوتًا أعلى ثم صوتًا أقل. تحتوي النغمات العليا على نوتات أعلى.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> المتصفح الخاص بك لا يدعم هذا الجزء <code>الصوت </code>. </audio>
     </div>
 + احفظ الكود البرمجي بالنقر على 'حفظ Save' واعط اسم ملفك 'doorbell.txt'.
     
