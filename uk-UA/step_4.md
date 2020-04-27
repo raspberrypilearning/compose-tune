@@ -1,21 +1,21 @@
-## Repeat the chime
+## Повтори дзвін
 
-Doorbells often repeat the chime.
+Дверні дзвінки часто повторюють мелодію.
 
-+ Let's put the doorbell chime into a loop:
++ Давай помістимо мелодію дзвінка в цикл:
     
-    ![screenshot](images/tune-times.png)
+    ![знімок екрана](images/tune-times.png)
     
-    Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
+    Sonic Pi охоче зробить правильні відступи для коду мелодії дзвінка в циклі `times`.
 
-+ Listen to the chime. Is it what you expected?
++ Послухай мелодію. Це те, чого ти чекав (-ла)?
     
-    You'll need to add a `sleep` line at the end so that there's a pause before repeating:
+    Тобі треба буде додати рядок зі `sleep` в кінці, щоб була пауза перед повторенням:
     
-    ![screenshot](images/tune-sleep2.png)
+    ![знімок екрана](images/tune-sleep2.png)
 
-+ Listen to the chime again and it should sound better.
++ Послухай мелодію знову, зараз вона повинна звучати краще.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Твій браузер не підтримує елемент <code>audio</code>. </audio>
     </div>
