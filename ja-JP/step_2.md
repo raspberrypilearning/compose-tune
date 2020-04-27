@@ -33,8 +33,12 @@ Sonic Piを使うと音楽をプログラムすることができます。 か�
     耳をすますと、高い音が聞こえて、次に低い音が聞こえます。 高い音符ほど大きい数字になります。
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> お使いのブラウザは<code>audio</code>要素をサポートしていません。 </audio>
+      <audio controls preload> 
+      <source src="resources/doorbell-1.mp3" type="audio/mpeg"> 
+      お使いのブラウザは<code>audio</code>要素をサポートしていません。 
+      </audio>
     </div>
+    
 + 「save」を押してコードを保存し、ファイルに「doorbell.txt」という名前をつけます。
     
     ![スクリーンショット](images/tune-save.png)
