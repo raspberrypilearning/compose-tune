@@ -1,9 +1,9 @@
 \--- challenge \---
 
-## Challenge: Improve the chime
+## Завдання: покращи дзвін
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+Спробуй різні коди нот. Коди від 21 до 108 відповідають клавішам фортепіано. Експериментуй, щоб знайти ноти, які тобі до вподоби.
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+Можливо перша нота дверного дзвінка занадто довга? Спробуй змінити затримку (sleep) на 0.75 чи 0.5.
 
 \--- /challenge \---
