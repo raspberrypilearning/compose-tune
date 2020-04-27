@@ -1,21 +1,21 @@
-## Ripeti lo squillo
+## Repeat the chime
 
-I campanelli spesso ripetono lo squillo.
+Doorbells often repeat the chime.
 
-+ Mettiamo lo squillo del campanello in un ciclo:
++ Let's put the doorbell chime into a loop:
     
     ![screenshot](images/tune-times.png)
     
-    Sonic Pi indenterà utilmente il codice della campanella all'interno del ciclo `times` (volte).
+    Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
 
-+ Ascolta lo squillo. È quello che ti aspettavi?
++ Listen to the chime. Is it what you expected?
     
-    Devi aggiungere una linea `sleep` di attesa alla fine in modo che ci sia una pausa prima di ripetere:
+    You'll need to add a `sleep` line at the end so that there's a pause before repeating:
     
     ![screenshot](images/tune-sleep2.png)
 
-+ Ascolta di nuovo lo squillo e dovrebbe suonare meglio.
++ Listen to the chime again and it should sound better.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Il tuo browser non supporta l'elemento <code>audio</code>. </audio>
+      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
