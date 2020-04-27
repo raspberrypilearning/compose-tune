@@ -1,13 +1,13 @@
 \--- challenge \---
 
-## Challenge: Compose a new tune
+## Завдання: створи нову мелодію
 
-Now take what you've learnt and compose your own tune. It could be a doorbell chime, mobile ringtone or notification.
+Тепер, використовуючи те, що знаєш, створи власну мелодію. Це може бути дверний дзвінок, мобільний рингтон або сповіщення.
 
-Use `play`, `sleep` and `times` to create your own more interesting tune.
+Використовуй `play`, `sleep` і `times`, щоб створити більш цікаву мелодію.
 
-Remember, higher numbers play higher notes and numbers 21 to 108 correspond to the notes on the piano.
+Пам'ятай, що більші коди — це вищі ноти, а числа від 21 до 108 відповідають клавішам фортепіано.
 
-You can also record your tune as a '.wav' file.
+Також ти можеш зберегти свою мелодію як файл ".wav".
 
 \--- /challenge \---
