@@ -6,28 +6,28 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Compose your own tune
-description: Use Sonic Pi to create a cool doorbell chime
+title: अपनी खुद की धुन रचें
+description: एक अच्छी डोरबेल की आवाज़ बनाने के लिए Sonic Pi का उपयोग करें
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
-interests: music
+interests: संगीत
 technologies: 'sonic pi'
-site_areas: projects
+site_areas: प्रोजेक्ट
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: परिचय
   - 
-    title: Play your first notes
+    title: अपने पहले स्वर बजाएँ
   - 
-    title: 'Challenge: Improve the chime'
+    title: 'चुनौती: झंकार में सुधार करना'
   - 
-    title: Repeat the chime
+    title: झंकार को दोहराना
   - 
-    title: 'Challenge: Repeat 4 times'
+    title: 'चुनौती: 4 बार दोहराना'
   - 
-    title: Recording your chime
+    title: अपनी झंकार को रिकॉर्ड करना
   - 
-    title: 'Challenge: Compose a new tune'
+    title: 'चुनौती: एक नई धुन की रचना करना'
