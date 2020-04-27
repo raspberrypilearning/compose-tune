@@ -1,4 +1,4 @@
-\--- challenge \---
+\--- repte \---
 
 ## Repte: Composa una nova melodia
 
