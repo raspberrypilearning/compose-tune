@@ -1,23 +1,23 @@
-## Recording your chime
+## Snemanje zvonca
 
-Now let's record the doorbell chime so that you can play it outside of Sonic Pi. Sonic Pi can create `wav` files which are commonly used sound files.
+Sedaj posnamimo hišni zvonec, da ga boš lahko predvajal-a zunanj programa Sonic Pi. Sonic pi lahko ustvari datoteke `wav`, ki so pogosto uproabljene za shranjevanje zvoka.
 
-+ Click on the 'Rec' button to start recording.
++ Klikni na gumb 'Rec' za začetek snemanja.
     
-    ![screenshot](images/tune-record.png)
+    ![posnetek zaslona](images/tune-record.png)
 
-+ Then click 'Run' to play your doorbell chime.
++ Nato klikni na 'Run', da se hišni zvonec predvaja.
     
-    ![screenshot](images/tune-run.png)
+    ![posnetek zaslona](images/tune-run.png)
 
-+ When it finishes click 'Rec' again to stop recording and you will be prompted for a filename. Call your file 'doorbell.wav'.
++ Ko je predvajanje zaključeno, zopet klikni na 'Rec', da zaustaviš snemanje, na kar bo potrebno vnesti ime datoteke. Datoteko poimenuj 'hisnizvonec.wav'.
     
-    ![screenshot](images/tune-record-stop.png)
+    ![posnetek zaslona](images/tune-record-stop.png)
 
-+ If you have a program that can play '.wav' files then you'll be able to play your doorbell chime outside of Sonic Pi.
++ Če imaš program, ki zna predvajati datoteke '.wav', boš lahko predvajal-a tvoj hišni zvonec zunaj Sonic Pi-ja.
     
-    Tip: If you don't have another program that can play '.wav' files then you could import the sound into Scratch and play it.
+    Namig: Če nimaš programa, ki zna predvajati '.wav' datoteke, lahko te uvoziš v Scratch in jih predvajaš tam.
     
-    ![screenshot](images/scratch-upload.png)
+    ![posnetek zaslona](images/scratch-upload.png)
     
-    Tip: You may need to close Sonic Pi to be able to play sound using another app.
+    Namig: Za predvajanje zvoka v drugem programu bo morda potrebno zapreti Sonic Pi.
