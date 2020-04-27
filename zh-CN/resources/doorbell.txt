@@ -1,5 +1,5 @@
-# Welcome to Sonic Pi v2.10
-set_volume! 4
+# 欢迎来到 Sonic Pi v2.10
+设置_音量！ 4
 2.times do
   play 76
   sleep 1
