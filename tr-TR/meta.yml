@@ -1,15 +1,15 @@
 ---
-hero_image: images/compose-tune.png
+hero_image: images / compose-tune.png
 theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
+curriculum: 1, tasarım-0, programlama-1, phys-comp-0, üretim-0, topluluk-0
 title: Compose your own tune
 description: Use Sonic Pi to create a cool doorbell chime
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
-interests: music
+interests: müzik
 technologies: 'sonic pi'
 site_areas: projects
 hardware: ''
@@ -18,7 +18,7 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Giriş
   - 
     title: Play your first notes
   - 
