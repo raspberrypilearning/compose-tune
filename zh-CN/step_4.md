@@ -1,20 +1,20 @@
-## Repeat the chime
+## 重复铃声
 
-Doorbells often repeat the chime.
+门铃经常重复发出提示音。
 
-+ Let's put the doorbell chime into a loop:
++ 让我们把铃声放入一个循环：
     
-    ![screenshot](images/tune-times.png)
+    ![截屏](images/tune-times.png)
     
-    Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
+    Sonic Pi 将有助于在 `times` 循环内缩进门钟代码。
 
-+ Listen to the chime. Is it what you expected?
++ 听铃声。 这是你所期望的铃声吗？
     
-    You'll need to add a `sleep` line at the end so that there's a pause before repeating:
+    您需要在结尾添加一个`sleep`的行，以便在重复之前暂停：
     
-    ![screenshot](images/tune-sleep2.png)
+    ![截屏](images/tune-sleep2.png)
 
-+ Listen to the chime again and it should sound better.
++ 再听铃声，它听起来应该会更好。
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
