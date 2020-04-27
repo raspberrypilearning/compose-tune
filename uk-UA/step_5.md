@@ -1,7 +1,7 @@
 \--- challenge \---
 
-## Challenge: Repeat 4 times
+## Завдання: повтори 4 рази
 
-Can you make the doorbell repeat 4 times to be really annoying?
+Чи можеш ти зробити, щоб дверний дзвінок повторювався 4 рази, будучи дуже набридливим?
 
 \--- /challenge \---
