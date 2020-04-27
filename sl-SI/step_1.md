@@ -1,63 +1,63 @@
 ## Introduction
 
-In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
+V tem projektu boš sprogramiral-a kratko melodijo. Lahko jo uporabiš kot zvok zvonca, zvonjenje telefona, opozorilo ob obvestilih računalnika ali jo uporabiš na kakšni spletni strani.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Klikni na spodnji gumb za predvajanje, da slišiš, kako bo zvenelo zvonjenje: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Brskalnik ne podpira <code>audio</code> elementa. </audio>
 </div>
 
-### Additional information for club leaders
+### Dodatne informacije za vodje klubov
 
-If you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+Za tiskanje tega projekta, prosimo uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
-## title: Club leader notes
+## title: Opombe za vodje klubov
 
-## Introduction:
+## Uvod:
 
-In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
+V tem projektu bodo otroci sprogramirali zvonec za vrata, da se naučijo predvajati glasbene note s pomočjo številk in uporabe ponavljanja za ponavljanje not.
 
-## Resources
+## Viri
 
-The 'Project Materials' link for this project contains the following resources:
+Povezava „Projektno gradivo“ tega projekta vsebuje naslednje vire:
 
-##### Club leader Resources
+##### Viri za vodje klubov
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+Dokončano različico tega projekta najdete s klikom na povezavo 'Projektni materiali' za ta projekt, ki vsebuje:
 
 * doorbell.txt
 * doorbell.mp3
 
-## Learning Objectives
+## Učni cilji
 
-* Playing musical notes using midi numbers
-* Repetition
+* Predvajanje glasbenih not z uporabo midi številk
+* Ponavljanje
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Ta projekt zajema elemente iz [učnega načrta Raspberry Pi za digitalno ustvarjanje](http://rpf.io/curriculum):
 
-* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Uporaba osnovnih programskih konstruktov za ustvarjanje preprostih programov.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Challenges
+## Izzivi
 
-* "Improve the chime" - try using different notes and timings to improve the doorbell chime.
-* "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
-* "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
+* "Izboljšaj zvonec" - poskusi uporabiti druge note in dolžine, da zvonec izboljšaš.
+* "Ponovi štirikrat" - naredi, da se zvonjenje ponovilo 4 krat, da bo res zoprno!
+* "Ustvari novo melodijo" - uporabi pridobljeno znanje, da sprogramiraš novo melodijo, kot npr. zvonec za telefon.
 
-## Frequently Asked Questions
+## Pogosto zastavljena vprašanja
 
-* The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
-* On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
+* Uporabljena številke so midi številke. Števike med 21 in 108 ustrezajo klavirskim notam.
+* Na računalniku Raspberry Pi lahko iz ukazne vrstice uporabiš `aplay`, da predvajaš `.wav` datoteke.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: Project materials
+## title: Projektni materiali
 
-## Club leader resources
+## Viri za vodje klubov
 
-* [Downloadable completed Sonic Pi project](resources/doorbell.txt)
-* [Downloadable completed project mp3 file](resources/doorbell.mp3)
+* [Prenosljiv in dokončan Sonic Pi projekt](resources/doorbell.txt)
+* [Prenosljiva in dokončana projektna mp3 datoteka](resources/doorbell.mp3)
 
 \--- /collapse \---
