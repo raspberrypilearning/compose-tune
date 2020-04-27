@@ -6,8 +6,8 @@ listed: true
 ingredient: false
 copyedit: false
 curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
-title: Compose your own tune
-description: Use Sonic Pi to create a cool doorbell chime
+title: Ustvari lastno melodijo
+description: Uporabi Sonic Pi za ustvarjanje odštekanega zvonca
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: music
 technologies: 'sonic pi'
@@ -18,16 +18,16 @@ version: 3
 last_tested: 2017-01-01
 steps:
   - 
-    title: Introduction
+    title: Uvod
   - 
-    title: Play your first notes
+    title: Zaigraj svoje prve note
   - 
-    title: 'Challenge: Improve the chime'
+    title: 'Izziv: Izboljšaj zvonec'
   - 
-    title: Repeat the chime
+    title: Ponovi zvonjenje
   - 
-    title: 'Challenge: Repeat 4 times'
+    title: 'Izziv: Ponovi štirikrat'
   - 
-    title: Recording your chime
+    title: Snemanje zvonca
   - 
-    title: 'Challenge: Compose a new tune'
+    title: 'Izziv: Ustvari novo melodijo'
