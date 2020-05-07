@@ -1,7 +1,7 @@
-\--- 도전 \---
+\--- challenge \---
 
-## Challenge: Repeat 4 times
+## 도전과제: 4번 반복하기
 
-Can you make the doorbell repeat 4 times to be really annoying?
+벨소리를 4번 반복하여 짜증나는 소리를 만들 수 있나요?
 
 \--- /challenge \---
