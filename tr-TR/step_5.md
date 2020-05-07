@@ -1,7 +1,7 @@
 \--- meydan okuma \---
 
-## Challenge: Repeat 4 times
+## Daha Fazlasını Dene: Dört tekrar yaptırın
 
-Can you make the doorbell repeat 4 times to be really annoying?
+Zil sesini dört kere tekrarlatarak rahatsız edici hale getirebilir misiniz?
 
 \--- /challenge \---
