@@ -1,9 +1,9 @@
-\--- 도전 \---
+\--- challenge \---
 
-## Challenge: Improve the chime
+## 도전과제: 벨소리 발전시키기
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+다양한 숫자를 선택해보세요. 21에서 108까지의 숫자는 피아노의 음에 해당합니다. 어떤 음이 좋은지 찾아보세요.
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+초인종 소리의 첫 음이 너무 긴가요? sleep을 0.75나 0.5로 조정해보세요.
 
-\--- /도전 \---
+\--- /challenge \---
