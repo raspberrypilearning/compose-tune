@@ -1,7 +1,7 @@
 \---挑戰\---
 
-## Challenge: Repeat 4 times
+## 挑戰：將鈴聲重複四次
 
-Can you make the doorbell repeat 4 times to be really annoying?
+「重複4次」- 您可以讓鈴聲重複四次來煩死人嗎？
 
 \--- /challenge \---
