@@ -1,9 +1,9 @@
 \---挑戰\---
 
-## Challenge: Improve the chime
+## 挑戰：改造鈴聲
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+嘗試為音符選擇不停的編號。 數字21到108對應鋼琴上的音符。試著找出您喜歡的音符。
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+門鈴中的第一個音符是否會太長呢？ 試著將間隔時間更改為0.75或是0.5。
 
 \--- /challenge \---
