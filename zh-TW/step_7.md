@@ -1,13 +1,13 @@
 \---挑戰\---
 
-## Challenge: Compose a new tune
+## 挑戰：創作新曲調
 
-Now take what you've learnt and compose your own tune. It could be a doorbell chime, mobile ringtone or notification.
+現在，按照您的所學內容來編寫自己的曲調。 它可以是門鈴聲、手機鈴聲或是通知聲。
 
-Use `play`, `sleep` and `times` to create your own more interesting tune.
+使用`play` ，`sleep`和`times`來創作屬於自己更有趣的曲調。
 
-Remember, higher numbers play higher notes and numbers 21 to 108 correspond to the notes on the piano.
+請記住，較高的數字會演奏出較高音的音符，數字21到108對應鋼琴上的音符。
 
-You can also record your tune as a '.wav' file.
+您還可以將曲調錄製為「.wav」檔案。
 
 \--- /challenge \---
