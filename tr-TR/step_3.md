@@ -1,9 +1,9 @@
 \--- meydan okuma \---
 
-## Challenge: Improve the chime
+## Daha Fazlasını Dene: Zili iyileştirin
 
-Try choosing different numbers for the notes. Numbers 21 to 108 correspond to the notes on the piano. Experiment to find out which notes you like.
+Notlar için farklı numaralar seçmeyi deneyin. 21 ile 108 arasındaki rakamlar piyanodaki notalara karşılık gelir. Beğendiğiniz notaları bulmak için denemeler yapabilirsiniz.
 
-Is the first note in the doorbell too long? Try changing sleep to 0.75 or 0.5.
+Kapı zilinin ilk notası çok mu uzun? Sleep'i 0,75 veya 0,5 olarak değiştirmeyi deneyebilirsiniz.
 
 \--- /challenge \---
