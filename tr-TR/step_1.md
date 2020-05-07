@@ -1,53 +1,53 @@
 ## Giriş
 
-In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
+Bu projede kısa bir melodi programlayacaksınız. Bu melodiyi bir kapı zili, bir cep telefonu zili, bilgisayarınızda bir uyarı bildirimi olarak kullanabilir ya da bir web sayfasına yerleştirebilirsiniz.
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Kapı zilinin nasıl çaldığını görmek için dosyayı oynatın: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
 ### Kulüp liderleri için ek bilgiler
 
-Bu projeyi yazdırmanız gerekiyorsa, lütfen [Yazıcı dostu sürümü](https://projects.raspberrypi.org/en/projects/compose-tune/print) kullanın.
+Bu projeyi yazdırmak için lütfen [Yazıcı dostu sürümü](https://projects.raspberrypi.org/en/projects/compose-tune/print) kullanın.
 
 ## \--- küçült \---
 
-## title: Kulüp lideri notları
+## Başlık: Kulüp lideri notları
 
 ## Giriş:
 
-In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
+Bu projede çocuklar, bir kapı zili programlayarak, nota yazmak için sayıların ve tekrarlama tekniklerinin nasıl kullanıldığını öğrenecekler.
 
 ## Kaynaklar
 
-The 'Project Materials' link for this project contains the following resources:
+Bu projenin 'Proje Malzemeleri' bağlantısı aşağıdaki kaynakları içermektedir:
 
-##### Club leader Resources
+##### Kulüp lideri için kaynaklar
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+'Proje Malzemeleri' linkine tıklayarak bu projenin tamamlanmış bir versiyonu olan şu dosyalara erişebilirsiniz:
 
 * doorbell.txt
 * doorbell.mp3
 
 ## Kazanımlar
 
-* Playing musical notes using midi numbers
-* Repetition
+* MIDI sayılarını kullanarak nota çalabilmek
+* Tekrarlama
 
-Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un aşağıdaki bölümlerinden unsurları kapsamaktadır:
+Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un şu bölümde anlatılan konularını kapsamaktadır:
 
-* [Basit programlar oluşturmak için temel programlama yapılarını kullanın.](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Basit programlar oluşturmak için temel programlama yapılarını kullanmak.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## Meydan Okumalar
+## Daha Fazlasını Deneyin
 
-* "Improve the chime" - try using different notes and timings to improve the doorbell chime.
-* "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
-* "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
+* "Zili iyileştirin" - Kapı zili sesini iyileştirmek için farklı notalar ve zamanlamalar kullanmayı deneyin.
+* "Dört tekrar yaptırın" - Zil sesini dört kere tekrarlatarak rahatsız edici hale getirin!
+* "Yeni bir melodi oluştur" - Yeni öğrendiğiniz becerilerinizi kullanarak farklı bir melodi oluşturun, mesela bir cep telefonu zili.
 
 ## Sıkça Sorulan Sorular
 
-* The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
-* On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
+* Kullandığınız sayılar midi sayılarıdır, 21 ila 108 sayıları piyanodaki notalara karşılık gelmektedir.
+* Raspberry Pi'de `.wav` dosyalarını çalmak için `aplay` komutunu kullanabilirsiniz.
 
 \--- /collapse \---
 
@@ -57,7 +57,7 @@ Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un
 
 ## Kulüp lideri için kaynaklar
 
-* [Downloadable completed Sonic Pi project](resources/doorbell.txt)
-* [Downloadable completed project mp3 file](resources/doorbell.mp3)
+* [İndirilebilir ve tamamlanmış Sonic Pi projesi](resources/doorbell.txt)
+* [İndirilebilir ve tamamlanmış proje mp3 dosyası](resources/doorbell.mp3)
 
 \--- /collapse \---
