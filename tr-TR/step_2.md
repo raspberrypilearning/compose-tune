@@ -1,44 +1,44 @@
-## Play your first notes
+## İlk notlarınızı çalın
 
-Sonic Pi allows you to program music. Let's start by playing some simple musical notes.
+Sonic Pi müzik programlamanızı sağlar. Birkaç basit nota çalarak başlayalım.
 
 [[[sonic-pi-install]]]
 
-+ Run Sonic Pi. Your Club Leader will be able to tell you where to find it. If you're using a Raspberry Pi then it's under Programming on the menu.
++ Sonic Pi'yi çalıştırın. Kulüp Lideriniz size bunu nerede bulabileceğinizi söyleyebilecektir. Eğer Raspberry Pi kullanıyorsanız, menüden Programlama seçeneğinin altında bulabilirsiniz.
     
     ![ekran görüntüsü](images/tune-GUI.png)
 
-+ See where it says '#Welcome to Sonic Pi'? Below there type:
++ '#Sonic Pi'ye Hoşgeldiniz'? yazısını gördünüz mü? Bunun altına şunu yazın:
     
-    ![ekran alıntısı](images/tune-play.png)
+    ![ekran görüntüsü](images/tune-play.png)
 
-+ Click 'Run'. Did you hear a musical note? If not, make sure that the sound isn't muted on your computer and that the volume is high enough. If the sound is too loud turn it down.
++ "Çalıştır"a tıklayın. Bir müzik notası duydunuz mu? Duymadıysanız, öncelikle bilgisayar sesinin kapalı olup olmadığını, ya da sesin kısık olup olmadığını kontrol edin. Eğer ses çok yüksekse, sesi kısın.
     
-    If you're using a Raspberry Pi then make sure you are using either an HDMI monitor with speakers or have speakers or headphones connected to the audio jack.
+    Raspberry Pi kullanıyorsanız, hoparlörlü bir HDMI monitör kullandığınızdan veya hoparlörünüzün ya da kulaklığınızın bilgisayarınıza bağlı olduğundan emin olun.
     
-    There's also a volume setting under 'Prefs' that you can adjust.
+    Ayrıca 'Tercihler' seçeneğinden ses seviyesini ayarlayabilirsiniz.
 
-+ Now add another line below your first one:
++ Şimdi ilk satırınızın altına başka bir satır ekleyin:
     
     ![ekran görüntüsü](images/tune-play2.png)
 
-+ Click 'Run'. Did you hear what you were expecting? In Sonic Pi, `play` means start playing, so it starts playing the first note and then immediately starts playing the second note so you hear both notes at the same time.
++ "Run"a tıklayın. Sesi duydunuz mu? Sonic Pi'de ` play ` oynatmayı başlat anlamına gelir, yani önce ilk notayı hemen sonra da ikinci notayı çalmaya başlar, böylece her iki notayı da aynı anda duyarsınız.
 
-+ To get the second note to play after the first note add a `sleep 1` line in between so that your code looks like this:
++ İkinci notayı birinciden sonra çalmak için, iki nota arasına `sleep 1` komutunu eklerseniz kodunuz şöyle görünecektir:
     
     ![ekran görüntüsü](images/tune-sleep.png)
 
-+ Now run your code and it should sound like a doorbell chime.
++ Şimdi, kodunuzu tekrar çalıştırdığınızda bir kapı ziline benzeyecektir.
     
-    Listen and you should hear a higher note and then a lower one. Higher notes have higher numbers.
+    Sesi dinlediğinizde önce yüksek bir ses, sonra daha düşük bir ses duyacaksınız. Yüksek notaların sayıları da daha yüksektir.
     
     <div id="audio-preview" class="pdf-hidden">
       <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
     </div>
-+ Save your code by clicking on 'Save' and name your file 'doorbell.txt'.
++ Kodunuzu 'Kaydet'i tıklayarak kaydedin ve dosyanızı' doorbell.txt' olarak adlandırın.
     
     ![ekran görüntüsü](images/tune-save.png)
     
-    If you're not sure, check with your Club Leader where you should save your file.
+    Eğer dosyanızı nereye kaydetmeniz gerektiğinden emin değilseniz, Kulüp Liderinize sorabilirsiniz.
     
-    You can load files back into Sonic Pi by clicking on 'Load'.
+    Dosyaları tekrar Sonic Pi'ya yüklemek için 'Yükle'ye tıklayın.
