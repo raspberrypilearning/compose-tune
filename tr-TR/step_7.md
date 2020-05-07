@@ -1,13 +1,13 @@
 \--- meydan okuma \---
 
-## Challenge: Compose a new tune
+## Daha fazlasını dene: Yeni bir melodi oluştur
 
-Now take what you've learnt and compose your own tune. It could be a doorbell chime, mobile ringtone or notification.
+Şimdi, öğrendiklerinizle kendinize yeni bir melodi oluşturun. Bu bir kapı zili, telefon sesi ya da bildirim sesi olabilir.
 
-Use `play`, `sleep` and `times` to create your own more interesting tune.
+`play`, `sleep` ve `times` komutlarını kullanarak daha ilginç melodiler oluşturabilirsiniz.
 
-Remember, higher numbers play higher notes and numbers 21 to 108 correspond to the notes on the piano.
+Unutmayın, daha yüksek rakamlar daha yüksek notalar çalar ve 21 ila 108 arasındaki rakamlar piyanodaki notalara karşılık gelir.
 
-You can also record your tune as a '.wav' file.
+Daha sonra oluşturduğunuz kaydı '.wav' dosyası olarak kaydedebilirsiniz.
 
 \--- /challenge \---
