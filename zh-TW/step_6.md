@@ -1,23 +1,23 @@
-## Recording your chime
+## 錄下您的鈴聲
 
-Now let's record the doorbell chime so that you can play it outside of Sonic Pi. Sonic Pi can create `wav` files which are commonly used sound files.
+現在，讓我們來錄下門鈴的鈴聲，這樣您也可以在 Sonic Pi之外播放。 Sonic Pi可以建立常用的` wav `音檔。
 
-+ Click on the 'Rec' button to start recording.
++ 點擊「錄製」按鈕開始錄音。
     
     ![截圖](images/tune-record.png)
 
-+ Then click 'Run' to play your doorbell chime.
++ 然後點擊「運行」來播放您的門鈴。
     
-    ![螢幕截圖](images/tune-run.png)
+    ![截圖](images/tune-run.png)
 
-+ When it finishes click 'Rec' again to stop recording and you will be prompted for a filename. Call your file 'doorbell.wav'.
++ 完成後，再次點擊「錄製」來停止錄音，系統將提示您輸入文件名稱。 將該檔案命名為「doorbell.wav」。
     
     ![截圖](images/tune-record-stop.png)
 
-+ If you have a program that can play '.wav' files then you'll be able to play your doorbell chime outside of Sonic Pi.
++ 如果您有可以播放「.wav」檔案的程式，您就可以在Sonic Pi之外播放門鈴鈴聲。
     
-    Tip: If you don't have another program that can play '.wav' files then you could import the sound into Scratch and play it.
+    小提示：如果您沒有其他可以播放「.wav」檔案的程式，您可以將檔案導入Scratch並播放。
     
     ![截圖](images/scratch-upload.png)
     
-    Tip: You may need to close Sonic Pi to be able to play sound using another app.
+    小提示：您可能需要關閉Sonic Pi 才能使用其他應用程式來播放聲音。
