@@ -1,21 +1,21 @@
-## Repeat the chime
+## Zil sesini tekrarlayın
 
-Doorbells often repeat the chime.
+Kapı zili sesleri genelde tekrarlı çalınır.
 
-+ Let's put the doorbell chime into a loop:
++ Haydi, zil sesini bir döngüye sokalım:
     
     ![ekran görüntüsü](images/tune-times.png)
     
-    Sonic Pi will helpfully indent the doorbell chime code inside the `times` loop.
+    Sonic Pi size bu konuda yardımcı olacak ve kapı zili sesini `times` döngüsünü kullanarak çalacaktır.
 
-+ Listen to the chime. Is it what you expected?
++ Sesi dinleyin. Beklediğiniz gibi oldu mu?
     
-    You'll need to add a `sleep` line at the end so that there's a pause before repeating:
+    Son kısma `sleep` komutunu ekleyerek iki ses arasında bir duraklama oluşturabilirsiniz:
     
     ![ekran görüntüsü](images/tune-sleep2.png)
 
-+ Listen to the chime again and it should sound better.
++ Zili tekrar dinleyin, daha iyi değil mi?
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-2.mp3" type="audio/mpeg"> Tarayıcınız <code>audio</code> öğesini desteklemiyor. </audio>
     </div>
