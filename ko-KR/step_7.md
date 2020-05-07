@@ -1,13 +1,13 @@
-\--- 도전 \---
+\--- challenge \---
 
-## Challenge: Compose a new tune
+## 도전과제: 새로운 음악 작곡하기
 
-Now take what you've learnt and compose your own tune. It could be a doorbell chime, mobile ringtone or notification.
+이제 배운 것으로 당신만의 노래를 작곡해보세요. 초인종 소리가 될 수도 있고, 핸드폰 벨소리나 알림 소리가 되어도 좋아요.
 
-Use `play`, `sleep` and `times` to create your own more interesting tune.
+`play`, `sleep`, `times`를 이용하여 여러분만의 더 흥미로운 음악을 만들어보세요.
 
-Remember, higher numbers play higher notes and numbers 21 to 108 correspond to the notes on the piano.
+높은 숫자는 높은 음을 연주하고 21에서 108은 피아노의 음과 일치한다는 것을 기억하세요.
 
-You can also record your tune as a '.wav' file.
+음악을 '.wav' 파일로 녹음할 수도 있습니다.
 
-\--- /과제 \---
+\--- /challenge \---
