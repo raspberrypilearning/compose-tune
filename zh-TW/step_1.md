@@ -1,63 +1,63 @@
 ## 介紹
 
-In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
+在這個項目中，您將編寫一小段曲調。 它可以作為門鈴聲、手機鈴聲以及您電腦或網頁瀏覽器上的提示音。
 
 <div id="audio-preview" class="pdf-hidden">
-  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  點擊下方播放按鈕，聽聽看門鈴聲會是什麼樣子： <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> 您的瀏覽器不支援 <code>音檔</code>。 </audio>
 </div>
 
-### Code Club 工作人員延伸閱讀
+### 給俱樂部指導老師的補充資訊
 
-如果你需要列印這個專案，可以先切換成[列印友好模式](https://projects.raspberrypi.org/en/projects/compose-tune/print)。
+如果您需要列印這個項目，可以先切換成[友好列印模式](https://projects.raspberrypi.org/en/projects/compose-tune/print)。
 
 ## - - 自動隱藏選單 - -
 
-## title: 給教師的其它資訊
+## 標題：給俱樂部指導老師的話
 
-## 介紹:
+## 介紹：
 
-In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
+在這個項目中，孩子們將編寫一段門鈴，學習如何使用數字簡譜來演奏音符以及使用「重複」來重複音符。
 
-## Resources
+## 相關資源
 
-The 'Project Materials' link for this project contains the following resources:
+「項目材料」連結中包含了以下用於該項目的資源：
 
-##### Club leader Resources
+##### 俱樂部指導老師資源：
 
-You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
+您可以透過點擊該項目的「項目材料」連結找到該項目的完整版本，其中包含：
 
 * doorbell.txt
 * doorbell.mp3
 
 ## 學習目標
 
-* Playing musical notes using midi numbers
-* Repetition
+* 使用midi編號來演奏音符
+* 重複
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+本專案涵蓋 [樹莓派數位化課程](http://rpf.io/curriculum)如以下內容：
 
 * [使用基本的編程結構來創造簡單的程序。](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## 挑戰
 
-* "Improve the chime" - try using different notes and timings to improve the doorbell chime.
-* "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
-* "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
+* 「改善鈴聲」-試試看使用不同的音符和調整音符時長來改善門鈴聲。
+* 「重複4次」-讓鈴聲重複四次來煩死人吧！
+* 「編寫一個新的曲調」-用學會的技能來編寫一個新的曲調，例如手機鈴聲。
 
 ## 常見問題
 
-* The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
-* On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
+* 使用的數字為midi編號，數字21到108對應的是鋼琴上的音符。
+* 在Raspberry Pi上，您可以使用` aplay `從指令列播放`.wav `文件。
 
 - - 自動隱藏選單 - -
 
 ## - - 自動隱藏選單 - -
 
-## 標題：專案材料
+## 標題：項目材料
 
-## 俱樂部領導資源
+## 俱樂部指導老師資源
 
-* [Downloadable completed Sonic Pi project](resources/doorbell.txt)
-* [Downloadable completed project mp3 file](resources/doorbell.mp3)
+* [可下載的Sonic Pi 已完成項目](resources/doorbell.txt)
+* [可下載的已完成mp3文件](resources/doorbell.mp3)
 
 - - 自動隱藏選單 - -
