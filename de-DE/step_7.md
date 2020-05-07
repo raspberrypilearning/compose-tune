@@ -6,7 +6,7 @@ Nutze jetzt was du bereits gelernt hast, um deine eigene Melodie zu komponieren.
 
 Verwende `play`, `sleep` und `times`, um deine eigene interessantere Melodie zu erstellen.
 
-Beachte dass höhere Nummern höheren Noten entsprechen und die Nummern 21 bis 108 den Noten auf dem Klavier entsprechen.
+Beachte, dass höhere Nummern höheren Noten entsprechen und die Nummern 21 bis 108 den Noten auf dem Klavier entsprechen.
 
 Du kannst deine Melodie auch als .wav-Datei aufnehmen.
 
