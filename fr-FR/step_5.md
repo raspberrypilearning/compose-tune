@@ -2,6 +2,6 @@
 
 ## Défi : Répéter 4 fois
 
-Can you make the doorbell repeat 4 times to be really annoying?
+Peux-tu faire sonner 4 fois la sonnerie pour être vraiment embêtant ?
 
 \--- /challenge \---
