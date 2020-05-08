@@ -6,7 +6,7 @@ Maintenant enregistrons la sonnette de porte pour que tu puisses la jouer en deh
     
     ![capture d'écran](images/tune-record.png)
 
-+ Puis clique sur « Run » pour jouer ta sonnerie de porte.
++ Puis clique sur « Run » pour jouer ta sonnerie.
     
     ![capture d'écran](images/tune-run.png)
 
