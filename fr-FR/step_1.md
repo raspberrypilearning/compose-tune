@@ -40,9 +40,9 @@ Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Création
 
 ## Défis
 
-* « Améliorer la sonnerie » - essaie d'utiliser différents notes et timings pour améliorer la sonnette de porte.
+* « Améliorer la sonnerie » - essaie d'utiliser différentes notes et rythmes pour améliorer la sonnette de porte.
 * « Répéter 4 fois » - fais que la sonnerie de porte se répète 4 fois pour être vraiment ennuyeux !
-* « Composer une nouvelle mélodie » - utilise les compétences apprises pour programmer une nouvelle mélodie comme une sonnerie de téléphone mobile.
+* « Composer une nouvelle mélodie » - utilise les compétences apprises pour programmer une nouvelle mélodie comme une sonnerie de téléphone portable.
 
 ## Foire aux questions
 
