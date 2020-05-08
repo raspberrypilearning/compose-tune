@@ -1,6 +1,6 @@
 ## Répéter la sonnerie
 
-Les sonneries de porte répètent souvent la sonnerie.
+Les sonnettes de porte répètent souvent la sonnerie.
 
 + Mettons la sonnette de la porte dans une boucle :
     
