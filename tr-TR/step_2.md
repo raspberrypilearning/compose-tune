@@ -22,7 +22,7 @@ Sonic Pi müzik programlamanızı sağlar. Birkaç basit nota çalarak başlayal
     
     ![ekran görüntüsü](images/tune-play2.png)
 
-+ "Run"a tıklayın. Sesi duydunuz mu? Sonic Pi'de ` play ` oynatmayı başlat anlamına gelir, yani önce ilk notayı hemen sonra da ikinci notayı çalmaya başlar, böylece her iki notayı da aynı anda duyarsınız.
++ "Run"a tıklayın. Sesi duydunuz mu? Sonic Pi'de `play` oynatmayı başlat anlamına gelir, yani önce ilk notayı hemen sonra da ikinci notayı çalmaya başlar, böylece her iki notayı da aynı anda duyarsınız.
 
 + İkinci notayı birinciden sonra çalmak için, iki nota arasına `sleep 1` komutunu eklerseniz kodunuz şöyle görünecektir:
     
