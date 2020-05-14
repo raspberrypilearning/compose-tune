@@ -1,5 +1,5 @@
 # Sonic Pi v2.10'a hoş geldiniz
-set_volume! 4
+sesi_ayarla 4
 2.times do
   play 76
   sleep 1
