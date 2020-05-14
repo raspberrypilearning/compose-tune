@@ -53,7 +53,7 @@ Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un
 
 ## \--- collapse \---
 
-## title: Proje materyalleri
+## başlık: Proje materyalleri
 
 ## Kulüp lideri için kaynaklar
 
