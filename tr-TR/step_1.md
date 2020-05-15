@@ -3,7 +3,7 @@
 Bu projede kısa bir melodi programlayacaksınız. Bu melodiyi bir kapı zili, bir cep telefonu zili, bilgisayarınızda bir uyarı bildirimi olarak kullanabilir ya da bir web sayfasına yerleştirebilirsiniz.
 
 <div id="audio-preview" class="pdf-hidden">
-  Kapı zilinin nasıl çaldığını görmek için dosyayı oynatın: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  Kapı zilinin nasıl çaldığını görmek için dosyayı oynatın: <audio controls preload> <source src="kaynaklar/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
 ### Kulüp liderleri için ek bilgiler
@@ -57,7 +57,7 @@ Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un
 
 ## Kulüp lideri için kaynaklar
 
-* [İndirilebilir ve tamamlanmış Sonic Pi projesi](resources/doorbell.txt)
-* [İndirilebilir ve tamamlanmış proje mp3 dosyası](resources/doorbell.mp3)
+* [İndirilebilir ve tamamlanmış Sonic Pi projesi](kaynaklar/doorbell.txt)
+* [İndirilebilir ve tamamlanmış proje mp3 dosyası](kaynaklar/doorbell.mp3)
 
 \--- /collapse \---
