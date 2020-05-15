@@ -1,5 +1,5 @@
 ---
-hero_image: images / compose-tune.png
+hero_image: images/compose-tune.png
 theme: red
 duration: 2
 listed: true
@@ -10,7 +10,7 @@ title: Kendi melodinizi oluşturun
 description: Sonic Pi kullanarak kendi kapı zili sesinizi oluşturun
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: müzik
-technologies: 'sonic pi'
+technologies: 'sonic Pi'
 site_areas: projects
 hardware: ''
 software: ''
@@ -20,7 +20,7 @@ steps:
   - 
     title: Giriş
   - 
-    title: İlk notlarınızı çalın
+    title: İlk notalarınızı çalın
   - 
     title: 'Daha Fazlasını Deneyin: Zili iyileştirin'
   - 
