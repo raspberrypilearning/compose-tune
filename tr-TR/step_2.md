@@ -20,7 +20,7 @@ Sonic Pi müzik programlamanızı sağlar. Birkaç basit nota çalarak başlayal
 
 + Şimdi ilk satırınızın altına başka bir satır ekleyin:
     
-    ![ekran görüntüsü](images/tune-play2.png)
+    ![ekran görüntüsü](xPath: /ul/li[4]/p[2]/img[@src])
 
 + "Run"a tıklayın. Sesi duydunuz mu? Sonic Pi'de `play` oynatmayı başlat anlamına gelir, yani önce ilk notayı hemen sonra da ikinci notayı çalmaya başlar, böylece her iki notayı da aynı anda duyarsınız.
 
