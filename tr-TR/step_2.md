@@ -33,7 +33,7 @@ Sonic Pi müzik programlamanızı sağlar. Birkaç basit nota çalarak başlayal
     Sesi dinlediğinizde önce yüksek bir ses, sonra daha düşük bir ses duyacaksınız. Yüksek notaların sayıları da daha yüksektir.
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Tarayıcınız <code>audio</code> öğesini desteklemiyor. </audio>
     </div>
 + Kodunuzu 'Kaydet'i tıklayarak kaydedin ve dosyanızı' doorbell.txt' olarak adlandırın.
     
