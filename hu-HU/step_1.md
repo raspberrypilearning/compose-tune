@@ -1,63 +1,63 @@
-## はじめに
+## Bevezetés
 
-このプロジェクトでは、短い音色をプログラムします。 その音色は玄関（げんかん）の呼び鈴や携帯電話の着信音、コンピュータの警告通知に使ったり、ウェブページに入れたりすることができます。
+In this project you will program a short tune. It could be used as a doorbell chime, a mobile phone ringtone, an alert notification on your computer or included in a web page.
 
 <div id="audio-preview" class="pdf-hidden">
-  玄関（げんかん）の呼び鈴がどのように鳴るのかを聞くには、下にある再生ボタンを押してください： <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> お使いのブラウザは<code>audio</code>要素をサポートしていません。 </audio>
+  Click the play button below to hear how the doorbell chime will sound: <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
 </div>
 
-### クラブ・リーダーのための追加情報
+### További információk klubvezetőknek
 
-このプロジェクトを印刷する必要がある場合は、 [印刷用バージョン](https://projects.raspberrypi.org/en/projects/compose-tune/print)を使用してください。
+Ha ki kell nyomtatnia ezt a projektet, kérjük, használja a [nyomtatóbarát verziót](https://projects.raspberrypi.org/en/projects/compose-tune/print).
 
 ## \--- collapse \---
 
-## title：クラブ・リーダー用の覚書
+## title: Klubvezetői jegyzetek
 
-## はじめに
+## Bevezetés:
 
-このプロジェクトでは、子どもたちは玄関（げんかん）の呼び鈴をプログラムして、番号を使って音符を演奏し、くり返しコードを使って音符をくり返す方法を学びます。
+In this project, children will program a doorbell chime to learn how to play musical notes using numbers and use repetition to repeat notes.
 
-## 資料
+## Segédanyagok
 
-このプロジェクトの「プロジェクト資料」は次の資料が含まれています：
+The 'Project Materials' link for this project contains the following resources:
 
-##### クラブ・リーダー向け資料
+##### Club leader Resources
 
-「プロジェクト資料」のリンクをクリックすると、このプロジェクトの完成版が見つかります。完成版のプロジェクトには次のものが含まれています：
+You can find a completed version of this project by clicking the 'Project Materials' link for this project, which contains:
 
 * doorbell.txt
 * doorbell.mp3
 
-## 学習目標
+## Tanulási célok
 
-* MIDI番号を使った音符の演奏
-* くり返し
+* Playing musical notes using midi numbers
+* Repetition
 
-このプロジェクトは [Raspberry Piデジタル・メイキング・カリキュラム](http://rpf.io/curriculum)の中から、以下の内容を取り扱います：
+Ez a projekt a[Raspberry Pi Digitális Alkotás Tanterv](http://rpf.io/curriculum) következő részéből fed le elemeket:
 
-* [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
+* [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)
 
-## チャレンジ
+## Kihívások
 
-* 「呼び鈴をより良くする」 - 玄関（げんかん）の呼び鈴をより良くするために別の音符やタイミングを使ってみる。
-* 「4回くり返す」 - 玄関（げんかん）の呼び鈴を4回くり返して、すごく迷惑になるようにする。
-* 「新しい音色をつくる」 - 携帯電話の着信音など新しい音色をプログラムするのに学んだ技術を生かします。
+* "Improve the chime" - try using different notes and timings to improve the doorbell chime.
+* "Repeat 4 times" - make the doorbell chime repeat 4 times to be really annoying!
+* "Compose a new tune" - use the skills learned to program a new tune such as a mobile phone ringtone.
 
-## よくある質問
+## Frequently Asked Questions
 
-* 使う番号はMIDI番号で、21から108はピアノの音符に対応しています。
-* Raspberry Piで`.wav`ファイルを再生するにはコマンドラインから`aplay`が使えます。
+* The numbers used are midi numbers, numbers 21 to 108 correspond to the notes on the piano.
+* On the Raspberry Pi you can use `aplay` from the command line to play `.wav` files.
 
 \--- /collapse \---
 
 ## \--- collapse \---
 
-## title: プロジェクト資料
+## title: Projekt anyagok
 
-## クラブ・リーダー用資料
+## Segédanyagok klubvezetőknek
 
-* [ダウンロード可能な完成版Sonic Piプロジェクト](resources/doorbell.txt)
-* [ダウンロード可能な完成版MP3ファイル](resources/doorbell.mp3)
+* [Downloadable completed Sonic Pi project](resources/doorbell.txt)
+* [Downloadable completed project mp3 file](resources/doorbell.mp3)
 
 \--- /collapse \---
