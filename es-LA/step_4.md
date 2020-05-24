@@ -6,7 +6,7 @@ Los timbres a menudo repiten los sonidos.
     
     ![captura de pantalla](images/tune-times.png)
     
-    Sonic Pi sangrará de forma útil el código de timbre de puerta dentro del bucle `times`.
+    Sonic Pi marcará de forma útil el código de timbre de puerta dentro de la repetición `times`.
 
 + Escucha el timbre. ¿Es lo que esperabas?
     
