@@ -10,7 +10,7 @@
 
 如果您需要打印此项目，请使用[合适打印版本](https://projects.raspberrypi.org/en/projects/compose-tune/print) 。
 
-## \--- collapse \---
+## \--- 折叠\---
 
 ## title: 俱乐部导师说明
 
@@ -49,9 +49,9 @@
 * 使用的数字是midi编号，数字21至108对应的是钢琴上的音符。
 * 在Raspberry Pi上，您可以使用` aplay `从命令行播放`.wav `文件。
 
-\--- /collapse \---
+\--- /折叠 \---
 
-## \--- collapse \---
+## \--- 折叠\---
 
 ## title: 项目资源
 
@@ -60,4 +60,4 @@
 * [可下载的已完成的Sonic Pi项目](resources/doorbell.txt)
 * [可下载的已完成项目mp3文件](resources/doorbell.mp3)
 
-\--- /collapse \---
+\--- /折叠 \---
