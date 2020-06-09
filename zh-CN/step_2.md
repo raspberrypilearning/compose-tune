@@ -12,7 +12,7 @@ Sonic Pi允许你编写音乐。 让我们从演奏一些简单的音符开始�
     
     ![截屏](images/tune-play.png)
 
-+ 点击“运行”。 你听到音符了吗？ 如果不是，请确保计算机上未被静音，并且音量足够大。 如果声音太大，请将其调低。
++ 点击“运行”。 你听到音符了吗？ 如果没听到，请确保计算机上的声音没有静音，并且音量足够大。 如果声音太大，请将其调低。
     
     如果您使用的是树莓派，请确保使用带扬声器的HDMI显示器，或者将扬声器或耳机连接到音频插孔。
     
@@ -33,7 +33,7 @@ Sonic Pi允许你编写音乐。 让我们从演奏一些简单的音符开始�
     仔细听，你应该听到一个较高的音符，然后是一个较低的音符。 较高的音符具有较高的编号。
     
     <div id="audio-preview" class="pdf-hidden">
-      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+      <audio controls preload> <source src="resources/doorbell-1.mp3" type="audio/mpeg"> 您的浏览器不支持 <code>audio</code> 元素。 </audio>
     </div>
 + 单击“保存”保存代码，并将文件命名为“ doorbell.txt”。
     
