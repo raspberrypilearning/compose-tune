@@ -1,18 +1,18 @@
 ## 简介
 
-在这个项目中，您将编写一小旋律。 它可以用作门铃，手机铃声，计算机上的警报、通知，或被包含在网页中。
+在这个项目中，您将编写一小段曲调。 它可以用作门铃，手机铃声，计算机上的警报、通知，或被包含在网页中。
 
 <div id="audio-preview" class="pdf-hidden">
-  点击下面的播放键，来听听看门铃声会是什么样子的： <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> Your browser does not support the <code>audio</code> element. </audio>
+  点击下面的播放键，来听听看门铃声会是什么样子的： <audio controls preload> <source src="resources/doorbell.mp3" type="audio/mpeg"> 您的浏览器不支持 <code>audio</code> 元素。 </audio>
 </div>
 
-### 给俱乐部指导老师的附加信息
+### 给俱乐部指导老师的补充信息
 
 如果您需要打印此项目，请使用[合适打印版本](https://projects.raspberrypi.org/en/projects/compose-tune/print) 。
 
-## \--- 折叠\---
+## \--- collapse \---
 
-## title: 俱乐部导师说明
+## title: 俱乐部指导老师说明
 
 ## 简介
 
