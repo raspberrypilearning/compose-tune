@@ -2,6 +2,6 @@
 
 ## Πρόκληση: Επανέλαβε 4 φορές
 
-Can you make the doorbell repeat 4 times to be really annoying?
+Μπορείς να κάνεις τον ήχο να επαναλαμβάνεται 4 φορές ώστε να γίνει εντελώς ενοχλητικός;
 
 \--- /challenge \---
