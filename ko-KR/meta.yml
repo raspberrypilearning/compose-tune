@@ -1,15 +1,15 @@
 ---
 hero_image: images/compose-tune.png
-theme: 빨간
+theme: red
 duration: 2
 listed: true
 ingredient: false
 copyedit: false
-curriculum: 1, 디자인 -0, 프로그래밍 -1, phys-comp-0, 제조 -0, 커뮤니티 -0
+curriculum: 1, design-0, programming-1, phys-comp-0, manufacture-0, community-0
 title: 나만의 노래 작곡하기
 description: Sonic Pi를 사용하여 멋진 초인종 만들기
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
-interests: 음악
+interests: music
 technologies: 'sonic pi'
 site_areas: projects
 hardware: ''
