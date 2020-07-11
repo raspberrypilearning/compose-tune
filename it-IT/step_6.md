@@ -16,8 +16,8 @@ Ora registriamo lo squillo del campanello in modo da poterlo riprodurre al di fu
 
 + Se hai un programma in grado di riprodurre file ".wav", potrai far suonare il tuo campanello al di fuori di Sonic Pi.
     
-    Suggerimento: Se non hai un altro programma che può riprodurre i file '.wav' puoi importare il suono in Scratch e riprodurlo.
+    Suggerimento: se non hai un altro programma che può riprodurre i file '.wav' puoi importare il suono in Scratch e riprodurlo.
     
     ![screenshot](images/scratch-upload.png)
     
-    Suggerimento: Potresti aver bisogno di chiudere Sonic Pi per poter riprodurre un suono usando un'altra applicazione.
+    Suggerimento: potresti aver bisogno di chiudere Sonic Pi per poter riprodurre un suono usando un'altra applicazione.
