@@ -15,7 +15,7 @@
 
 --- collapse ---
 ---
-title：給俱樂部指導老師的話
+title: 給俱樂部指導老師的話
 ---
 
 ## 介紹：
@@ -65,4 +65,4 @@ title: 項目材料
 * [可下載的Sonic Pi 已完成項目](resources/doorbell.txt)
 * [可下載的已完成mp3文件](resources/doorbell.mp3)
 
-- - 自動隱藏選單 - -
+--- /collapse ---
