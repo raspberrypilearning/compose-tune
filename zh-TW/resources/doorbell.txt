@@ -1,0 +1,11 @@
+＃歡迎使用Sonic Pi 2.10版本
+音量設定！ 4
+2.times do
+  play 76
+  sleep 1
+  play 72
+  sleep 1
+end
+
+
+
