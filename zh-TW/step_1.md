@@ -10,9 +10,9 @@
 
 如果您需要列印這個項目，可以先切換成[友好列印模式](https://projects.raspberrypi.org/en/projects/compose-tune/print)。
 
-## - - 自動隱藏選單 - -
+## \--- collapse \---
 
-## 標題：給俱樂部指導老師的話
+## title: 給俱樂部指導老師的話
 
 ## 介紹：
 
