@@ -10,9 +10,9 @@ Bu projede kısa bir melodi programlayacaksınız. Bu melodiyi bir kapı zili, b
 
 Bu projeyi yazdırmak için lütfen [Yazıcı dostu sürümü](https://projects.raspberrypi.org/en/projects/compose-tune/print) kullanın.
 
-## \--- küçült \---
+## \--- collapse \---
 
-## Başlık: Kulüp lideri notları
+## title: Kulüp lideri notları
 
 ## Giriş:
 
