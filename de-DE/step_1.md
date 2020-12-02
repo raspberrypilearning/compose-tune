@@ -39,7 +39,7 @@ Eine vollständige Version dieses Projekts ist zu finden, indem Sie auf den Link
 * Musiknoten mittels Midi-Nummern spielen
 * Wiederholung
 
-Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) ab:
+Dieses Projekt deckt die folgenden Kernbereiche des [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum) ab:
 
 * [Verwendung grundlegender Programmierkonstrukte, um einfache Programme zu erstellen.](https://www.raspberrypi.org/curriculum/programming/creator)
 

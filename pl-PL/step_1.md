@@ -39,7 +39,7 @@ Możesz znaleźć ukończoną wersję tego projektu, klikając link „Materiał
 * Granie nut za pomocą liczb midi
 * Powtórzenie
 
-Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](http://rpf.io/curriculum):
+Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nauczania Raspberry Pi](https://rpf.io/curriculum):
 
 * [Użycie podstawowych konstrukcji programistycznych do tworzenia prostych programów.](https://www.raspberrypi.org/curriculum/programming/creator)
 

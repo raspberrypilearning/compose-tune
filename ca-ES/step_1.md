@@ -39,7 +39,7 @@ Pots trobar una versió acabada d'aquest projecte fent clic a l'enllaç "Materia
 * Reproducció de notes musicals utilitzant números midi
 * Repetició
 
-Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabricació Digital de Raspberry Pi](http://rpf.io/curriculum):
+Aquest projecte tracta elements dels següents aspectes del [Currículum de Fabricació Digital de Raspberry Pi](https://rpf.io/curriculum):
 
 * [Utilitza les construccions de programació bàsiques per crear programes senzills.](https://www.raspberrypi.org/curriculum/programming/creator)
 

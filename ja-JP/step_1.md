@@ -34,7 +34,7 @@ title: クラブ・リーダー用の覚書
 * MIDI番号を使った音符の演奏
 * くり返し
 
-このプロジェクトは [Raspberry Piデジタル・メイキング・カリキュラム](http://rpf.io/curriculum)の中から、以下の内容を取り扱います：
+このプロジェクトは [Raspberry Piデジタル・メイキング・カリキュラム](https://rpf.io/curriculum)の中から、以下の内容を取り扱います：
 
 * [基本的なプログラミング構文を使って、簡単なプログラムを作る](https://www.raspberrypi.org/curriculum/programming/creator)
 
