@@ -34,7 +34,7 @@ Puedes encontrar una versión completa de este proyecto haciendo clic en el enla
 * Tocando notas musicales usando números midi
 * Repetición
 
-Este proyecto incluye elementos desde los siguientes aspectos del [currículo de fabricación digital de Raspberry Pi](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Usar estructuras de programación básicas para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
