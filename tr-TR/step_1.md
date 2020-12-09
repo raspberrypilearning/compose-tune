@@ -34,7 +34,7 @@ Bu projenin 'Proje Malzemeleri' bağlantısı aşağıdaki kaynakları içermekt
 * MIDI sayılarını kullanarak nota çalabilmek
 * Tekrarlama
 
-Bu proje, [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum) 'un şu bölümde anlatılan konularını kapsamaktadır:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Basit programlar oluşturmak için temel programlama yapılarını kullanmak.](https://www.raspberrypi.org/curriculum/programming/creator)
 
