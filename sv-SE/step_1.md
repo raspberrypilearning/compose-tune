@@ -34,7 +34,7 @@ You can find a completed version of this project by clicking the 'Project Materi
 * Playing musical notes using midi numbers
 * Repetition
 
-Detta projekt omfattar element från följande rader av [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum){: target = "_ blank:
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Använd grundläggande programmeringskonstruktioner för att skapa enkla program.](https://www.raspberrypi.org/curriculum/programming/creator)
 
