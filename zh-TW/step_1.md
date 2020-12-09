@@ -34,7 +34,7 @@
 * 使用midi編號來演奏音符
 * 重複
 
-本專案涵蓋 [樹莓派數位化課程](http://rpf.io/curriculum)如以下內容：
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [使用基本的編程結構來創造簡單的程序。](https://www.raspberrypi.org/curriculum/programming/creator)
 
