@@ -39,7 +39,7 @@ Je kunt een voltooide versie van dit project vinden door te klikken op de link '
 * Muzieknoten spelen met midi-nummers
 * Herhaling
 
-Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):
+Dit project behandelt elementen uit de volgende onderdelen van het [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Gebruik eenvoudige programmeerconstructies om simpele programma's te maken.](https://www.raspberrypi.org/curriculum/programming/creator)
 

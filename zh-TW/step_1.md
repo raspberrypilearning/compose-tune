@@ -38,7 +38,7 @@ title: 給俱樂部指導老師的話
 * 使用midi編號來演奏音符
 * 重複
 
-本專案涵蓋 [樹莓派數位化課程](http://rpf.io/curriculum)如以下內容：
+本專案涵蓋 [樹莓派數位化課程](https://rpf.io/curriculum)如以下內容：
 
 * [使用基本的編程結構來創造簡單的程序。](https://www.raspberrypi.org/curriculum/programming/creator)
 

@@ -37,7 +37,7 @@ title: 교육자를 위한 정보
 * MIDI 번호를 사용하여 음 연주하기
 * 반복문 사용하기
 
-이 프로젝트는 [Raspberry Pi 디지털 제작 커리큘럼](http://rpf.io/curriculum) 중 다음 과정에 대한 내용을 다룹니다:
+이 프로젝트는 [Raspberry Pi 디지털 제작 커리큘럼](https://rpf.io/curriculum) 중 다음 과정에 대한 내용을 다룹니다:
 
 * [기본 프로그래밍 문법으로 간단한 프로그램 만들기](https://www.raspberrypi.org/curriculum/programming/creator)
 

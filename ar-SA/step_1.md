@@ -39,7 +39,7 @@ title: ملاحظات قادة النادي
 * عزف النوتات الموسيقية بأستخدام أرقام MIDI
 * التكرار
 
-يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](http://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](https://rpf.io/curriculum):
 
 * [استخدم أدوات البرمجة الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator)
 
