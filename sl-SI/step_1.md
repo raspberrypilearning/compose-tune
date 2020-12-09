@@ -34,7 +34,7 @@ Dokončano različico tega projekta najdete s klikom na povezavo 'Projektni mate
 * Predvajanje glasbenih not z uporabo midi številk
 * Ponavljanje
 
-Ta projekt zajema elemente iz [učnega načrta Raspberry Pi za digitalno ustvarjanje](http://rpf.io/curriculum):
+This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Uporaba osnovnih programskih konstruktov za ustvarjanje preprostih programov.](https://www.raspberrypi.org/curriculum/programming/creator)
 
