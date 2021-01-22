@@ -51,7 +51,7 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 ## Preguntas frecuentes
 
-* Los números utilizados son números midi, los números 21 a 108 corresponden a las notas en el piano.
+* Los números utilizados son números midi, los números del 21 a 108 corresponden a las notas del piano.
 * En el Raspberry Pi puedes usar `aplay` desde la línea de comandos para reproducir archivos `.wav`.
 
 --- /collapse ---
