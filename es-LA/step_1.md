@@ -12,7 +12,7 @@ Tu navegador no tiene soporte para el elemento de <code>audio</code>.
 
 ### Información adicional para los líderes del club
 
-Si necesitas imprimir este proyecto, usa la [versión para imprimir](https://projects.raspberrypi.org/es-LA/projects/compose-tune/print).
+Si necesitas imprimir este proyecto, por favor usa la [versión para imprimir](https://projects.raspberrypi.org/es-LA/projects/compose-tune/print).
 
 --- collapse ---
 ---
@@ -34,7 +34,7 @@ Puedes encontrar una versión completa de este proyecto haciendo clic en el enla
 * doorbell.txt
 * doorbell.mp3
 
-## Objetivos del Aprendizaje
+## Objetivos de Aprendizaje
 
 * Tocando notas musicales usando números midi
 * Repetición
@@ -47,11 +47,11 @@ Este proyecto incluye elementos de los siguientes aspectos del [Currículo de cr
 
 * "Mejorar el timbre": intenta usar diferentes notas y tiempos para mejorar el timbre de la puerta.
 * "Repetir 4 veces" - ¡haz que el timbre de la puerta se repita 4 veces para que sea realmente molesto!
-* "Componer una nueva melodía" - utilizar las habilidades aprendidas para programar una nueva melodía, como un tono de llamada de teléfono móvil.
+* "Compón una nueva melodía" - utilizar las habilidades aprendidas para programar una nueva melodía, como, por ejemplo, un tono de llamada de un teléfono móvil.
 
 ## Preguntas frecuentes
 
-* Los números utilizados son números midi, los números 21 a 108 corresponden a las notas en el piano.
+* Los números utilizados son números midi, los números del 21 a 108 corresponden a las notas del piano.
 * En el Raspberry Pi puedes usar `aplay` desde la línea de comandos para reproducir archivos `.wav`.
 
 --- /collapse ---
