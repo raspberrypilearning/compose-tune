@@ -1,6 +1,6 @@
 --- challenge ---
 
-## Desafío: Componer una nueva melodía
+## Desafío: Compón una nueva melodía
 
 Ahora toma lo que has aprendido y compón tu propia canción. Podría ser un timbre de puerta, un tono de teléfono móvil o notificación.
 
