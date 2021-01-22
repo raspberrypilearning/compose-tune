@@ -34,7 +34,7 @@ Puedes encontrar una versión completa de este proyecto haciendo clic en el enla
 * Tocando notas musicales usando números midi
 * Repetición
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
+Este proyecto incluye elementos de los siguientes aspectos del [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Usar estructuras de programación básicas para crear programas simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
@@ -46,7 +46,7 @@ This project covers elements from the following strands of the [Raspberry Pi Dig
 
 ## Preguntas frecuentes
 
-* Los números utilizados son números midi, los números 21 a 108 corresponden a las notas en el piano.
+* Los números utilizados son números midi, los números del 21 al 108 corresponden a las notas del piano.
 * En la Raspberry Pi puedes usar `aplay` desde la línea de comandos para reproducir archivos `.wav`.
 
 \--- /collapse \---
