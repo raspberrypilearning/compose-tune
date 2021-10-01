@@ -34,7 +34,7 @@
 * Виконання музичних нот за допомогою кодів MIDI
 * Цикли
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
+Цей проєкт охоплює елементи з наступних напрямків [Електронного навчального плану Raspberry Pi](https://rpf.io/curriculum):
 
 * [Використання основних програмних конструкцій для створення простих програм.](https://www.raspberrypi.org/curriculum/programming/creator)
 
