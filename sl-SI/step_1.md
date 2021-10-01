@@ -8,7 +8,7 @@ V tem projektu boš sprogramiral-a kratko melodijo. Lahko jo uporabiš kot zvok 
 
 ### Dodatne informacije za vodje klubov
 
-Za tiskanje tega projekta, prosimo uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/en/projects/compose-tune/print).
+Za tiskanje tega projekta, prosimo uporabite [tiskalniku prijazno različico](https://projects.raspberrypi.org/sl-SI/projects/compose-tune/print).
 
 ## \--- collapse \---
 
@@ -34,7 +34,7 @@ Dokončano različico tega projekta najdete s klikom na povezavo 'Projektni mate
 * Predvajanje glasbenih not z uporabo midi številk
 * Ponavljanje
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
+Ta projekt zajema elemente iz [učnega načrta Raspberry Pi za digitalno ustvarjanje](https://rpf.io/curriculum):
 
 * [Uporaba osnovnih programskih konstruktov za ustvarjanje preprostih programov.](https://www.raspberrypi.org/curriculum/programming/creator)
 
