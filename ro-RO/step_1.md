@@ -34,7 +34,7 @@ Poți găsi o versiune completă a acestui proiect dând click pe link-ul „Mat
 * Redarea de note muzicale folosind notarea MIDI
 * Repetarea folosind bucle
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
+Acest proiect acoperă elemente din următoarele domenii ale [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
 
 * [Folosirea unor structuri de bază în programare pentru a crea programe simple.](https://www.raspberrypi.org/curriculum/programming/creator)
 
