@@ -34,7 +34,7 @@
 * عزف النوتات الموسيقية بأستخدام أرقام MIDI
 * التكرار
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
+يتناول هذا المشروع عناصر من معايير المناهج الرقمية الخاصة بـ [Raspberry Pi](https://rpf.io/curriculum):
 
 * [استخدم أدوات البرمجة الأساسية لإنشاء برامج بسيطة.](https://www.raspberrypi.org/curriculum/programming/creator)
 
