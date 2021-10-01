@@ -34,7 +34,7 @@ Il link "Materiali del progetto" per questo progetto contiene le seguenti risors
 * Suonare note musicali usando i numeri MIDI
 * Ripetizione
 
-This project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](https://rpf.io/curriculum):
+Questo progetto include elementi tratti dalle seguenti componenti del [Digital Making Curriculum di Raspberry Pi](https://rpf.io/curriculum):
 
 * [Utilizzare i costrutti base di un linguaggio di programmazione per creare programmi semplici.](https://www.raspberrypi.org/curriculum/programming/creator)
 
