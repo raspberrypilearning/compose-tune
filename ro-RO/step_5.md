@@ -2,6 +2,6 @@
 
 ## Provocare: Repetă de 4 ori
 
-Can you make the doorbell repeat 4 times to be really annoying?
+Poți să faci soneria să se repete de 4 ori pentru a fi cu adevărat enervantă?
 
 \--- /challenge \---
