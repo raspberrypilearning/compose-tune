@@ -3,10 +3,9 @@
 Dans ce projet, tu programmeras une mélodie courte. Elle peut être utilisée comme une sonnette de porte, une sonnerie de téléphone mobile, une notification d'alerte sur ton ordinateur ou incluse dans une page Web.
 
 <div id="audio-preview" class="pdf-hidden">
-Clique sur le bouton «play» ci-dessous pour entendre comment la sonnerie de porte sonnera: 
+Clique sur le bouton « play » ci-dessous pour entendre comment la sonnerie de porte sonnera : 
 <audio controls preload> 
-  <source src="resources/doorbell.mp3" type="audio/mpeg"> 
-Ton navigateur ne supporte pas l'élément <code>audio</code>. 
+  <source src="resources/doorbell.mp3" type="audio/mpeg"> Ton navigateur ne supporte pas l'élément <code>audio</code>. 
 </audio>
 </div>
 
@@ -19,17 +18,17 @@ Si vous avez besoin d'imprimer ce projet, merci d'utiliser la [version imprimabl
 title: Notes pour le responsable de club
 ---
 
-## Introduction:
+## Introduction :
 
 Dans le cadre de ce projet, les enfants programmeront une sonnerie de porte pour apprendre à jouer des notes musicales en utilisant des nombres et utiliser la répétition pour répéter des notes.
 
 ## Ressources
 
-Le lien «Matériaux du projet» pour ce projet contient les ressources suivantes:
+Le lien « Matériaux du projet » pour ce projet contient les ressources suivantes :
 
 ##### Ressources pour le responsable de club
 
-Vous pouvez trouver une version terminée de ce projet en cliquant sur le lien «Matériaux du projet» pour ce projet, qui contient:
+Vous pouvez trouver une version terminée de ce projet en cliquant sur le lien « Matériaux du projet » pour ce projet, qui contient :
 
 * doorbell.txt
 * doorbell.mp3
@@ -39,15 +38,15 @@ Vous pouvez trouver une version terminée de ce projet en cliquant sur le lien �
 * Jouer des notes musicales en utilisant des numéros midi
 * Répétition
 
-Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Création Numérique](https://rpf.io/curriculum):
+Ce projet couvre les éléments suivants du [Programme Raspberry Pi de Créativité Numérique](https://rpf.io/curriculum):
 
 * [Utiliser des constructions de programmation de base pour créer des programmes simples.](https://www.raspberrypi.org/curriculum/programming/creator)
 
 ## Défis
 
-* «Améliorer la sonnerie» - essaie d'utiliser différents notes et timings pour améliorer la sonnette de porte.
-* «Répéter 4 fois» - fais que la sonnerie de porte se répète 4 fois pour être vraiment ennuyeux!
-* «Composer une nouvelle mélodie» - utilise les compétences apprises pour programmer une nouvelle mélodie comme une sonnerie de téléphone mobile.
+* « Améliorer la sonnerie » - essaie d'utiliser différentes notes et rythmes pour améliorer la sonnette de porte.
+* « Répéter 4 fois » - fais que la sonnerie de porte se répète 4 fois pour être vraiment ennuyeux !
+* « Composer une nouvelle mélodie » - utilise les compétences apprises pour programmer une nouvelle mélodie comme une sonnerie de téléphone portable.
 
 ## Foire aux questions
 

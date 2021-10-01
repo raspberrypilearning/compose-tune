@@ -1,16 +1,16 @@
 ## Répéter la sonnerie
 
-Les sonneries de porte répètent souvent la sonnerie.
+Les sonnettes de porte répètent souvent la sonnerie.
 
-+ Mettons la sonnette de la porte dans une boucle:
++ Mettons la sonnette de la porte dans une boucle :
     
     ![capture d'écran](images/tune-times.png)
     
-    Sonic Pi indentera utilement le code de la sonnerie de porte à l'intérieur de la boucle `times`.
+    Sonic Pi indentera utilement le code de la sonnerie à l'intérieur de la boucle `times`.
 
-+ Écoute la sonnerie. C'est ce que tu attendais?
++ Écoute la sonnerie. C'est ce que à quoi tu t'attendais ?
     
-    Tu devras ajouter une ligne `sleep` à la fin pour qu'il y ait une pause avant de répéter:
+    Tu devras ajouter une ligne `sleep` à la fin pour qu'il y ait une pause avant de répéter :
     
     ![capture d'écran](images/tune-sleep2.png)
 
