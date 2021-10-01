@@ -1,7 +1,7 @@
 --- challenge ---
 
-## Défi: Répéter 4 fois
+## Défi : Répéter 4 fois
 
-Peux-tu faire que la sonnette de porte se répète 4 fois pour être vraiment ennuyeux!
+Peux-tu faire sonner 4 fois la sonnerie pour être vraiment embêtant ?
 
 --- /challenge ---
