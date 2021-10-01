@@ -2,6 +2,6 @@
 
 ## Uitdaging: herhaal 4 keer
 
-Can you make the doorbell repeat 4 times to be really annoying?
+Kun je de deurbel 4 keer laten herhalen om echt vervelend te zijn!
 
 \--- /challenge \---
