@@ -2,6 +2,6 @@
 
 ## Repte: Repeteix-lo 4 vegades
 
-Can you make the doorbell repeat 4 times to be really annoying?
+Pot fer que el timbre es repeteixi 4 vegades per fer que molesti molt!
 
 \--- /repte \---
