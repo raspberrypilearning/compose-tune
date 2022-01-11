@@ -10,17 +10,19 @@ title: Compune-ți propria melodie
 description: Folosește Sonic Pi pentru a crea un sunet de sonerie
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: music
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: projects
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducere
-  - title: Redă primele tale note
-  - title: 'Provocare: Îmbunătățește soneria'
-  - title: Repetă soneria
-  - title: 'Provocare: Repetă de 4 ori'
-  - title: Înregistrarea soneriei
-  - title: 'Provocare: Compune o nouă melodie'
+- title: Introducere
+  completion: engaged
+- title: Redă primele tale note
+- title: 'Provocare: Îmbunătățește soneria'
+- title: Repetă soneria
+- title: 'Provocare: Repetă de 4 ori'
+- title: Înregistrarea soneriei
+  completion: internal
+- title: 'Provocare: Compune o nouă melodie'

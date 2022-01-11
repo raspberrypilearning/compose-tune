@@ -10,17 +10,19 @@ title: Componeer je eigen deuntje
 description: Gebruik Sonic Pi om een coole deurbel te maken
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: music
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: projects
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Inleiding
-  - title: Speel je eerste noten
-  - title: 'Uitdaging: verbeter de bel'
-  - title: Herhaal de bel
-  - title: 'Uitdaging: herhaal 4 keer'
-  - title: Je bel opnemen
-  - title: 'Uitdaging: componeer een nieuw deuntje'
+- title: Inleiding
+  completion: engaged
+- title: Speel je eerste noten
+- title: 'Uitdaging: verbeter de bel'
+- title: Herhaal de bel
+- title: 'Uitdaging: herhaal 4 keer'
+- title: Je bel opnemen
+  completion: internal
+- title: 'Uitdaging: componeer een nieuw deuntje'

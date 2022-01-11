@@ -10,17 +10,19 @@ title: Composa la teva melodia
 description: Utilitza Sonic Pi per crear timbres de porta guais
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: music
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: projects
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introducció
-  - title: Reprodueix les primeres notes
-  - title: 'Repte: Millora el timbre'
-  - title: Fes que el so del timbre es repeteixi
-  - title: 'Repte: Repeteix-lo 4 vegades'
-  - title: Enregistra el teu timbre
-  - title: 'Repte: Composa una nova melodia'
+- title: Introducció
+  completion: engaged
+- title: Reprodueix les primeres notes
+- title: 'Repte: Millora el timbre'
+- title: Fes que el so del timbre es repeteixi
+- title: 'Repte: Repeteix-lo 4 vegades'
+- title: Enregistra el teu timbre
+  completion: internal
+- title: 'Repte: Composa una nova melodia'

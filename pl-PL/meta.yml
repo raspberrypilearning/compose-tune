@@ -10,17 +10,19 @@ title: Skomponuj swoją własną melodię
 description: Użyj Sonic Pi, aby stworzyć fajny dzwonek do drzwi
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: muzyka
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: projects
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Wprowadzenie
-  - title: Zagraj swoje pierwsze nuty
-  - title: 'Wyzwanie: Ulepsz dźwięk dzwonka'
-  - title: Powtórz dzwonek
-  - title: 'Wyzwanie: Powtórz 4 razy'
-  - title: Nagraj swój dzwonek
-  - title: 'Wyzwanie: Skomponuj nową melodię'
+- title: Wprowadzenie
+  completion: engaged
+- title: Zagraj swoje pierwsze nuty
+- title: 'Wyzwanie: Ulepsz dźwięk dzwonka'
+- title: Powtórz dzwonek
+- title: 'Wyzwanie: Powtórz 4 razy'
+- title: Nagraj swój dzwonek
+  completion: internal
+- title: 'Wyzwanie: Skomponuj nową melodię'
