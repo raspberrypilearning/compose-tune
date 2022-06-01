@@ -10,17 +10,21 @@ title: Ustvari lastno melodijo
 description: Uporabi Sonic Pi za ustvarjanje odštekanega zvonca
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: music
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: projects
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Uvod
-  - title: Zaigraj svoje prve note
-  - title: 'Izziv: Izboljšaj zvonec'
-  - title: Ponovi zvonjenje
-  - title: 'Izziv: Ponovi štirikrat'
-  - title: Snemanje zvonca
-  - title: 'Izziv: Ustvari novo melodijo'
+- title: Uvod
+- title: Zaigraj svoje prve note
+- title: 'Izziv: Izboljšaj zvonec'
+- title: Ponovi zvonjenje
+  completion:
+  - engaged
+- title: 'Izziv: Ponovi štirikrat'
+- title: Snemanje zvonca
+  completion:
+  - internal
+- title: 'Izziv: Ustvari novo melodijo'

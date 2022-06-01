@@ -10,17 +10,21 @@ title: Componi la tua melodia
 description: Usa Sonic Pi per creare un bel campanello
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: music
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: projects
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Introduzione
-  - title: Suona le tue prime note
-  - title: 'Sfida: Migliora lo squillo'
-  - title: Ripeti lo squillo
-  - title: 'Sfida: Ripeti 4 volte'
-  - title: Registra il tuo squillo
-  - title: 'Sfida: Componi una nuova melodia'
+- title: Introduzione
+- title: Suona le tue prime note
+- title: 'Sfida: Migliora lo squillo'
+- title: Ripeti lo squillo
+  completion:
+  - engaged
+- title: 'Sfida: Ripeti 4 volte'
+- title: Registra il tuo squillo
+  completion:
+  - internal
+- title: 'Sfida: Componi una nuova melodia'

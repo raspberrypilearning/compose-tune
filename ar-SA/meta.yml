@@ -10,17 +10,21 @@ title: تأليف لحناً خاص بك
 description: أستخدم Sonic Pi لأنشاء لحناً رائعاً لجرس الباب
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: موسيقى
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: codeclub, python
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: المقدمة
-  - title: أعزف لحنك الأول
-  - title: 'التحدي: تحسين اللحن'
-  - title: تكرار اللحن
-  - title: 'التحدي: كرر 4 مرات'
-  - title: تسجيل اللحن
-  - title: 'التحدي: تأليف لحناً جديداً'
+- title: المقدمة
+- title: أعزف لحنك الأول
+- title: 'التحدي: تحسين اللحن'
+- title: تكرار اللحن
+  completion:
+  - engaged
+- title: 'التحدي: كرر 4 مرات'
+- title: تسجيل اللحن
+  completion:
+  - internal
+- title: 'التحدي: تأليف لحناً جديداً'

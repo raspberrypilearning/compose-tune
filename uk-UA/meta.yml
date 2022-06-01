@@ -10,17 +10,21 @@ title: Створи власну мелодію
 description: Використай Sonic Pi для створеня класного звуку дверного дзвінка
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: music
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: projects
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: Вступ
-  - title: Зіграй свої перші ноти
-  - title: 'Завдання: покращи дзвін'
-  - title: Повтори дзвін
-  - title: 'Завдання: повтори 4 рази'
-  - title: Запис свого дзвону
-  - title: 'Завдання: створи нову мелодію'
+- title: Вступ
+- title: Зіграй свої перші ноти
+- title: 'Завдання: покращи дзвін'
+- title: Повтори дзвін
+  completion:
+  - engaged
+- title: 'Завдання: повтори 4 рази'
+- title: Запис свого дзвону
+  completion:
+  - internal
+- title: 'Завдання: створи нову мелодію'

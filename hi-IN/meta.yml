@@ -10,17 +10,21 @@ title: अपनी खुद की धुन रचें
 description: एक अच्छी डोरबेल की आवाज़ बनाने के लिए Sonic Pi का उपयोग करें
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: music
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: projects
 hardware: ''
 software: ''
 version: 3
 last_tested: 2017-01-01
 steps:
-  - title: परिचय
-  - title: अपने पहले स्वर बजाएँ
-  - title: 'चुनौती: झंकार में सुधार करना'
-  - title: झंकार को दोहराना
-  - title: 'चुनौती: 4 बार दोहराना'
-  - title: अपनी झंकार को रिकॉर्ड करना
-  - title: 'चुनौती: एक नई धुन की रचना करना'
+- title: परिचय
+- title: अपने पहले स्वर बजाएँ
+- title: 'चुनौती: झंकार में सुधार करना'
+- title: झंकार को दोहराना
+  completion:
+  - engaged
+- title: 'चुनौती: 4 बार दोहराना'
+- title: अपनी झंकार को रिकॉर्ड करना
+  completion:
+  - internal
+- title: 'चुनौती: एक नई धुन की रचना करना'
