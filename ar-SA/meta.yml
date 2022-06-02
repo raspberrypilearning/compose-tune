@@ -18,11 +18,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: المقدمة
-  completion: engaged
 - title: أعزف لحنك الأول
 - title: 'التحدي: تحسين اللحن'
 - title: تكرار اللحن
+  completion:
+  - engaged
 - title: 'التحدي: كرر 4 مرات'
 - title: تسجيل اللحن
-  completion: internal
+  completion:
+  - internal
 - title: 'التحدي: تأليف لحناً جديداً'

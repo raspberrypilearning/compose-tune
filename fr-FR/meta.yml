@@ -18,11 +18,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Jouer tes premières notes
 - title: 'Défi : Améliore la sonnerie'
 - title: Répéter la sonnerie
+  completion:
+  - engaged
 - title: 'Défi : Répéter 4 fois'
 - title: Enregistrement de ta sonnerie
-  completion: internal
+  completion:
+  - internal
 - title: 'Défi : Composer une nouvelle mélodie'

@@ -18,11 +18,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introduction
-  completion: engaged
 - title: Play your first notes
 - title: 'Challenge: Improve the chime'
 - title: Repeat the chime
+  completion:
+  - engaged
 - title: 'Challenge: Repeat 4 times'
 - title: Recording your chime
-  completion: internal
+  completion:
+  - internal
 - title: 'Challenge: Compose a new tune'

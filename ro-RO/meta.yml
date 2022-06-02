@@ -18,11 +18,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introducere
-  completion: engaged
 - title: Redă primele tale note
 - title: 'Provocare: Îmbunătățește soneria'
 - title: Repetă soneria
+  completion:
+  - engaged
 - title: 'Provocare: Repetă de 4 ori'
 - title: Înregistrarea soneriei
-  completion: internal
+  completion:
+  - internal
 - title: 'Provocare: Compune o nouă melodie'

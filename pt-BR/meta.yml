@@ -18,11 +18,13 @@ version: 3
 last_tested: 01/01/2017
 steps:
 - title: Introdução
-  completion: engaged
 - title: Toque suas primeiras notas
 - title: 'Desafio: Melhore a harmonia'
 - title: Repita a harmonia
+  completion:
+  - engaged
 - title: 'Desafio: Repita 4 vezes'
 - title: Gravando sua harmonia
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafio: Componha uma nova música'

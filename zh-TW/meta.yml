@@ -18,11 +18,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: 介紹
-  completion: engaged
 - title: 演奏你的第一個音符
 - title: 挑戰：改造鈴聲
 - title: 重複鈴聲
+  completion:
+  - engaged
 - title: 挑戰：將鈴聲重複四次
 - title: 錄下你的鈴聲
-  completion: internal
+  completion:
+  - internal
 - title: 挑戰：創作新曲調

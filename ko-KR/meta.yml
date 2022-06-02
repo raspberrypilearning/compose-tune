@@ -18,11 +18,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: 소개
-  completion: engaged
 - title: 첫 음 연주하기
 - title: '도전과제: 벨소리 발전시키기'
 - title: 벨소리 반복하기
+  completion:
+  - engaged
 - title: '도전과제: 4번 반복하기'
 - title: 벨소리 녹음하기
-  completion: internal
+  completion:
+  - internal
 - title: '도전과제: 새로운 음악 작곡하기'

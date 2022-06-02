@@ -18,11 +18,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Einleitung
-  completion: engaged
 - title: Spiele die ersten Töne
 - title: 'Herausforderung: Verbessere die Tonfolge'
 - title: Wiederhole die Tonfolge
+  completion:
+  - engaged
 - title: 'Herausforderung: 4 mal wiederholen'
 - title: Aufzeichnung deiner Tonfolge
-  completion: internal
+  completion:
+  - internal
 - title: 'Herausforderung: Komponiere eine neue Melodie'

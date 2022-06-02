@@ -18,11 +18,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Εισαγωγή
-  completion: engaged
 - title: Παίξε τις πρώτες σου νότες
 - title: 'Πρόκληση: Βελτίωσε τον ήχο'
 - title: Επανάληψη του ήχου
+  completion:
+  - engaged
 - title: 'Πρόκληση: Επανέλαβε 4 φορές'
 - title: Ηχογράφηση του ήχου σου
-  completion: internal
+  completion:
+  - internal
 - title: 'Πρόκληση: Δημιούργησε νέα μελωδία'

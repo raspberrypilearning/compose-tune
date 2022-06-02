@@ -18,11 +18,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Вступ
-  completion: engaged
 - title: Зіграй свої перші ноти
 - title: 'Завдання: покращи дзвін'
 - title: Повтори дзвін
+  completion:
+  - engaged
 - title: 'Завдання: повтори 4 рази'
 - title: Запис свого дзвону
-  completion: internal
+  completion:
+  - internal
 - title: 'Завдання: створи нову мелодію'

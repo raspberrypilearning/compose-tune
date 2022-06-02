@@ -18,11 +18,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Uvod
-  completion: engaged
 - title: Zaigraj svoje prve note
 - title: 'Izziv: Izboljšaj zvonec'
 - title: Ponovi zvonjenje
+  completion:
+  - engaged
 - title: 'Izziv: Ponovi štirikrat'
 - title: Snemanje zvonca
-  completion: internal
+  completion:
+  - internal
 - title: 'Izziv: Ustvari novo melodijo'

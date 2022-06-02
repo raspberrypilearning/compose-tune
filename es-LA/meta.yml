@@ -18,11 +18,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Introducción
-  completion: engaged
 - title: Toca tus primeras notas
 - title: 'Desafío: Mejorar el timbre'
 - title: Repetir el timbre
+  completion:
+  - engaged
 - title: 'Desafío: Repetir 4 veces'
 - title: Grabando tu timbre
-  completion: internal
+  completion:
+  - internal
 - title: 'Desafío: Compón una nueva melodía'

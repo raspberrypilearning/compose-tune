@@ -18,11 +18,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: Wprowadzenie
-  completion: engaged
 - title: Zagraj swoje pierwsze nuty
 - title: 'Wyzwanie: Ulepsz dźwięk dzwonka'
 - title: Powtórz dzwonek
+  completion:
+  - engaged
 - title: 'Wyzwanie: Powtórz 4 razy'
 - title: Nagraj swój dzwonek
-  completion: internal
+  completion:
+  - internal
 - title: 'Wyzwanie: Skomponuj nową melodię'

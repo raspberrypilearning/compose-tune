@@ -18,11 +18,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: परिचय
-  completion: engaged
 - title: अपने पहले स्वर बजाएँ
 - title: 'चुनौती: झंकार में सुधार करना'
 - title: झंकार को दोहराना
+  completion:
+  - engaged
 - title: 'चुनौती: 4 बार दोहराना'
 - title: अपनी झंकार को रिकॉर्ड करना
-  completion: internal
+  completion:
+  - internal
 - title: 'चुनौती: एक नई धुन की रचना करना'

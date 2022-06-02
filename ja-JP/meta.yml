@@ -18,11 +18,13 @@ version: 3
 last_tested: 2017-01-01
 steps:
 - title: はじめに
-  completion: engaged
 - title: 最初の音符を演奏する
 - title: チャレンジ：呼び鈴をより良くする
 - title: 呼び鈴をくり返す
+  completion:
+  - engaged
 - title: チャレンジ：4回くり返す
 - title: 呼び鈴を録音する
-  completion: internal
+  completion:
+  - internal
 - title: チャレンジ：新しい音色をつくる
