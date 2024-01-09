@@ -10,7 +10,7 @@ title: Compose ta propre mélodie
 description: Utilise Sonic Pi pour créer un sonnette de porte sympa
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: musique
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: projets
 hardware: ''
 software: ''
@@ -25,9 +25,13 @@ steps:
     title: 'Défi : Améliore la sonnerie'
   - 
     title: Répéter la sonnerie
+    completion:
+      - engaged
   - 
     title: 'Défi : Répéter 4 fois'
   - 
     title: Enregistrement de ta sonnerie
+    completion:
+      - internal
   - 
     title: 'Défi : Composer une nouvelle mélodie'
