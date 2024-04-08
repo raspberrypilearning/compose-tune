@@ -12,7 +12,7 @@ Sonic Pi pozwala programować muzykę. Zacznijmy od zagrania prostych nut.
     
     ![zrzut ekranu](images/tune-play.png)
 
-+ Kliknij „Run". Czy słyszałeś nutę? Jeśli nie, upewnij się, że dźwięk nie jest wyciszony na komputerze i że głośność jest wystarczająco głośna. Jeśli dźwięk jest zagłośny, ścisz go.
++ Kliknij „Run". Czy słyszałeś nutę? Jeśli nie, upewnij się, że dźwięk nie jest wyciszony na komputerze i że głośność jest wystarczająco głośna. Jeśli dźwięk jest za głośny, ścisz go.
     
     Jeśli używasz Raspberry Pi, upewnij się, że używasz monitora HDMI z głośnikami lub że masz głośniki lub słuchawki podłączone do gniazda audio (gniazdo jack).
     
@@ -39,6 +39,6 @@ Sonic Pi pozwala programować muzykę. Zacznijmy od zagrania prostych nut.
     
     ![zrzut ekranu](images/tune-save.png)
     
-    Jeśli nie jesteś pewien, zapytaj się ze swojego Lidera Klubu, gdzie powinieneś zapisać plik.
+    Jeśli nie jesteś pewien, zapytaj się swojego Lidera Klubu, gdzie powinieneś zapisać plik.
     
     Możesz załadować pliki z powrotem do Sonic Pi, klikając „Load”.
