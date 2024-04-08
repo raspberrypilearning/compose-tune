@@ -16,7 +16,7 @@ Jeśli chcesz wydrukować ten projekt, użyj [wersji do druku](https://projects.
 
 ## Wprowadzenie:
 
-W tym projekcie dzieci zaprogramują dzwonek do drzwi, aby nauczyć się grać nuty za pomocą liczb i powtarzania dźwięków za pomocą powtarzania.
+W tym projekcie dzieci będą programować dźwięk dzwonka do drzwi, aby nauczyć się odtwarzania nut przy użyciu liczb oraz wykorzystywać powtórzenia do powtarzania dźwięków.
 
 ## Zasoby
 
@@ -41,7 +41,7 @@ Projekt ten obejmuje elementy z następujących wątków [Cyfrowego programu nau
 ## Wyzwania
 
 * „Ulepsz dzwonek” - spróbuj użyć różnych nut i czasów, aby poprawić dźwięk dzwonka.
-* „Powtórz 4 razy” - spraw, aby dzwonek do drzwi powtórzył 4 razy, aby był naprawdę denerwujący!
+* „Powtórz 4 razy” - spraw, aby dzwonek do drzwi powtórzył się 4 razy, aby był naprawdę denerwujący!
 * „Utwórz nową melodię” - wykorzystaj umiejętności nabyte podczas programowania nowej melodii, na przykład dzwonka telefonu komórkowego.
 
 ## Najczęściej Zadawane Pytania
