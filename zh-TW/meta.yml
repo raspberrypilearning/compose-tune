@@ -10,7 +10,7 @@ title: 創作屬於自己的曲調
 description: 使用 Sonic Pi 來創造酷炫的門鈴聲
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: 音樂
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: projects
 hardware: ''
 software: ''
@@ -25,9 +25,13 @@ steps:
     title: '挑戰：改造鈴聲'
   - 
     title: 重複鈴聲
+    completion:
+      - engaged
   - 
     title: '挑戰：將鈴聲重複四次'
   - 
     title: 錄下你的鈴聲
+    completion:
+      - internal
   - 
     title: '挑戰：創作新曲調'
