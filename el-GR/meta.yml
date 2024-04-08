@@ -10,7 +10,7 @@ title: Συνέθεσε τη δική σου μελωδία
 description: Χρησιμοποίησε το Sonic Pi για να δημιουργήσεις έναν φοβερό ήχο κουδουνιού
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: μουσική
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: projects
 hardware: ''
 software: ''
@@ -25,9 +25,13 @@ steps:
     title: 'Πρόκληση: Βελτίωσε τον ήχο'
   - 
     title: Επανάληψη του ήχου
+    completion:
+      - engaged
   - 
     title: 'Πρόκληση: Επανέλαβε 4 φορές'
   - 
     title: Ηχογράφηση του ήχου σου
+    completion:
+      - internal
   - 
     title: 'Πρόκληση: Δημιούργησε νέα μελωδία'
