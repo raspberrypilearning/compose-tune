@@ -6,7 +6,7 @@ Teraz nagrajmy dźwięk dzwonka do drzwi, abyś mógł go odtworzyć poza Sonic 
     
     ![zrzut ekranu](images/tune-record.png)
 
-+ Następnie kliknij "Run”, aby zagrać w dzwonek do drzwi.
++ Następnie kliknij „Uruchom”, aby odtworzyć dzwonek do drzwi.
     
     ![zrzut ekranu](images/tune-run.png)
 
