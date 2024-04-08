@@ -10,7 +10,7 @@ title: 自分の音色をつくる
 description: Sonic Piでかっこいい玄関（げんかん）の呼び鈴をつくる
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: 音楽
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: projects
 hardware: ''
 software: ''
@@ -25,9 +25,13 @@ steps:
     title: 'チャレンジ：呼び鈴をより良くする'
   - 
     title: 呼び鈴をくり返す
+    completion:
+      - engaged
   - 
     title: 'チャレンジ：4回くり返す'
   - 
     title: 呼び鈴を録音する
+    completion:
+      - internal
   - 
     title: 'チャレンジ：新しい音色をつくる'
