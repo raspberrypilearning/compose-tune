@@ -10,7 +10,7 @@ title: Redacta tu propia melodía
 description: Usa Sonic Pi para crear un timbre de puerta genial
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: música
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: proyectos
 hardware: ''
 software: ''
@@ -25,9 +25,13 @@ steps:
     title: 'Desafío: Mejorar el timbre'
   - 
     title: Repetir el timbre
+    completion:
+      - engaged
   - 
     title: 'Desafío: Repetir 4 veces'
   - 
     title: Grabando tu timbre
+    completion:
+      - internal
   - 
     title: 'Desafío: Compón una nueva melodía'
