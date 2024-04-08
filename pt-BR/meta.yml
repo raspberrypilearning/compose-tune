@@ -10,7 +10,7 @@ title: Componha sua própria música
 description: Use o Sonic Pi para criar um toque de campainha legal
 original_url: https://codeclubprojects.org/en-GB/sonic-pi/compose-tune
 interests: música
-technologies: 'sonic pi'
+technologies: sonic pi
 site_areas: projects
 hardware: ''
 software: ''
@@ -25,9 +25,13 @@ steps:
     title: 'Desafio: Melhore a harmonia'
   - 
     title: Repita a harmonia
+    completion:
+      - engaged
   - 
     title: 'Desafio: Repita 4 vezes'
   - 
     title: Gravando sua harmonia
+    completion:
+      - internal
   - 
     title: 'Desafio: Componha uma nova música'
