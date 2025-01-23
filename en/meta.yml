@@ -28,3 +28,5 @@ steps:
   completion:
   - internal
 - title: 'Challenge: Compose a new tune'
+  completion:
+  - external
